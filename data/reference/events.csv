@@ -1,0 +1,1053 @@
+event_key,incident_type,severity_level,route_key
+EVT-00001,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00002,Maritime Corridor Suspension,Moderate,Suez Canal
+EVT-00003,Houthi Anti-Ship Missile,Minor,Strait of Hormuz
+EVT-00004,IRGC Fast-Boat Harassment,Moderate,Persian Gulf – Bay of Bengal
+EVT-00005,Coalition Naval Escort Delay,Critical,Aden Gulf – Indian Ocean
+EVT-00006,Drone Strike Near Vessel,Severe,Suez Canal
+EVT-00007,Oil Spill from Damaged Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00008,Insurance No-Go Zone Declaration,Moderate,Persian Gulf – East China Sea
+EVT-00009,Drone Strike Near Vessel,Moderate,Suez Canal
+EVT-00010,Piracy / Armed Boarding,Severe,Persian Gulf – Bay of Bengal
+EVT-00011,Port Closure (Military),Critical,Suez Canal
+EVT-00012,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00013,Unexploded Ordnance Discovery,Severe,Strait of Hormuz
+EVT-00014,Port Closure (Military),Severe,Strait of Malacca
+EVT-00015,Port Closure (Military),Critical,Bab el-Mandeb / Red Sea
+EVT-00016,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00017,Coalition Naval Escort Delay,Critical,Persian Gulf – Bay of Bengal
+EVT-00018,Insurance No-Go Zone Declaration,Minor,Persian Gulf – Sea of Japan
+EVT-00019,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00020,Oil Spill from Damaged Tanker,Minor,Persian Gulf – Sea of Japan
+EVT-00021,Oil Spill from Damaged Tanker,Moderate,Strait of Hormuz
+EVT-00022,Military Blockade Enforcement,Moderate,Persian Gulf – Bay of Bengal
+EVT-00023,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-00024,Coalition Naval Escort Delay,Moderate,Strait of Hormuz
+EVT-00025,Coalition Naval Escort Delay,Moderate,Bab el-Mandeb / Red Sea
+EVT-00026,Maritime Corridor Suspension,Minor,Bab el-Mandeb / Red Sea
+EVT-00027,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00028,Military Blockade Enforcement,Moderate,Persian Gulf – East China Sea
+EVT-00029,Unexploded Ordnance Discovery,Minor,Bab el-Mandeb / Red Sea
+EVT-00030,Insurance No-Go Zone Declaration,Minor,Persian Gulf – Sea of Japan
+EVT-00031,Insurance No-Go Zone Declaration,Moderate,Persian Gulf – Sea of Japan
+EVT-00032,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00033,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00034,Cyber-Attack on Port Systems,Severe,Strait of Hormuz
+EVT-00035,Naval Mine Detonation,Severe,Strait of Malacca
+EVT-00036,Cyber-Attack on Port Systems,Minor,Persian Gulf – Bay of Bengal
+EVT-00037,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00038,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00039,Drone Strike Near Vessel,Moderate,Bab el-Mandeb / Red Sea
+EVT-00040,GPS Spoofing / Jamming Incident,Critical,Strait of Hormuz
+EVT-00041,Unexploded Ordnance Discovery,Severe,Bab el-Mandeb / Red Sea
+EVT-00042,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-00043,Oil Spill from Damaged Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00044,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-00045,Drone Strike Near Vessel,Moderate,Strait of Hormuz
+EVT-00046,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00047,Naval Mine Detonation,Critical,Strait of Hormuz
+EVT-00048,GPS Spoofing / Jamming Incident,Moderate,Strait of Hormuz
+EVT-00049,Houthi Anti-Ship Missile,Minor,Strait of Hormuz
+EVT-00050,IRGC Fast-Boat Harassment,Critical,Suez Canal
+EVT-00051,Maritime Corridor Suspension,Severe,Suez Canal
+EVT-00052,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00053,GPS Spoofing / Jamming Incident,Severe,Persian Gulf – Bay of Bengal
+EVT-00054,Missile Attack on Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00055,Oil Spill from Damaged Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00056,Port Closure (Military),Critical,Bab el-Mandeb / Red Sea
+EVT-00057,Drone Strike Near Vessel,Severe,Suez Canal
+EVT-00058,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00059,Maritime Corridor Suspension,Minor,Suez Canal
+EVT-00060,Cyber-Attack on Port Systems,Severe,Bab el-Mandeb / Red Sea
+EVT-00061,Oil Spill from Damaged Tanker,Minor,Strait of Hormuz
+EVT-00062,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00063,Maritime Corridor Suspension,Critical,Bab el-Mandeb / Red Sea
+EVT-00064,Unexploded Ordnance Discovery,Severe,Suez Canal
+EVT-00065,IRGC Fast-Boat Harassment,Severe,Suez Canal
+EVT-00066,Missile Attack on Tanker,Minor,Suez Canal
+EVT-00067,Piracy / Armed Boarding,Critical,Persian Gulf – Sea of Japan
+EVT-00068,Unexploded Ordnance Discovery,Minor,Suez Canal
+EVT-00069,Insurance No-Go Zone Declaration,Moderate,Suez Canal
+EVT-00070,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00071,Drone Strike Near Vessel,Moderate,Cape of Good Hope (reroute)
+EVT-00072,Drone Strike Near Vessel,Severe,Bab el-Mandeb / Red Sea
+EVT-00073,Maritime Corridor Suspension,Severe,Strait of Hormuz
+EVT-00074,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00075,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00076,Naval Mine Detonation,Severe,Suez Canal
+EVT-00077,Piracy / Armed Boarding,Moderate,Bab el-Mandeb / Red Sea
+EVT-00078,IRGC Fast-Boat Harassment,Critical,Suez Canal
+EVT-00079,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00080,Cyber-Attack on Port Systems,Severe,Bab el-Mandeb / Red Sea
+EVT-00081,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00082,Insurance No-Go Zone Declaration,Critical,Strait of Hormuz
+EVT-00083,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00084,Military Blockade Enforcement,Moderate,Bab el-Mandeb / Red Sea
+EVT-00085,Drone Strike Near Vessel,Minor,Bab el-Mandeb / Red Sea
+EVT-00086,Piracy / Armed Boarding,Minor,Suez Canal
+EVT-00087,Piracy / Armed Boarding,Severe,Cape of Good Hope (reroute)
+EVT-00088,Unexploded Ordnance Discovery,Moderate,Strait of Hormuz
+EVT-00089,Naval Mine Detonation,Moderate,Persian Gulf – East China Sea
+EVT-00090,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00091,Port Closure (Military),Minor,Persian Gulf – Bay of Bengal
+EVT-00092,Houthi Anti-Ship Missile,Severe,Strait of Hormuz
+EVT-00093,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00094,GPS Spoofing / Jamming Incident,Critical,Strait of Malacca
+EVT-00095,GPS Spoofing / Jamming Incident,Moderate,Bab el-Mandeb / Red Sea
+EVT-00096,IRGC Fast-Boat Harassment,Minor,Suez Canal
+EVT-00097,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00098,Coalition Naval Escort Delay,Moderate,Persian Gulf – Sea of Japan
+EVT-00099,Port Closure (Military),Moderate,Suez Canal
+EVT-00100,Military Blockade Enforcement,Minor,Arabian Sea – South China Sea
+EVT-00101,Maritime Corridor Suspension,Moderate,Strait of Hormuz
+EVT-00102,Houthi Anti-Ship Missile,Minor,Suez Canal
+EVT-00103,GPS Spoofing / Jamming Incident,Critical,Cape of Good Hope (reroute)
+EVT-00104,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00105,Insurance No-Go Zone Declaration,Minor,Persian Gulf – East China Sea
+EVT-00106,Insurance No-Go Zone Declaration,Severe,Bab el-Mandeb / Red Sea
+EVT-00107,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00108,Unexploded Ordnance Discovery,Severe,Suez Canal
+EVT-00109,Houthi Anti-Ship Missile,Severe,Strait of Malacca
+EVT-00110,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00111,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-00112,Unexploded Ordnance Discovery,Moderate,Aden Gulf – Indian Ocean
+EVT-00113,Military Blockade Enforcement,Minor,Aden Gulf – Indian Ocean
+EVT-00114,Coalition Naval Escort Delay,Moderate,Bab el-Mandeb / Red Sea
+EVT-00115,IRGC Fast-Boat Harassment,Severe,Strait of Malacca
+EVT-00116,Naval Mine Detonation,Moderate,Suez Canal
+EVT-00117,Missile Attack on Tanker,Severe,Persian Gulf – East China Sea
+EVT-00118,Naval Mine Detonation,Critical,Cape of Good Hope (reroute)
+EVT-00119,Naval Mine Detonation,Severe,Aden Gulf – Indian Ocean
+EVT-00120,Naval Mine Detonation,Minor,Strait of Hormuz
+EVT-00121,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00122,Cyber-Attack on Port Systems,Minor,Persian Gulf – Bay of Bengal
+EVT-00123,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00124,Unexploded Ordnance Discovery,Severe,Suez Canal
+EVT-00125,Military Blockade Enforcement,Minor,Cape of Good Hope (reroute)
+EVT-00126,Military Blockade Enforcement,Severe,Strait of Hormuz
+EVT-00127,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00128,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00129,Oil Spill from Damaged Tanker,Severe,Strait of Hormuz
+EVT-00130,Cyber-Attack on Port Systems,Moderate,Cape of Good Hope (reroute)
+EVT-00131,Piracy / Armed Boarding,Minor,Suez Canal
+EVT-00132,Coalition Naval Escort Delay,Critical,Suez Canal
+EVT-00133,Insurance No-Go Zone Declaration,Moderate,Cape of Good Hope (reroute)
+EVT-00134,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00135,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00136,Insurance No-Go Zone Declaration,Severe,Bab el-Mandeb / Red Sea
+EVT-00137,Unexploded Ordnance Discovery,Severe,Bab el-Mandeb / Red Sea
+EVT-00138,Missile Attack on Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00139,Cyber-Attack on Port Systems,Moderate,Suez Canal
+EVT-00140,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-00141,Unexploded Ordnance Discovery,Minor,Bab el-Mandeb / Red Sea
+EVT-00142,Maritime Corridor Suspension,Minor,Cape of Good Hope (reroute)
+EVT-00143,IRGC Fast-Boat Harassment,Moderate,Bab el-Mandeb / Red Sea
+EVT-00144,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00145,Military Blockade Enforcement,Minor,Strait of Hormuz
+EVT-00146,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00147,Houthi Anti-Ship Missile,Severe,Bab el-Mandeb / Red Sea
+EVT-00148,Unexploded Ordnance Discovery,Severe,Bab el-Mandeb / Red Sea
+EVT-00149,Port Closure (Military),Moderate,Suez Canal
+EVT-00150,Naval Mine Detonation,Minor,Strait of Hormuz
+EVT-00151,Piracy / Armed Boarding,Severe,Persian Gulf – East China Sea
+EVT-00152,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00153,GPS Spoofing / Jamming Incident,Minor,Bab el-Mandeb / Red Sea
+EVT-00154,Drone Strike Near Vessel,Severe,Suez Canal
+EVT-00155,GPS Spoofing / Jamming Incident,Moderate,Suez Canal
+EVT-00156,Unexploded Ordnance Discovery,Critical,Strait of Hormuz
+EVT-00157,Cyber-Attack on Port Systems,Minor,Strait of Hormuz
+EVT-00158,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00159,Cyber-Attack on Port Systems,Minor,Cape of Good Hope (reroute)
+EVT-00160,Piracy / Armed Boarding,Minor,Bab el-Mandeb / Red Sea
+EVT-00161,Drone Strike Near Vessel,Moderate,Strait of Hormuz
+EVT-00162,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00163,Drone Strike Near Vessel,Minor,Suez Canal
+EVT-00164,Maritime Corridor Suspension,Critical,Cape of Good Hope (reroute)
+EVT-00165,Coalition Naval Escort Delay,Minor,Persian Gulf – Bay of Bengal
+EVT-00166,Piracy / Armed Boarding,Minor,Strait of Hormuz
+EVT-00167,IRGC Fast-Boat Harassment,Moderate,Strait of Malacca
+EVT-00168,GPS Spoofing / Jamming Incident,Minor,Bab el-Mandeb / Red Sea
+EVT-00169,Naval Mine Detonation,Critical,Suez Canal
+EVT-00170,GPS Spoofing / Jamming Incident,Minor,Strait of Hormuz
+EVT-00171,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00172,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00173,Piracy / Armed Boarding,Critical,Suez Canal
+EVT-00174,Unexploded Ordnance Discovery,Minor,Suez Canal
+EVT-00175,Insurance No-Go Zone Declaration,Critical,Persian Gulf – East China Sea
+EVT-00176,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00177,Drone Strike Near Vessel,Severe,Persian Gulf – Bay of Bengal
+EVT-00178,Oil Spill from Damaged Tanker,Severe,Strait of Hormuz
+EVT-00179,Naval Mine Detonation,Severe,Persian Gulf – Bay of Bengal
+EVT-00180,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00181,Piracy / Armed Boarding,Moderate,Bab el-Mandeb / Red Sea
+EVT-00182,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00183,Cyber-Attack on Port Systems,Severe,Bab el-Mandeb / Red Sea
+EVT-00184,Cyber-Attack on Port Systems,Moderate,Arabian Sea – South China Sea
+EVT-00185,IRGC Fast-Boat Harassment,Moderate,Strait of Hormuz
+EVT-00186,GPS Spoofing / Jamming Incident,Severe,Strait of Malacca
+EVT-00187,IRGC Fast-Boat Harassment,Severe,Bab el-Mandeb / Red Sea
+EVT-00188,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00189,Military Blockade Enforcement,Critical,Bab el-Mandeb / Red Sea
+EVT-00190,Missile Attack on Tanker,Severe,Persian Gulf – Bay of Bengal
+EVT-00191,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00192,Drone Strike Near Vessel,Minor,Strait of Hormuz
+EVT-00193,Cyber-Attack on Port Systems,Moderate,Strait of Hormuz
+EVT-00194,GPS Spoofing / Jamming Incident,Minor,Bab el-Mandeb / Red Sea
+EVT-00195,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00196,Maritime Corridor Suspension,Moderate,Suez Canal
+EVT-00197,Unexploded Ordnance Discovery,Moderate,Strait of Hormuz
+EVT-00198,Drone Strike Near Vessel,Critical,Bab el-Mandeb / Red Sea
+EVT-00199,Insurance No-Go Zone Declaration,Critical,Bab el-Mandeb / Red Sea
+EVT-00200,Drone Strike Near Vessel,Moderate,Bab el-Mandeb / Red Sea
+EVT-00201,Port Closure (Military),Minor,Suez Canal
+EVT-00202,Naval Mine Detonation,Minor,Aden Gulf – Indian Ocean
+EVT-00203,Military Blockade Enforcement,Minor,Bab el-Mandeb / Red Sea
+EVT-00204,Maritime Corridor Suspension,Moderate,Suez Canal
+EVT-00205,Military Blockade Enforcement,Moderate,Suez Canal
+EVT-00206,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00207,Oil Spill from Damaged Tanker,Minor,Persian Gulf – East China Sea
+EVT-00208,Houthi Anti-Ship Missile,Critical,Bab el-Mandeb / Red Sea
+EVT-00209,Maritime Corridor Suspension,Critical,Strait of Hormuz
+EVT-00210,Drone Strike Near Vessel,Critical,Cape of Good Hope (reroute)
+EVT-00211,Maritime Corridor Suspension,Moderate,Suez Canal
+EVT-00212,Coalition Naval Escort Delay,Critical,Persian Gulf – Bay of Bengal
+EVT-00213,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00214,Missile Attack on Tanker,Severe,Cape of Good Hope (reroute)
+EVT-00215,Unexploded Ordnance Discovery,Moderate,Bab el-Mandeb / Red Sea
+EVT-00216,IRGC Fast-Boat Harassment,Minor,Cape of Good Hope (reroute)
+EVT-00217,Houthi Anti-Ship Missile,Critical,Persian Gulf – Sea of Japan
+EVT-00218,Naval Mine Detonation,Minor,Strait of Hormuz
+EVT-00219,Drone Strike Near Vessel,Moderate,Aden Gulf – Indian Ocean
+EVT-00220,Oil Spill from Damaged Tanker,Minor,Persian Gulf – Bay of Bengal
+EVT-00221,Oil Spill from Damaged Tanker,Moderate,Strait of Hormuz
+EVT-00222,Missile Attack on Tanker,Moderate,Aden Gulf – Indian Ocean
+EVT-00223,Insurance No-Go Zone Declaration,Severe,Suez Canal
+EVT-00224,Cyber-Attack on Port Systems,Minor,Bab el-Mandeb / Red Sea
+EVT-00225,Maritime Corridor Suspension,Moderate,Strait of Hormuz
+EVT-00226,Houthi Anti-Ship Missile,Severe,Suez Canal
+EVT-00227,Oil Spill from Damaged Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00228,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00229,IRGC Fast-Boat Harassment,Moderate,Strait of Hormuz
+EVT-00230,Drone Strike Near Vessel,Moderate,Strait of Hormuz
+EVT-00231,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-00232,Coalition Naval Escort Delay,Moderate,Strait of Hormuz
+EVT-00233,Piracy / Armed Boarding,Severe,Suez Canal
+EVT-00234,Military Blockade Enforcement,Moderate,Suez Canal
+EVT-00235,Maritime Corridor Suspension,Moderate,Persian Gulf – Bay of Bengal
+EVT-00236,Military Blockade Enforcement,Severe,Suez Canal
+EVT-00237,Houthi Anti-Ship Missile,Minor,Suez Canal
+EVT-00238,Oil Spill from Damaged Tanker,Critical,Persian Gulf – Bay of Bengal
+EVT-00239,Cyber-Attack on Port Systems,Minor,Bab el-Mandeb / Red Sea
+EVT-00240,Oil Spill from Damaged Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00241,Cyber-Attack on Port Systems,Severe,Bab el-Mandeb / Red Sea
+EVT-00242,Military Blockade Enforcement,Critical,Strait of Hormuz
+EVT-00243,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00244,Unexploded Ordnance Discovery,Minor,Suez Canal
+EVT-00245,Unexploded Ordnance Discovery,Severe,Strait of Hormuz
+EVT-00246,Cyber-Attack on Port Systems,Minor,Bab el-Mandeb / Red Sea
+EVT-00247,GPS Spoofing / Jamming Incident,Moderate,Cape of Good Hope (reroute)
+EVT-00248,Missile Attack on Tanker,Moderate,Strait of Malacca
+EVT-00249,GPS Spoofing / Jamming Incident,Minor,Bab el-Mandeb / Red Sea
+EVT-00250,Military Blockade Enforcement,Minor,Strait of Hormuz
+EVT-00251,Oil Spill from Damaged Tanker,Minor,Strait of Malacca
+EVT-00252,Naval Mine Detonation,Critical,Persian Gulf – Bay of Bengal
+EVT-00253,Piracy / Armed Boarding,Moderate,Bab el-Mandeb / Red Sea
+EVT-00254,Piracy / Armed Boarding,Minor,Suez Canal
+EVT-00255,Maritime Corridor Suspension,Severe,Suez Canal
+EVT-00256,Military Blockade Enforcement,Critical,Cape of Good Hope (reroute)
+EVT-00257,Houthi Anti-Ship Missile,Minor,Strait of Hormuz
+EVT-00258,GPS Spoofing / Jamming Incident,Severe,Strait of Hormuz
+EVT-00259,Missile Attack on Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00260,Houthi Anti-Ship Missile,Moderate,Strait of Malacca
+EVT-00261,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00262,Drone Strike Near Vessel,Severe,Strait of Hormuz
+EVT-00263,IRGC Fast-Boat Harassment,Minor,Persian Gulf – Bay of Bengal
+EVT-00264,Houthi Anti-Ship Missile,Minor,Strait of Malacca
+EVT-00265,Port Closure (Military),Minor,Cape of Good Hope (reroute)
+EVT-00266,Naval Mine Detonation,Moderate,Persian Gulf – East China Sea
+EVT-00267,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00268,Cyber-Attack on Port Systems,Severe,Strait of Hormuz
+EVT-00269,Coalition Naval Escort Delay,Moderate,Strait of Hormuz
+EVT-00270,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00271,Missile Attack on Tanker,Moderate,Strait of Hormuz
+EVT-00272,Oil Spill from Damaged Tanker,Moderate,Arabian Sea – South China Sea
+EVT-00273,Drone Strike Near Vessel,Minor,Bab el-Mandeb / Red Sea
+EVT-00274,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00275,Missile Attack on Tanker,Severe,Strait of Hormuz
+EVT-00276,Piracy / Armed Boarding,Moderate,Persian Gulf – Sea of Japan
+EVT-00277,IRGC Fast-Boat Harassment,Moderate,Persian Gulf – Bay of Bengal
+EVT-00278,GPS Spoofing / Jamming Incident,Minor,Strait of Hormuz
+EVT-00279,Naval Mine Detonation,Minor,Bab el-Mandeb / Red Sea
+EVT-00280,Oil Spill from Damaged Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00281,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00282,Insurance No-Go Zone Declaration,Minor,Strait of Hormuz
+EVT-00283,Naval Mine Detonation,Severe,Bab el-Mandeb / Red Sea
+EVT-00284,Cyber-Attack on Port Systems,Critical,Arabian Sea – South China Sea
+EVT-00285,Port Closure (Military),Moderate,Persian Gulf – East China Sea
+EVT-00286,IRGC Fast-Boat Harassment,Minor,Aden Gulf – Indian Ocean
+EVT-00287,GPS Spoofing / Jamming Incident,Moderate,Cape of Good Hope (reroute)
+EVT-00288,Naval Mine Detonation,Severe,Bab el-Mandeb / Red Sea
+EVT-00289,Cyber-Attack on Port Systems,Critical,Bab el-Mandeb / Red Sea
+EVT-00290,Oil Spill from Damaged Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00291,Naval Mine Detonation,Moderate,Persian Gulf – East China Sea
+EVT-00292,GPS Spoofing / Jamming Incident,Moderate,Strait of Hormuz
+EVT-00293,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-00294,Oil Spill from Damaged Tanker,Critical,Bab el-Mandeb / Red Sea
+EVT-00295,Piracy / Armed Boarding,Moderate,Suez Canal
+EVT-00296,Insurance No-Go Zone Declaration,Severe,Bab el-Mandeb / Red Sea
+EVT-00297,GPS Spoofing / Jamming Incident,Minor,Strait of Hormuz
+EVT-00298,Unexploded Ordnance Discovery,Minor,Cape of Good Hope (reroute)
+EVT-00299,Military Blockade Enforcement,Moderate,Persian Gulf – Bay of Bengal
+EVT-00300,Piracy / Armed Boarding,Critical,Persian Gulf – East China Sea
+EVT-00301,Maritime Corridor Suspension,Severe,Strait of Hormuz
+EVT-00302,IRGC Fast-Boat Harassment,Minor,Strait of Hormuz
+EVT-00303,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00304,Military Blockade Enforcement,Minor,Persian Gulf – Bay of Bengal
+EVT-00305,IRGC Fast-Boat Harassment,Moderate,Bab el-Mandeb / Red Sea
+EVT-00306,Missile Attack on Tanker,Moderate,Persian Gulf – Sea of Japan
+EVT-00307,Drone Strike Near Vessel,Moderate,Persian Gulf – Bay of Bengal
+EVT-00308,Unexploded Ordnance Discovery,Severe,Strait of Hormuz
+EVT-00309,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00310,Piracy / Armed Boarding,Moderate,Suez Canal
+EVT-00311,Missile Attack on Tanker,Moderate,Strait of Hormuz
+EVT-00312,IRGC Fast-Boat Harassment,Minor,Bab el-Mandeb / Red Sea
+EVT-00313,Port Closure (Military),Minor,Strait of Malacca
+EVT-00314,Military Blockade Enforcement,Severe,Persian Gulf – East China Sea
+EVT-00315,Naval Mine Detonation,Severe,Suez Canal
+EVT-00316,Unexploded Ordnance Discovery,Moderate,Bab el-Mandeb / Red Sea
+EVT-00317,Naval Mine Detonation,Critical,Cape of Good Hope (reroute)
+EVT-00318,Coalition Naval Escort Delay,Severe,Persian Gulf – Sea of Japan
+EVT-00319,Coalition Naval Escort Delay,Severe,Bab el-Mandeb / Red Sea
+EVT-00320,Missile Attack on Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00321,Oil Spill from Damaged Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00322,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00323,Coalition Naval Escort Delay,Minor,Suez Canal
+EVT-00324,Missile Attack on Tanker,Moderate,Suez Canal
+EVT-00325,Missile Attack on Tanker,Moderate,Suez Canal
+EVT-00326,Insurance No-Go Zone Declaration,Moderate,Suez Canal
+EVT-00327,Military Blockade Enforcement,Minor,Bab el-Mandeb / Red Sea
+EVT-00328,Maritime Corridor Suspension,Severe,Persian Gulf – Sea of Japan
+EVT-00329,Drone Strike Near Vessel,Moderate,Bab el-Mandeb / Red Sea
+EVT-00330,Houthi Anti-Ship Missile,Minor,Suez Canal
+EVT-00331,Insurance No-Go Zone Declaration,Severe,Persian Gulf – East China Sea
+EVT-00332,Unexploded Ordnance Discovery,Moderate,Bab el-Mandeb / Red Sea
+EVT-00333,IRGC Fast-Boat Harassment,Minor,Strait of Malacca
+EVT-00334,Oil Spill from Damaged Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00335,Cyber-Attack on Port Systems,Minor,Suez Canal
+EVT-00336,Cyber-Attack on Port Systems,Minor,Persian Gulf – East China Sea
+EVT-00337,Oil Spill from Damaged Tanker,Critical,Strait of Hormuz
+EVT-00338,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-00339,Coalition Naval Escort Delay,Severe,Strait of Hormuz
+EVT-00340,Missile Attack on Tanker,Severe,Persian Gulf – East China Sea
+EVT-00341,Maritime Corridor Suspension,Minor,Aden Gulf – Indian Ocean
+EVT-00342,Oil Spill from Damaged Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00343,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00344,Naval Mine Detonation,Minor,Persian Gulf – East China Sea
+EVT-00345,Maritime Corridor Suspension,Moderate,Bab el-Mandeb / Red Sea
+EVT-00346,Military Blockade Enforcement,Severe,Strait of Malacca
+EVT-00347,Cyber-Attack on Port Systems,Severe,Bab el-Mandeb / Red Sea
+EVT-00348,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00349,Military Blockade Enforcement,Severe,Suez Canal
+EVT-00350,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00351,Drone Strike Near Vessel,Moderate,Persian Gulf – Bay of Bengal
+EVT-00352,Maritime Corridor Suspension,Minor,Cape of Good Hope (reroute)
+EVT-00353,Cyber-Attack on Port Systems,Severe,Suez Canal
+EVT-00354,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00355,Maritime Corridor Suspension,Moderate,Bab el-Mandeb / Red Sea
+EVT-00356,IRGC Fast-Boat Harassment,Minor,Strait of Malacca
+EVT-00357,Oil Spill from Damaged Tanker,Moderate,Strait of Hormuz
+EVT-00358,IRGC Fast-Boat Harassment,Minor,Persian Gulf – East China Sea
+EVT-00359,IRGC Fast-Boat Harassment,Moderate,Persian Gulf – Bay of Bengal
+EVT-00360,Cyber-Attack on Port Systems,Minor,Persian Gulf – Sea of Japan
+EVT-00361,Missile Attack on Tanker,Moderate,Persian Gulf – Bay of Bengal
+EVT-00362,Piracy / Armed Boarding,Severe,Strait of Hormuz
+EVT-00363,Oil Spill from Damaged Tanker,Minor,Cape of Good Hope (reroute)
+EVT-00364,Unexploded Ordnance Discovery,Moderate,Persian Gulf – Bay of Bengal
+EVT-00365,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-00366,Drone Strike Near Vessel,Minor,Bab el-Mandeb / Red Sea
+EVT-00367,Cyber-Attack on Port Systems,Moderate,Suez Canal
+EVT-00368,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00369,Drone Strike Near Vessel,Severe,Strait of Hormuz
+EVT-00370,GPS Spoofing / Jamming Incident,Moderate,Suez Canal
+EVT-00371,Cyber-Attack on Port Systems,Minor,Bab el-Mandeb / Red Sea
+EVT-00372,Drone Strike Near Vessel,Severe,Suez Canal
+EVT-00373,Naval Mine Detonation,Critical,Bab el-Mandeb / Red Sea
+EVT-00374,Port Closure (Military),Critical,Bab el-Mandeb / Red Sea
+EVT-00375,Port Closure (Military),Critical,Suez Canal
+EVT-00376,IRGC Fast-Boat Harassment,Moderate,Bab el-Mandeb / Red Sea
+EVT-00377,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00378,Military Blockade Enforcement,Moderate,Persian Gulf – East China Sea
+EVT-00379,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00380,Cyber-Attack on Port Systems,Minor,Strait of Malacca
+EVT-00381,Military Blockade Enforcement,Moderate,Strait of Hormuz
+EVT-00382,Houthi Anti-Ship Missile,Minor,Aden Gulf – Indian Ocean
+EVT-00383,Military Blockade Enforcement,Moderate,Bab el-Mandeb / Red Sea
+EVT-00384,Unexploded Ordnance Discovery,Severe,Strait of Hormuz
+EVT-00385,GPS Spoofing / Jamming Incident,Severe,Bab el-Mandeb / Red Sea
+EVT-00386,Piracy / Armed Boarding,Critical,Strait of Hormuz
+EVT-00387,Houthi Anti-Ship Missile,Minor,Persian Gulf – Sea of Japan
+EVT-00388,Oil Spill from Damaged Tanker,Critical,Persian Gulf – East China Sea
+EVT-00389,GPS Spoofing / Jamming Incident,Severe,Bab el-Mandeb / Red Sea
+EVT-00390,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00391,Unexploded Ordnance Discovery,Minor,Bab el-Mandeb / Red Sea
+EVT-00392,Naval Mine Detonation,Moderate,Persian Gulf – East China Sea
+EVT-00393,Cyber-Attack on Port Systems,Moderate,Strait of Hormuz
+EVT-00394,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00395,Maritime Corridor Suspension,Moderate,Bab el-Mandeb / Red Sea
+EVT-00396,Cyber-Attack on Port Systems,Severe,Bab el-Mandeb / Red Sea
+EVT-00397,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00398,GPS Spoofing / Jamming Incident,Moderate,Bab el-Mandeb / Red Sea
+EVT-00399,IRGC Fast-Boat Harassment,Moderate,Bab el-Mandeb / Red Sea
+EVT-00400,GPS Spoofing / Jamming Incident,Severe,Strait of Hormuz
+EVT-00401,GPS Spoofing / Jamming Incident,Minor,Bab el-Mandeb / Red Sea
+EVT-00402,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00403,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00404,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00405,Houthi Anti-Ship Missile,Moderate,Arabian Sea – South China Sea
+EVT-00406,Unexploded Ordnance Discovery,Critical,Strait of Hormuz
+EVT-00407,Maritime Corridor Suspension,Minor,Persian Gulf – Bay of Bengal
+EVT-00408,Unexploded Ordnance Discovery,Critical,Bab el-Mandeb / Red Sea
+EVT-00409,Houthi Anti-Ship Missile,Critical,Cape of Good Hope (reroute)
+EVT-00410,Maritime Corridor Suspension,Minor,Persian Gulf – East China Sea
+EVT-00411,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00412,Military Blockade Enforcement,Minor,Aden Gulf – Indian Ocean
+EVT-00413,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00414,Houthi Anti-Ship Missile,Moderate,Strait of Hormuz
+EVT-00415,Houthi Anti-Ship Missile,Severe,Strait of Hormuz
+EVT-00416,GPS Spoofing / Jamming Incident,Critical,Strait of Hormuz
+EVT-00417,Military Blockade Enforcement,Severe,Aden Gulf – Indian Ocean
+EVT-00418,GPS Spoofing / Jamming Incident,Severe,Strait of Hormuz
+EVT-00419,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-00420,Coalition Naval Escort Delay,Minor,Cape of Good Hope (reroute)
+EVT-00421,Drone Strike Near Vessel,Severe,Strait of Hormuz
+EVT-00422,Coalition Naval Escort Delay,Minor,Strait of Malacca
+EVT-00423,Cyber-Attack on Port Systems,Minor,Persian Gulf – Bay of Bengal
+EVT-00424,IRGC Fast-Boat Harassment,Critical,Persian Gulf – East China Sea
+EVT-00425,GPS Spoofing / Jamming Incident,Severe,Persian Gulf – Bay of Bengal
+EVT-00426,Oil Spill from Damaged Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00427,Maritime Corridor Suspension,Moderate,Cape of Good Hope (reroute)
+EVT-00428,Cyber-Attack on Port Systems,Critical,Bab el-Mandeb / Red Sea
+EVT-00429,Missile Attack on Tanker,Severe,Strait of Hormuz
+EVT-00430,Unexploded Ordnance Discovery,Moderate,Bab el-Mandeb / Red Sea
+EVT-00431,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00432,Coalition Naval Escort Delay,Minor,Persian Gulf – Sea of Japan
+EVT-00433,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00434,Coalition Naval Escort Delay,Minor,Persian Gulf – East China Sea
+EVT-00435,GPS Spoofing / Jamming Incident,Moderate,Strait of Hormuz
+EVT-00436,IRGC Fast-Boat Harassment,Minor,Bab el-Mandeb / Red Sea
+EVT-00437,Houthi Anti-Ship Missile,Minor,Cape of Good Hope (reroute)
+EVT-00438,GPS Spoofing / Jamming Incident,Moderate,Aden Gulf – Indian Ocean
+EVT-00439,Maritime Corridor Suspension,Severe,Cape of Good Hope (reroute)
+EVT-00440,Oil Spill from Damaged Tanker,Severe,Strait of Hormuz
+EVT-00441,Insurance No-Go Zone Declaration,Severe,Suez Canal
+EVT-00442,Naval Mine Detonation,Moderate,Suez Canal
+EVT-00443,Missile Attack on Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00444,Port Closure (Military),Severe,Aden Gulf – Indian Ocean
+EVT-00445,Military Blockade Enforcement,Minor,Bab el-Mandeb / Red Sea
+EVT-00446,Oil Spill from Damaged Tanker,Moderate,Strait of Malacca
+EVT-00447,Piracy / Armed Boarding,Minor,Strait of Hormuz
+EVT-00448,Houthi Anti-Ship Missile,Minor,Strait of Hormuz
+EVT-00449,Port Closure (Military),Moderate,Aden Gulf – Indian Ocean
+EVT-00450,Drone Strike Near Vessel,Severe,Strait of Hormuz
+EVT-00451,Cyber-Attack on Port Systems,Minor,Bab el-Mandeb / Red Sea
+EVT-00452,Naval Mine Detonation,Critical,Arabian Sea – South China Sea
+EVT-00453,Piracy / Armed Boarding,Moderate,Arabian Sea – South China Sea
+EVT-00454,Missile Attack on Tanker,Critical,Persian Gulf – East China Sea
+EVT-00455,Port Closure (Military),Severe,Strait of Malacca
+EVT-00456,Port Closure (Military),Severe,Cape of Good Hope (reroute)
+EVT-00457,Insurance No-Go Zone Declaration,Severe,Suez Canal
+EVT-00458,Drone Strike Near Vessel,Minor,Suez Canal
+EVT-00459,Missile Attack on Tanker,Severe,Persian Gulf – Sea of Japan
+EVT-00460,Piracy / Armed Boarding,Severe,Suez Canal
+EVT-00461,Port Closure (Military),Moderate,Persian Gulf – Sea of Japan
+EVT-00462,Drone Strike Near Vessel,Severe,Suez Canal
+EVT-00463,Military Blockade Enforcement,Severe,Strait of Malacca
+EVT-00464,Oil Spill from Damaged Tanker,Moderate,Strait of Hormuz
+EVT-00465,GPS Spoofing / Jamming Incident,Moderate,Bab el-Mandeb / Red Sea
+EVT-00466,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00467,Houthi Anti-Ship Missile,Minor,Strait of Hormuz
+EVT-00468,Missile Attack on Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00469,Drone Strike Near Vessel,Moderate,Bab el-Mandeb / Red Sea
+EVT-00470,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00471,Cyber-Attack on Port Systems,Severe,Strait of Hormuz
+EVT-00472,Drone Strike Near Vessel,Minor,Strait of Hormuz
+EVT-00473,Houthi Anti-Ship Missile,Severe,Bab el-Mandeb / Red Sea
+EVT-00474,Drone Strike Near Vessel,Moderate,Arabian Sea – South China Sea
+EVT-00475,Naval Mine Detonation,Minor,Bab el-Mandeb / Red Sea
+EVT-00476,Cyber-Attack on Port Systems,Severe,Suez Canal
+EVT-00477,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00478,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00479,Military Blockade Enforcement,Moderate,Strait of Hormuz
+EVT-00480,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00481,Piracy / Armed Boarding,Minor,Bab el-Mandeb / Red Sea
+EVT-00482,Houthi Anti-Ship Missile,Moderate,Strait of Hormuz
+EVT-00483,Coalition Naval Escort Delay,Severe,Strait of Hormuz
+EVT-00484,Insurance No-Go Zone Declaration,Critical,Strait of Malacca
+EVT-00485,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00486,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00487,Coalition Naval Escort Delay,Minor,Persian Gulf – East China Sea
+EVT-00488,GPS Spoofing / Jamming Incident,Moderate,Bab el-Mandeb / Red Sea
+EVT-00489,Drone Strike Near Vessel,Moderate,Aden Gulf – Indian Ocean
+EVT-00490,Piracy / Armed Boarding,Moderate,Persian Gulf – Sea of Japan
+EVT-00491,Houthi Anti-Ship Missile,Severe,Strait of Malacca
+EVT-00492,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00493,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00494,Piracy / Armed Boarding,Severe,Strait of Hormuz
+EVT-00495,Insurance No-Go Zone Declaration,Minor,Suez Canal
+EVT-00496,IRGC Fast-Boat Harassment,Moderate,Bab el-Mandeb / Red Sea
+EVT-00497,Cyber-Attack on Port Systems,Severe,Strait of Hormuz
+EVT-00498,Cyber-Attack on Port Systems,Minor,Strait of Hormuz
+EVT-00499,Drone Strike Near Vessel,Severe,Aden Gulf – Indian Ocean
+EVT-00500,Houthi Anti-Ship Missile,Minor,Persian Gulf – East China Sea
+EVT-00501,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00502,Port Closure (Military),Moderate,Suez Canal
+EVT-00503,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00504,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00505,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00506,Port Closure (Military),Moderate,Bab el-Mandeb / Red Sea
+EVT-00507,Drone Strike Near Vessel,Minor,Strait of Malacca
+EVT-00508,Oil Spill from Damaged Tanker,Moderate,Strait of Hormuz
+EVT-00509,Insurance No-Go Zone Declaration,Critical,Cape of Good Hope (reroute)
+EVT-00510,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00511,Unexploded Ordnance Discovery,Severe,Persian Gulf – Sea of Japan
+EVT-00512,Unexploded Ordnance Discovery,Moderate,Strait of Malacca
+EVT-00513,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00514,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00515,Naval Mine Detonation,Minor,Strait of Hormuz
+EVT-00516,Missile Attack on Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00517,Oil Spill from Damaged Tanker,Severe,Suez Canal
+EVT-00518,Missile Attack on Tanker,Critical,Strait of Hormuz
+EVT-00519,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00520,Naval Mine Detonation,Moderate,Persian Gulf – Bay of Bengal
+EVT-00521,Drone Strike Near Vessel,Moderate,Suez Canal
+EVT-00522,Military Blockade Enforcement,Minor,Persian Gulf – East China Sea
+EVT-00523,Military Blockade Enforcement,Severe,Aden Gulf – Indian Ocean
+EVT-00524,Oil Spill from Damaged Tanker,Critical,Strait of Hormuz
+EVT-00525,IRGC Fast-Boat Harassment,Minor,Persian Gulf – East China Sea
+EVT-00526,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-00527,Military Blockade Enforcement,Severe,Arabian Sea – South China Sea
+EVT-00528,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00529,Military Blockade Enforcement,Critical,Cape of Good Hope (reroute)
+EVT-00530,Maritime Corridor Suspension,Moderate,Cape of Good Hope (reroute)
+EVT-00531,Missile Attack on Tanker,Moderate,Persian Gulf – East China Sea
+EVT-00532,Coalition Naval Escort Delay,Severe,Strait of Hormuz
+EVT-00533,Naval Mine Detonation,Moderate,Bab el-Mandeb / Red Sea
+EVT-00534,Insurance No-Go Zone Declaration,Severe,Strait of Malacca
+EVT-00535,Drone Strike Near Vessel,Severe,Persian Gulf – Bay of Bengal
+EVT-00536,Oil Spill from Damaged Tanker,Critical,Strait of Malacca
+EVT-00537,IRGC Fast-Boat Harassment,Minor,Suez Canal
+EVT-00538,Military Blockade Enforcement,Moderate,Bab el-Mandeb / Red Sea
+EVT-00539,Unexploded Ordnance Discovery,Critical,Strait of Hormuz
+EVT-00540,GPS Spoofing / Jamming Incident,Moderate,Suez Canal
+EVT-00541,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00542,Missile Attack on Tanker,Severe,Cape of Good Hope (reroute)
+EVT-00543,Oil Spill from Damaged Tanker,Minor,Cape of Good Hope (reroute)
+EVT-00544,GPS Spoofing / Jamming Incident,Minor,Strait of Malacca
+EVT-00545,IRGC Fast-Boat Harassment,Severe,Persian Gulf – East China Sea
+EVT-00546,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00547,Insurance No-Go Zone Declaration,Minor,Strait of Hormuz
+EVT-00548,Unexploded Ordnance Discovery,Moderate,Strait of Hormuz
+EVT-00549,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00550,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00551,Coalition Naval Escort Delay,Severe,Persian Gulf – Sea of Japan
+EVT-00552,Maritime Corridor Suspension,Minor,Bab el-Mandeb / Red Sea
+EVT-00553,Coalition Naval Escort Delay,Moderate,Strait of Hormuz
+EVT-00554,Coalition Naval Escort Delay,Severe,Cape of Good Hope (reroute)
+EVT-00555,IRGC Fast-Boat Harassment,Minor,Persian Gulf – Bay of Bengal
+EVT-00556,Drone Strike Near Vessel,Severe,Suez Canal
+EVT-00557,Cyber-Attack on Port Systems,Minor,Aden Gulf – Indian Ocean
+EVT-00558,Drone Strike Near Vessel,Moderate,Bab el-Mandeb / Red Sea
+EVT-00559,Piracy / Armed Boarding,Minor,Strait of Hormuz
+EVT-00560,Coalition Naval Escort Delay,Moderate,Persian Gulf – East China Sea
+EVT-00561,Oil Spill from Damaged Tanker,Severe,Persian Gulf – East China Sea
+EVT-00562,Insurance No-Go Zone Declaration,Moderate,Suez Canal
+EVT-00563,Missile Attack on Tanker,Minor,Persian Gulf – Sea of Japan
+EVT-00564,Unexploded Ordnance Discovery,Severe,Strait of Hormuz
+EVT-00565,Missile Attack on Tanker,Critical,Cape of Good Hope (reroute)
+EVT-00566,Missile Attack on Tanker,Moderate,Persian Gulf – East China Sea
+EVT-00567,Maritime Corridor Suspension,Moderate,Suez Canal
+EVT-00568,Maritime Corridor Suspension,Minor,Bab el-Mandeb / Red Sea
+EVT-00569,Military Blockade Enforcement,Minor,Bab el-Mandeb / Red Sea
+EVT-00570,Drone Strike Near Vessel,Severe,Bab el-Mandeb / Red Sea
+EVT-00571,Missile Attack on Tanker,Critical,Cape of Good Hope (reroute)
+EVT-00572,GPS Spoofing / Jamming Incident,Minor,Strait of Hormuz
+EVT-00573,Oil Spill from Damaged Tanker,Moderate,Persian Gulf – Sea of Japan
+EVT-00574,IRGC Fast-Boat Harassment,Minor,Persian Gulf – Bay of Bengal
+EVT-00575,IRGC Fast-Boat Harassment,Moderate,Strait of Malacca
+EVT-00576,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00577,Oil Spill from Damaged Tanker,Minor,Persian Gulf – East China Sea
+EVT-00578,Military Blockade Enforcement,Moderate,Strait of Hormuz
+EVT-00579,Military Blockade Enforcement,Moderate,Suez Canal
+EVT-00580,Port Closure (Military),Critical,Strait of Hormuz
+EVT-00581,Unexploded Ordnance Discovery,Minor,Cape of Good Hope (reroute)
+EVT-00582,Coalition Naval Escort Delay,Moderate,Persian Gulf – East China Sea
+EVT-00583,GPS Spoofing / Jamming Incident,Severe,Persian Gulf – Bay of Bengal
+EVT-00584,Oil Spill from Damaged Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00585,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00586,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00587,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00588,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00589,Drone Strike Near Vessel,Severe,Bab el-Mandeb / Red Sea
+EVT-00590,Insurance No-Go Zone Declaration,Severe,Bab el-Mandeb / Red Sea
+EVT-00591,GPS Spoofing / Jamming Incident,Severe,Bab el-Mandeb / Red Sea
+EVT-00592,Drone Strike Near Vessel,Critical,Persian Gulf – Bay of Bengal
+EVT-00593,Houthi Anti-Ship Missile,Minor,Cape of Good Hope (reroute)
+EVT-00594,IRGC Fast-Boat Harassment,Severe,Suez Canal
+EVT-00595,Piracy / Armed Boarding,Severe,Aden Gulf – Indian Ocean
+EVT-00596,Port Closure (Military),Severe,Bab el-Mandeb / Red Sea
+EVT-00597,Naval Mine Detonation,Moderate,Bab el-Mandeb / Red Sea
+EVT-00598,IRGC Fast-Boat Harassment,Severe,Bab el-Mandeb / Red Sea
+EVT-00599,Oil Spill from Damaged Tanker,Severe,Persian Gulf – Sea of Japan
+EVT-00600,Coalition Naval Escort Delay,Critical,Persian Gulf – Sea of Japan
+EVT-00601,Houthi Anti-Ship Missile,Severe,Bab el-Mandeb / Red Sea
+EVT-00602,Piracy / Armed Boarding,Moderate,Cape of Good Hope (reroute)
+EVT-00603,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00604,Piracy / Armed Boarding,Moderate,Bab el-Mandeb / Red Sea
+EVT-00605,Piracy / Armed Boarding,Minor,Strait of Hormuz
+EVT-00606,Missile Attack on Tanker,Critical,Strait of Hormuz
+EVT-00607,Houthi Anti-Ship Missile,Critical,Strait of Malacca
+EVT-00608,Houthi Anti-Ship Missile,Severe,Bab el-Mandeb / Red Sea
+EVT-00609,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-00610,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00611,Port Closure (Military),Critical,Bab el-Mandeb / Red Sea
+EVT-00612,Maritime Corridor Suspension,Severe,Bab el-Mandeb / Red Sea
+EVT-00613,Port Closure (Military),Severe,Bab el-Mandeb / Red Sea
+EVT-00614,Military Blockade Enforcement,Minor,Bab el-Mandeb / Red Sea
+EVT-00615,Houthi Anti-Ship Missile,Minor,Persian Gulf – Sea of Japan
+EVT-00616,Cyber-Attack on Port Systems,Minor,Strait of Hormuz
+EVT-00617,Naval Mine Detonation,Moderate,Bab el-Mandeb / Red Sea
+EVT-00618,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00619,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00620,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00621,Piracy / Armed Boarding,Minor,Bab el-Mandeb / Red Sea
+EVT-00622,Port Closure (Military),Moderate,Strait of Malacca
+EVT-00623,IRGC Fast-Boat Harassment,Critical,Persian Gulf – Bay of Bengal
+EVT-00624,Missile Attack on Tanker,Minor,Cape of Good Hope (reroute)
+EVT-00625,Maritime Corridor Suspension,Moderate,Suez Canal
+EVT-00626,IRGC Fast-Boat Harassment,Minor,Cape of Good Hope (reroute)
+EVT-00627,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00628,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00629,Port Closure (Military),Moderate,Bab el-Mandeb / Red Sea
+EVT-00630,Piracy / Armed Boarding,Minor,Persian Gulf – Bay of Bengal
+EVT-00631,Drone Strike Near Vessel,Critical,Strait of Malacca
+EVT-00632,Cyber-Attack on Port Systems,Minor,Bab el-Mandeb / Red Sea
+EVT-00633,Insurance No-Go Zone Declaration,Moderate,Cape of Good Hope (reroute)
+EVT-00634,Maritime Corridor Suspension,Severe,Aden Gulf – Indian Ocean
+EVT-00635,Missile Attack on Tanker,Severe,Strait of Hormuz
+EVT-00636,Drone Strike Near Vessel,Minor,Bab el-Mandeb / Red Sea
+EVT-00637,Drone Strike Near Vessel,Moderate,Persian Gulf – East China Sea
+EVT-00638,Unexploded Ordnance Discovery,Severe,Persian Gulf – East China Sea
+EVT-00639,Piracy / Armed Boarding,Severe,Persian Gulf – East China Sea
+EVT-00640,Piracy / Armed Boarding,Severe,Strait of Hormuz
+EVT-00641,Insurance No-Go Zone Declaration,Minor,Cape of Good Hope (reroute)
+EVT-00642,Maritime Corridor Suspension,Critical,Bab el-Mandeb / Red Sea
+EVT-00643,Naval Mine Detonation,Moderate,Bab el-Mandeb / Red Sea
+EVT-00644,Insurance No-Go Zone Declaration,Severe,Strait of Hormuz
+EVT-00645,Insurance No-Go Zone Declaration,Severe,Strait of Hormuz
+EVT-00646,Cyber-Attack on Port Systems,Moderate,Persian Gulf – Bay of Bengal
+EVT-00647,Port Closure (Military),Moderate,Bab el-Mandeb / Red Sea
+EVT-00648,Naval Mine Detonation,Minor,Persian Gulf – East China Sea
+EVT-00649,Port Closure (Military),Moderate,Persian Gulf – Bay of Bengal
+EVT-00650,Houthi Anti-Ship Missile,Critical,Strait of Hormuz
+EVT-00651,Naval Mine Detonation,Minor,Strait of Hormuz
+EVT-00652,Drone Strike Near Vessel,Moderate,Bab el-Mandeb / Red Sea
+EVT-00653,Houthi Anti-Ship Missile,Critical,Strait of Malacca
+EVT-00654,Oil Spill from Damaged Tanker,Minor,Cape of Good Hope (reroute)
+EVT-00655,Port Closure (Military),Moderate,Cape of Good Hope (reroute)
+EVT-00656,Houthi Anti-Ship Missile,Minor,Bab el-Mandeb / Red Sea
+EVT-00657,Oil Spill from Damaged Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00658,Unexploded Ordnance Discovery,Critical,Strait of Hormuz
+EVT-00659,Cyber-Attack on Port Systems,Severe,Cape of Good Hope (reroute)
+EVT-00660,IRGC Fast-Boat Harassment,Severe,Strait of Hormuz
+EVT-00661,Military Blockade Enforcement,Moderate,Arabian Sea – South China Sea
+EVT-00662,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-00663,Cyber-Attack on Port Systems,Severe,Aden Gulf – Indian Ocean
+EVT-00664,Oil Spill from Damaged Tanker,Minor,Suez Canal
+EVT-00665,Unexploded Ordnance Discovery,Moderate,Cape of Good Hope (reroute)
+EVT-00666,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-00667,Port Closure (Military),Severe,Bab el-Mandeb / Red Sea
+EVT-00668,Port Closure (Military),Minor,Persian Gulf – East China Sea
+EVT-00669,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00670,IRGC Fast-Boat Harassment,Severe,Persian Gulf – Bay of Bengal
+EVT-00671,IRGC Fast-Boat Harassment,Severe,Suez Canal
+EVT-00672,Insurance No-Go Zone Declaration,Severe,Bab el-Mandeb / Red Sea
+EVT-00673,Military Blockade Enforcement,Minor,Bab el-Mandeb / Red Sea
+EVT-00674,Drone Strike Near Vessel,Severe,Strait of Hormuz
+EVT-00675,Houthi Anti-Ship Missile,Critical,Persian Gulf – Bay of Bengal
+EVT-00676,Piracy / Armed Boarding,Minor,Persian Gulf – Sea of Japan
+EVT-00677,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-00678,Houthi Anti-Ship Missile,Minor,Suez Canal
+EVT-00679,IRGC Fast-Boat Harassment,Critical,Bab el-Mandeb / Red Sea
+EVT-00680,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-00681,Coalition Naval Escort Delay,Severe,Cape of Good Hope (reroute)
+EVT-00682,Coalition Naval Escort Delay,Minor,Suez Canal
+EVT-00683,GPS Spoofing / Jamming Incident,Minor,Bab el-Mandeb / Red Sea
+EVT-00684,Houthi Anti-Ship Missile,Minor,Strait of Hormuz
+EVT-00685,Drone Strike Near Vessel,Severe,Cape of Good Hope (reroute)
+EVT-00686,Military Blockade Enforcement,Critical,Bab el-Mandeb / Red Sea
+EVT-00687,Military Blockade Enforcement,Severe,Bab el-Mandeb / Red Sea
+EVT-00688,Houthi Anti-Ship Missile,Minor,Strait of Malacca
+EVT-00689,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00690,Military Blockade Enforcement,Critical,Persian Gulf – Sea of Japan
+EVT-00691,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-00692,Insurance No-Go Zone Declaration,Critical,Strait of Hormuz
+EVT-00693,Oil Spill from Damaged Tanker,Moderate,Persian Gulf – Sea of Japan
+EVT-00694,Port Closure (Military),Severe,Persian Gulf – Sea of Japan
+EVT-00695,Coalition Naval Escort Delay,Severe,Cape of Good Hope (reroute)
+EVT-00696,Oil Spill from Damaged Tanker,Severe,Cape of Good Hope (reroute)
+EVT-00697,Insurance No-Go Zone Declaration,Minor,Persian Gulf – Bay of Bengal
+EVT-00698,Insurance No-Go Zone Declaration,Moderate,Suez Canal
+EVT-00699,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00700,GPS Spoofing / Jamming Incident,Minor,Cape of Good Hope (reroute)
+EVT-00701,Maritime Corridor Suspension,Severe,Strait of Hormuz
+EVT-00702,Cyber-Attack on Port Systems,Severe,Cape of Good Hope (reroute)
+EVT-00703,Houthi Anti-Ship Missile,Severe,Cape of Good Hope (reroute)
+EVT-00704,Military Blockade Enforcement,Critical,Bab el-Mandeb / Red Sea
+EVT-00705,Missile Attack on Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00706,Drone Strike Near Vessel,Moderate,Persian Gulf – Sea of Japan
+EVT-00707,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00708,Military Blockade Enforcement,Minor,Strait of Hormuz
+EVT-00709,Oil Spill from Damaged Tanker,Severe,Persian Gulf – East China Sea
+EVT-00710,Oil Spill from Damaged Tanker,Severe,Cape of Good Hope (reroute)
+EVT-00711,IRGC Fast-Boat Harassment,Minor,Suez Canal
+EVT-00712,Houthi Anti-Ship Missile,Minor,Persian Gulf – East China Sea
+EVT-00713,Naval Mine Detonation,Critical,Bab el-Mandeb / Red Sea
+EVT-00714,Insurance No-Go Zone Declaration,Moderate,Cape of Good Hope (reroute)
+EVT-00715,Coalition Naval Escort Delay,Moderate,Strait of Malacca
+EVT-00716,Coalition Naval Escort Delay,Severe,Strait of Hormuz
+EVT-00717,Unexploded Ordnance Discovery,Moderate,Aden Gulf – Indian Ocean
+EVT-00718,Naval Mine Detonation,Moderate,Bab el-Mandeb / Red Sea
+EVT-00719,Maritime Corridor Suspension,Severe,Persian Gulf – Bay of Bengal
+EVT-00720,Piracy / Armed Boarding,Minor,Bab el-Mandeb / Red Sea
+EVT-00721,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00722,Coalition Naval Escort Delay,Severe,Suez Canal
+EVT-00723,Houthi Anti-Ship Missile,Moderate,Suez Canal
+EVT-00724,GPS Spoofing / Jamming Incident,Moderate,Bab el-Mandeb / Red Sea
+EVT-00725,Oil Spill from Damaged Tanker,Minor,Suez Canal
+EVT-00726,Drone Strike Near Vessel,Moderate,Aden Gulf – Indian Ocean
+EVT-00727,IRGC Fast-Boat Harassment,Moderate,Suez Canal
+EVT-00728,Houthi Anti-Ship Missile,Moderate,Strait of Hormuz
+EVT-00729,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-00730,IRGC Fast-Boat Harassment,Moderate,Arabian Sea – South China Sea
+EVT-00731,Naval Mine Detonation,Minor,Suez Canal
+EVT-00732,Unexploded Ordnance Discovery,Minor,Persian Gulf – East China Sea
+EVT-00733,Piracy / Armed Boarding,Minor,Bab el-Mandeb / Red Sea
+EVT-00734,Port Closure (Military),Critical,Persian Gulf – Sea of Japan
+EVT-00735,GPS Spoofing / Jamming Incident,Critical,Suez Canal
+EVT-00736,Piracy / Armed Boarding,Moderate,Persian Gulf – Bay of Bengal
+EVT-00737,Naval Mine Detonation,Minor,Aden Gulf – Indian Ocean
+EVT-00738,Naval Mine Detonation,Minor,Cape of Good Hope (reroute)
+EVT-00739,IRGC Fast-Boat Harassment,Moderate,Bab el-Mandeb / Red Sea
+EVT-00740,Military Blockade Enforcement,Severe,Persian Gulf – East China Sea
+EVT-00741,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00742,Missile Attack on Tanker,Moderate,Cape of Good Hope (reroute)
+EVT-00743,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00744,GPS Spoofing / Jamming Incident,Moderate,Strait of Hormuz
+EVT-00745,Insurance No-Go Zone Declaration,Critical,Bab el-Mandeb / Red Sea
+EVT-00746,Oil Spill from Damaged Tanker,Minor,Strait of Hormuz
+EVT-00747,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00748,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00749,Drone Strike Near Vessel,Minor,Bab el-Mandeb / Red Sea
+EVT-00750,Military Blockade Enforcement,Moderate,Strait of Hormuz
+EVT-00751,Port Closure (Military),Minor,Cape of Good Hope (reroute)
+EVT-00752,Military Blockade Enforcement,Severe,Persian Gulf – Bay of Bengal
+EVT-00753,Port Closure (Military),Severe,Aden Gulf – Indian Ocean
+EVT-00754,Cyber-Attack on Port Systems,Moderate,Strait of Hormuz
+EVT-00755,Houthi Anti-Ship Missile,Severe,Strait of Hormuz
+EVT-00756,Port Closure (Military),Moderate,Aden Gulf – Indian Ocean
+EVT-00757,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00758,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00759,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00760,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-00761,Houthi Anti-Ship Missile,Moderate,Strait of Malacca
+EVT-00762,IRGC Fast-Boat Harassment,Minor,Bab el-Mandeb / Red Sea
+EVT-00763,Houthi Anti-Ship Missile,Moderate,Strait of Hormuz
+EVT-00764,Coalition Naval Escort Delay,Severe,Aden Gulf – Indian Ocean
+EVT-00765,Naval Mine Detonation,Moderate,Bab el-Mandeb / Red Sea
+EVT-00766,Maritime Corridor Suspension,Severe,Persian Gulf – Bay of Bengal
+EVT-00767,Oil Spill from Damaged Tanker,Critical,Bab el-Mandeb / Red Sea
+EVT-00768,Maritime Corridor Suspension,Moderate,Cape of Good Hope (reroute)
+EVT-00769,GPS Spoofing / Jamming Incident,Moderate,Persian Gulf – East China Sea
+EVT-00770,Insurance No-Go Zone Declaration,Moderate,Strait of Malacca
+EVT-00771,GPS Spoofing / Jamming Incident,Minor,Persian Gulf – Bay of Bengal
+EVT-00772,Houthi Anti-Ship Missile,Moderate,Persian Gulf – Sea of Japan
+EVT-00773,Insurance No-Go Zone Declaration,Moderate,Suez Canal
+EVT-00774,Unexploded Ordnance Discovery,Moderate,Cape of Good Hope (reroute)
+EVT-00775,Drone Strike Near Vessel,Severe,Persian Gulf – Bay of Bengal
+EVT-00776,Oil Spill from Damaged Tanker,Severe,Suez Canal
+EVT-00777,Port Closure (Military),Moderate,Arabian Sea – South China Sea
+EVT-00778,Oil Spill from Damaged Tanker,Minor,Strait of Hormuz
+EVT-00779,Coalition Naval Escort Delay,Severe,Strait of Hormuz
+EVT-00780,Coalition Naval Escort Delay,Moderate,Strait of Hormuz
+EVT-00781,Military Blockade Enforcement,Severe,Strait of Hormuz
+EVT-00782,Drone Strike Near Vessel,Moderate,Persian Gulf – Bay of Bengal
+EVT-00783,Naval Mine Detonation,Critical,Persian Gulf – East China Sea
+EVT-00784,Cyber-Attack on Port Systems,Moderate,Suez Canal
+EVT-00785,IRGC Fast-Boat Harassment,Severe,Bab el-Mandeb / Red Sea
+EVT-00786,Cyber-Attack on Port Systems,Minor,Bab el-Mandeb / Red Sea
+EVT-00787,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00788,Missile Attack on Tanker,Moderate,Strait of Hormuz
+EVT-00789,GPS Spoofing / Jamming Incident,Severe,Persian Gulf – East China Sea
+EVT-00790,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00791,Coalition Naval Escort Delay,Severe,Bab el-Mandeb / Red Sea
+EVT-00792,Maritime Corridor Suspension,Moderate,Strait of Hormuz
+EVT-00793,Oil Spill from Damaged Tanker,Minor,Suez Canal
+EVT-00794,Insurance No-Go Zone Declaration,Severe,Arabian Sea – South China Sea
+EVT-00795,Coalition Naval Escort Delay,Minor,Suez Canal
+EVT-00796,Port Closure (Military),Minor,Persian Gulf – East China Sea
+EVT-00797,Missile Attack on Tanker,Minor,Strait of Malacca
+EVT-00798,Houthi Anti-Ship Missile,Minor,Cape of Good Hope (reroute)
+EVT-00799,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00800,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00801,Houthi Anti-Ship Missile,Moderate,Arabian Sea – South China Sea
+EVT-00802,Insurance No-Go Zone Declaration,Severe,Bab el-Mandeb / Red Sea
+EVT-00803,IRGC Fast-Boat Harassment,Moderate,Strait of Hormuz
+EVT-00804,Naval Mine Detonation,Minor,Bab el-Mandeb / Red Sea
+EVT-00805,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-00806,GPS Spoofing / Jamming Incident,Moderate,Bab el-Mandeb / Red Sea
+EVT-00807,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00808,Port Closure (Military),Minor,Cape of Good Hope (reroute)
+EVT-00809,GPS Spoofing / Jamming Incident,Moderate,Suez Canal
+EVT-00810,Drone Strike Near Vessel,Moderate,Bab el-Mandeb / Red Sea
+EVT-00811,IRGC Fast-Boat Harassment,Severe,Bab el-Mandeb / Red Sea
+EVT-00812,GPS Spoofing / Jamming Incident,Severe,Strait of Hormuz
+EVT-00813,Piracy / Armed Boarding,Critical,Cape of Good Hope (reroute)
+EVT-00814,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00815,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00816,Unexploded Ordnance Discovery,Minor,Strait of Malacca
+EVT-00817,Unexploded Ordnance Discovery,Minor,Arabian Sea – South China Sea
+EVT-00818,Coalition Naval Escort Delay,Moderate,Strait of Malacca
+EVT-00819,Naval Mine Detonation,Moderate,Aden Gulf – Indian Ocean
+EVT-00820,Piracy / Armed Boarding,Minor,Arabian Sea – South China Sea
+EVT-00821,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00822,Port Closure (Military),Moderate,Bab el-Mandeb / Red Sea
+EVT-00823,Oil Spill from Damaged Tanker,Severe,Strait of Hormuz
+EVT-00824,Missile Attack on Tanker,Minor,Aden Gulf – Indian Ocean
+EVT-00825,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00826,IRGC Fast-Boat Harassment,Minor,Bab el-Mandeb / Red Sea
+EVT-00827,IRGC Fast-Boat Harassment,Severe,Persian Gulf – East China Sea
+EVT-00828,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00829,Piracy / Armed Boarding,Minor,Bab el-Mandeb / Red Sea
+EVT-00830,Coalition Naval Escort Delay,Moderate,Bab el-Mandeb / Red Sea
+EVT-00831,Houthi Anti-Ship Missile,Severe,Strait of Hormuz
+EVT-00832,Unexploded Ordnance Discovery,Moderate,Cape of Good Hope (reroute)
+EVT-00833,IRGC Fast-Boat Harassment,Minor,Strait of Hormuz
+EVT-00834,Oil Spill from Damaged Tanker,Minor,Strait of Malacca
+EVT-00835,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-00836,Insurance No-Go Zone Declaration,Severe,Persian Gulf – East China Sea
+EVT-00837,Port Closure (Military),Critical,Cape of Good Hope (reroute)
+EVT-00838,IRGC Fast-Boat Harassment,Minor,Strait of Hormuz
+EVT-00839,Drone Strike Near Vessel,Minor,Bab el-Mandeb / Red Sea
+EVT-00840,Piracy / Armed Boarding,Minor,Cape of Good Hope (reroute)
+EVT-00841,Houthi Anti-Ship Missile,Moderate,Persian Gulf – East China Sea
+EVT-00842,Port Closure (Military),Severe,Bab el-Mandeb / Red Sea
+EVT-00843,Military Blockade Enforcement,Critical,Cape of Good Hope (reroute)
+EVT-00844,Missile Attack on Tanker,Severe,Cape of Good Hope (reroute)
+EVT-00845,Missile Attack on Tanker,Minor,Arabian Sea – South China Sea
+EVT-00846,Missile Attack on Tanker,Moderate,Aden Gulf – Indian Ocean
+EVT-00847,Maritime Corridor Suspension,Minor,Bab el-Mandeb / Red Sea
+EVT-00848,Oil Spill from Damaged Tanker,Severe,Persian Gulf – Sea of Japan
+EVT-00849,Missile Attack on Tanker,Minor,Bab el-Mandeb / Red Sea
+EVT-00850,GPS Spoofing / Jamming Incident,Minor,Strait of Hormuz
+EVT-00851,IRGC Fast-Boat Harassment,Minor,Bab el-Mandeb / Red Sea
+EVT-00852,Naval Mine Detonation,Moderate,Bab el-Mandeb / Red Sea
+EVT-00853,Unexploded Ordnance Discovery,Severe,Strait of Hormuz
+EVT-00854,Drone Strike Near Vessel,Moderate,Persian Gulf – Sea of Japan
+EVT-00855,Military Blockade Enforcement,Minor,Aden Gulf – Indian Ocean
+EVT-00856,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00857,Piracy / Armed Boarding,Moderate,Suez Canal
+EVT-00858,Piracy / Armed Boarding,Severe,Suez Canal
+EVT-00859,Cyber-Attack on Port Systems,Minor,Persian Gulf – Sea of Japan
+EVT-00860,Port Closure (Military),Severe,Strait of Hormuz
+EVT-00861,Drone Strike Near Vessel,Severe,Persian Gulf – Bay of Bengal
+EVT-00862,GPS Spoofing / Jamming Incident,Moderate,Cape of Good Hope (reroute)
+EVT-00863,Unexploded Ordnance Discovery,Moderate,Persian Gulf – East China Sea
+EVT-00864,Cyber-Attack on Port Systems,Severe,Suez Canal
+EVT-00865,Oil Spill from Damaged Tanker,Minor,Cape of Good Hope (reroute)
+EVT-00866,Oil Spill from Damaged Tanker,Severe,Strait of Malacca
+EVT-00867,Cyber-Attack on Port Systems,Moderate,Aden Gulf – Indian Ocean
+EVT-00868,Oil Spill from Damaged Tanker,Moderate,Strait of Hormuz
+EVT-00869,Insurance No-Go Zone Declaration,Moderate,Persian Gulf – Sea of Japan
+EVT-00870,Cyber-Attack on Port Systems,Minor,Arabian Sea – South China Sea
+EVT-00871,Drone Strike Near Vessel,Severe,Bab el-Mandeb / Red Sea
+EVT-00872,Houthi Anti-Ship Missile,Critical,Bab el-Mandeb / Red Sea
+EVT-00873,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00874,Oil Spill from Damaged Tanker,Minor,Persian Gulf – Sea of Japan
+EVT-00875,Cyber-Attack on Port Systems,Moderate,Bab el-Mandeb / Red Sea
+EVT-00876,Oil Spill from Damaged Tanker,Minor,Strait of Hormuz
+EVT-00877,Unexploded Ordnance Discovery,Severe,Strait of Hormuz
+EVT-00878,Houthi Anti-Ship Missile,Moderate,Arabian Sea – South China Sea
+EVT-00879,Unexploded Ordnance Discovery,Moderate,Bab el-Mandeb / Red Sea
+EVT-00880,Military Blockade Enforcement,Moderate,Persian Gulf – Sea of Japan
+EVT-00881,Naval Mine Detonation,Severe,Bab el-Mandeb / Red Sea
+EVT-00882,Port Closure (Military),Moderate,Bab el-Mandeb / Red Sea
+EVT-00883,Military Blockade Enforcement,Severe,Strait of Hormuz
+EVT-00884,Houthi Anti-Ship Missile,Severe,Bab el-Mandeb / Red Sea
+EVT-00885,Drone Strike Near Vessel,Moderate,Strait of Malacca
+EVT-00886,Cyber-Attack on Port Systems,Severe,Cape of Good Hope (reroute)
+EVT-00887,Naval Mine Detonation,Minor,Strait of Hormuz
+EVT-00888,Port Closure (Military),Moderate,Bab el-Mandeb / Red Sea
+EVT-00889,Naval Mine Detonation,Severe,Bab el-Mandeb / Red Sea
+EVT-00890,Houthi Anti-Ship Missile,Severe,Strait of Hormuz
+EVT-00891,Missile Attack on Tanker,Minor,Aden Gulf – Indian Ocean
+EVT-00892,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00893,Maritime Corridor Suspension,Moderate,Persian Gulf – East China Sea
+EVT-00894,Oil Spill from Damaged Tanker,Severe,Suez Canal
+EVT-00895,Port Closure (Military),Minor,Strait of Hormuz
+EVT-00896,Military Blockade Enforcement,Moderate,Strait of Hormuz
+EVT-00897,Port Closure (Military),Severe,Strait of Hormuz
+EVT-00898,Cyber-Attack on Port Systems,Moderate,Strait of Hormuz
+EVT-00899,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-00900,Military Blockade Enforcement,Severe,Bab el-Mandeb / Red Sea
+EVT-00901,Houthi Anti-Ship Missile,Moderate,Bab el-Mandeb / Red Sea
+EVT-00902,IRGC Fast-Boat Harassment,Severe,Arabian Sea – South China Sea
+EVT-00903,Maritime Corridor Suspension,Moderate,Persian Gulf – East China Sea
+EVT-00904,Drone Strike Near Vessel,Minor,Bab el-Mandeb / Red Sea
+EVT-00905,Drone Strike Near Vessel,Moderate,Cape of Good Hope (reroute)
+EVT-00906,Maritime Corridor Suspension,Severe,Suez Canal
+EVT-00907,Military Blockade Enforcement,Minor,Strait of Hormuz
+EVT-00908,Maritime Corridor Suspension,Moderate,Suez Canal
+EVT-00909,Coalition Naval Escort Delay,Critical,Suez Canal
+EVT-00910,Drone Strike Near Vessel,Minor,Persian Gulf – Bay of Bengal
+EVT-00911,Drone Strike Near Vessel,Critical,Strait of Hormuz
+EVT-00912,IRGC Fast-Boat Harassment,Moderate,Suez Canal
+EVT-00913,IRGC Fast-Boat Harassment,Minor,Strait of Malacca
+EVT-00914,Houthi Anti-Ship Missile,Critical,Persian Gulf – East China Sea
+EVT-00915,Piracy / Armed Boarding,Moderate,Bab el-Mandeb / Red Sea
+EVT-00916,Oil Spill from Damaged Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00917,Missile Attack on Tanker,Moderate,Persian Gulf – Bay of Bengal
+EVT-00918,Military Blockade Enforcement,Severe,Bab el-Mandeb / Red Sea
+EVT-00919,Unexploded Ordnance Discovery,Moderate,Bab el-Mandeb / Red Sea
+EVT-00920,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00921,Military Blockade Enforcement,Minor,Suez Canal
+EVT-00922,IRGC Fast-Boat Harassment,Severe,Strait of Malacca
+EVT-00923,Missile Attack on Tanker,Severe,Aden Gulf – Indian Ocean
+EVT-00924,Oil Spill from Damaged Tanker,Severe,Suez Canal
+EVT-00925,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-00926,Houthi Anti-Ship Missile,Minor,Suez Canal
+EVT-00927,Drone Strike Near Vessel,Severe,Bab el-Mandeb / Red Sea
+EVT-00928,Insurance No-Go Zone Declaration,Minor,Cape of Good Hope (reroute)
+EVT-00929,Houthi Anti-Ship Missile,Minor,Persian Gulf – East China Sea
+EVT-00930,Unexploded Ordnance Discovery,Moderate,Suez Canal
+EVT-00931,Houthi Anti-Ship Missile,Minor,Strait of Hormuz
+EVT-00932,Military Blockade Enforcement,Moderate,Bab el-Mandeb / Red Sea
+EVT-00933,Houthi Anti-Ship Missile,Minor,Aden Gulf – Indian Ocean
+EVT-00934,Unexploded Ordnance Discovery,Minor,Strait of Hormuz
+EVT-00935,Drone Strike Near Vessel,Minor,Strait of Malacca
+EVT-00936,Drone Strike Near Vessel,Minor,Suez Canal
+EVT-00937,Military Blockade Enforcement,Minor,Persian Gulf – Sea of Japan
+EVT-00938,Insurance No-Go Zone Declaration,Severe,Strait of Hormuz
+EVT-00939,Coalition Naval Escort Delay,Severe,Bab el-Mandeb / Red Sea
+EVT-00940,Maritime Corridor Suspension,Minor,Cape of Good Hope (reroute)
+EVT-00941,Missile Attack on Tanker,Severe,Suez Canal
+EVT-00942,Coalition Naval Escort Delay,Minor,Strait of Hormuz
+EVT-00943,Piracy / Armed Boarding,Minor,Strait of Hormuz
+EVT-00944,Oil Spill from Damaged Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00945,IRGC Fast-Boat Harassment,Critical,Suez Canal
+EVT-00946,Military Blockade Enforcement,Minor,Suez Canal
+EVT-00947,Military Blockade Enforcement,Minor,Suez Canal
+EVT-00948,Maritime Corridor Suspension,Critical,Strait of Malacca
+EVT-00949,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-00950,Piracy / Armed Boarding,Minor,Strait of Hormuz
+EVT-00951,GPS Spoofing / Jamming Incident,Moderate,Suez Canal
+EVT-00952,Houthi Anti-Ship Missile,Moderate,Strait of Hormuz
+EVT-00953,Maritime Corridor Suspension,Moderate,Cape of Good Hope (reroute)
+EVT-00954,IRGC Fast-Boat Harassment,Critical,Strait of Hormuz
+EVT-00955,Maritime Corridor Suspension,Minor,Persian Gulf – East China Sea
+EVT-00956,Missile Attack on Tanker,Moderate,Persian Gulf – East China Sea
+EVT-00957,Unexploded Ordnance Discovery,Minor,Suez Canal
+EVT-00958,Missile Attack on Tanker,Severe,Cape of Good Hope (reroute)
+EVT-00959,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-00960,Military Blockade Enforcement,Minor,Bab el-Mandeb / Red Sea
+EVT-00961,Insurance No-Go Zone Declaration,Minor,Cape of Good Hope (reroute)
+EVT-00962,Coalition Naval Escort Delay,Moderate,Suez Canal
+EVT-00963,Insurance No-Go Zone Declaration,Severe,Suez Canal
+EVT-00964,Oil Spill from Damaged Tanker,Critical,Strait of Malacca
+EVT-00965,Naval Mine Detonation,Severe,Persian Gulf – East China Sea
+EVT-00966,Piracy / Armed Boarding,Moderate,Strait of Hormuz
+EVT-00967,Insurance No-Go Zone Declaration,Minor,Strait of Hormuz
+EVT-00968,Naval Mine Detonation,Severe,Bab el-Mandeb / Red Sea
+EVT-00969,Piracy / Armed Boarding,Severe,Bab el-Mandeb / Red Sea
+EVT-00970,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-00971,Houthi Anti-Ship Missile,Severe,Bab el-Mandeb / Red Sea
+EVT-00972,Houthi Anti-Ship Missile,Minor,Suez Canal
+EVT-00973,Coalition Naval Escort Delay,Severe,Strait of Hormuz
+EVT-00974,GPS Spoofing / Jamming Incident,Minor,Persian Gulf – East China Sea
+EVT-00975,Piracy / Armed Boarding,Minor,Cape of Good Hope (reroute)
+EVT-00976,IRGC Fast-Boat Harassment,Minor,Strait of Hormuz
+EVT-00977,Coalition Naval Escort Delay,Moderate,Suez Canal
+EVT-00978,Drone Strike Near Vessel,Critical,Bab el-Mandeb / Red Sea
+EVT-00979,Drone Strike Near Vessel,Severe,Persian Gulf – Sea of Japan
+EVT-00980,Maritime Corridor Suspension,Moderate,Strait of Hormuz
+EVT-00981,GPS Spoofing / Jamming Incident,Minor,Suez Canal
+EVT-00982,Unexploded Ordnance Discovery,Minor,Suez Canal
+EVT-00983,Naval Mine Detonation,Moderate,Strait of Hormuz
+EVT-00984,Maritime Corridor Suspension,Moderate,Persian Gulf – Sea of Japan
+EVT-00985,Piracy / Armed Boarding,Moderate,Suez Canal
+EVT-00986,IRGC Fast-Boat Harassment,Moderate,Bab el-Mandeb / Red Sea
+EVT-00987,Unexploded Ordnance Discovery,Minor,Bab el-Mandeb / Red Sea
+EVT-00988,Naval Mine Detonation,Minor,Persian Gulf – Bay of Bengal
+EVT-00989,Unexploded Ordnance Discovery,Severe,Bab el-Mandeb / Red Sea
+EVT-00990,Port Closure (Military),Moderate,Persian Gulf – East China Sea
+EVT-00991,Port Closure (Military),Moderate,Suez Canal
+EVT-00992,Missile Attack on Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-00993,GPS Spoofing / Jamming Incident,Moderate,Cape of Good Hope (reroute)
+EVT-00994,Naval Mine Detonation,Minor,Bab el-Mandeb / Red Sea
+EVT-00995,Piracy / Armed Boarding,Minor,Persian Gulf – Bay of Bengal
+EVT-00996,Oil Spill from Damaged Tanker,Minor,Suez Canal
+EVT-00997,Naval Mine Detonation,Minor,Arabian Sea – South China Sea
+EVT-00998,Drone Strike Near Vessel,Moderate,Persian Gulf – East China Sea
+EVT-00999,Missile Attack on Tanker,Minor,Strait of Hormuz
+EVT-01000,Piracy / Armed Boarding,Moderate,Bab el-Mandeb / Red Sea
+EVT-01001,Missile Attack on Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-01002,Missile Attack on Tanker,Moderate,Strait of Hormuz
+EVT-01003,Insurance No-Go Zone Declaration,Moderate,Strait of Hormuz
+EVT-01004,Port Closure (Military),Moderate,Aden Gulf – Indian Ocean
+EVT-01005,Coalition Naval Escort Delay,Minor,Persian Gulf – East China Sea
+EVT-01006,Naval Mine Detonation,Moderate,Persian Gulf – Bay of Bengal
+EVT-01007,Oil Spill from Damaged Tanker,Severe,Suez Canal
+EVT-01008,Houthi Anti-Ship Missile,Minor,Persian Gulf – East China Sea
+EVT-01009,Cyber-Attack on Port Systems,Minor,Suez Canal
+EVT-01010,Maritime Corridor Suspension,Minor,Strait of Malacca
+EVT-01011,Unexploded Ordnance Discovery,Critical,Bab el-Mandeb / Red Sea
+EVT-01012,Coalition Naval Escort Delay,Severe,Bab el-Mandeb / Red Sea
+EVT-01013,Cyber-Attack on Port Systems,Severe,Bab el-Mandeb / Red Sea
+EVT-01014,Military Blockade Enforcement,Moderate,Strait of Hormuz
+EVT-01015,IRGC Fast-Boat Harassment,Moderate,Suez Canal
+EVT-01016,Port Closure (Military),Moderate,Strait of Hormuz
+EVT-01017,Military Blockade Enforcement,Moderate,Strait of Malacca
+EVT-01018,Drone Strike Near Vessel,Minor,Strait of Hormuz
+EVT-01019,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-01020,Naval Mine Detonation,Critical,Strait of Hormuz
+EVT-01021,Coalition Naval Escort Delay,Severe,Strait of Hormuz
+EVT-01022,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-01023,IRGC Fast-Boat Harassment,Minor,Suez Canal
+EVT-01024,Military Blockade Enforcement,Severe,Strait of Malacca
+EVT-01025,Unexploded Ordnance Discovery,Critical,Bab el-Mandeb / Red Sea
+EVT-01026,Oil Spill from Damaged Tanker,Moderate,Strait of Hormuz
+EVT-01027,Missile Attack on Tanker,Minor,Persian Gulf – Sea of Japan
+EVT-01028,Port Closure (Military),Minor,Bab el-Mandeb / Red Sea
+EVT-01029,Oil Spill from Damaged Tanker,Critical,Cape of Good Hope (reroute)
+EVT-01030,Piracy / Armed Boarding,Moderate,Bab el-Mandeb / Red Sea
+EVT-01031,Military Blockade Enforcement,Severe,Bab el-Mandeb / Red Sea
+EVT-01032,Missile Attack on Tanker,Severe,Persian Gulf – Bay of Bengal
+EVT-01033,Maritime Corridor Suspension,Critical,Bab el-Mandeb / Red Sea
+EVT-01034,Coalition Naval Escort Delay,Moderate,Bab el-Mandeb / Red Sea
+EVT-01035,Oil Spill from Damaged Tanker,Moderate,Persian Gulf – East China Sea
+EVT-01036,Coalition Naval Escort Delay,Minor,Bab el-Mandeb / Red Sea
+EVT-01037,Maritime Corridor Suspension,Minor,Strait of Hormuz
+EVT-01038,Insurance No-Go Zone Declaration,Moderate,Bab el-Mandeb / Red Sea
+EVT-01039,Missile Attack on Tanker,Severe,Cape of Good Hope (reroute)
+EVT-01040,Missile Attack on Tanker,Severe,Bab el-Mandeb / Red Sea
+EVT-01041,Missile Attack on Tanker,Moderate,Bab el-Mandeb / Red Sea
+EVT-01042,Houthi Anti-Ship Missile,Moderate,Strait of Hormuz
+EVT-01043,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-01044,Cyber-Attack on Port Systems,Critical,Aden Gulf – Indian Ocean
+EVT-01045,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-01046,Naval Mine Detonation,Severe,Strait of Hormuz
+EVT-01047,Oil Spill from Damaged Tanker,Moderate,Cape of Good Hope (reroute)
+EVT-01048,Unexploded Ordnance Discovery,Critical,Strait of Hormuz
+EVT-01049,Insurance No-Go Zone Declaration,Minor,Bab el-Mandeb / Red Sea
+EVT-01050,Coalition Naval Escort Delay,Critical,Persian Gulf – East China Sea
+EVT-01051,Houthi Anti-Ship Missile,Moderate,Persian Gulf – East China Sea
+EVT-01052,Missile Attack on Tanker,Severe,Persian Gulf – East China Sea

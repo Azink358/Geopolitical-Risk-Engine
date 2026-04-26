@@ -1,0 +1,2161 @@
+Date,Country,Fuel_Type,Import_Volume_KBPD,ME_Share_Pct,Alternative_Source_Pct,Price_Premium_Pct,Conflict_Phase,Disruption_Risk_Score,SPR_Days_Cover
+2024-10-01,China,Crude Oil,6418.2,43.69,53.53,0.0,Initial Escalation,1.5,91.0
+2024-10-01,China,LNG,2107.4,43.3,55.31,0.0,Initial Escalation,1.9,97.0
+2024-10-01,China,LPG,623.4,43.81,55.27,0.0,Initial Escalation,1.7,87.0
+2024-10-01,China,Diesel,916.5,43.07,54.53,0.0,Initial Escalation,1.1,86.0
+2024-10-01,China,Jet Fuel,557.4,44.64,56.58,0.0,Initial Escalation,1.6,77.0
+2024-10-01,China,Fuel Oil,336.4,44.26,53.78,0.0,Initial Escalation,1.5,88.0
+2024-10-01,India,Crude Oil,3082.7,61.07,37.76,0.0,Initial Escalation,1.9,70.0
+2024-10-01,India,LNG,897.5,63.76,34.8,0.0,Initial Escalation,2.6,56.0
+2024-10-01,India,LPG,265.1,61.79,38.91,0.0,Initial Escalation,2.7,47.0
+2024-10-01,India,Diesel,393.9,62.86,37.53,0.0,Initial Escalation,1.8,60.0
+2024-10-01,India,Jet Fuel,259.1,62.68,39.16,0.0,Initial Escalation,1.8,69.0
+2024-10-01,India,Fuel Oil,141.0,62.02,36.92,0.0,Initial Escalation,2.4,48.0
+2024-10-01,Japan,Crude Oil,1743.1,85.65,14.78,0.0,Initial Escalation,2.9,233.0
+2024-10-01,Japan,LNG,595.1,86.48,13.09,0.0,Initial Escalation,3.4,235.0
+2024-10-01,Japan,LPG,196.5,85.14,15.69,0.0,Initial Escalation,3.3,231.0
+2024-10-01,Japan,Diesel,266.8,90.99,9.43,0.0,Initial Escalation,2.8,225.0
+2024-10-01,Japan,Jet Fuel,165.7,86.62,13.27,0.0,Initial Escalation,2.9,241.0
+2024-10-01,Japan,Fuel Oil,95.4,88.68,11.89,0.0,Initial Escalation,3.3,241.0
+2024-10-01,South Korea,Crude Oil,1600.6,73.18,25.39,0.0,Initial Escalation,2.4,189.0
+2024-10-01,South Korea,LNG,492.4,69.52,31.9,0.0,Initial Escalation,2.9,189.0
+2024-10-01,South Korea,LPG,155.5,71.07,30.62,0.0,Initial Escalation,2.2,192.0
+2024-10-01,South Korea,Diesel,225.9,72.44,28.15,0.0,Initial Escalation,2.3,179.0
+2024-10-01,South Korea,Jet Fuel,128.1,70.77,28.52,0.0,Initial Escalation,2.3,183.0
+2024-10-01,South Korea,Fuel Oil,76.9,72.57,27.92,0.0,Initial Escalation,2.7,177.0
+2024-10-01,Australia,Crude Oil,403.9,14.6,57.26,0.0,Initial Escalation,0.7,61.0
+2024-10-01,Australia,LNG,115.7,15.52,57.69,0.0,Initial Escalation,0.1,62.0
+2024-10-01,Australia,LPG,37.9,15.56,58.74,0.0,Initial Escalation,0.9,39.0
+2024-10-01,Australia,Diesel,52.7,15.57,58.54,0.0,Initial Escalation,0.9,60.0
+2024-10-01,Australia,Jet Fuel,33.9,15.23,57.49,0.0,Initial Escalation,0.2,51.0
+2024-10-01,Australia,Fuel Oil,20.1,15.59,56.42,0.0,Initial Escalation,0.3,53.0
+2024-10-01,Indonesia,Crude Oil,550.1,18.22,57.91,0.0,Initial Escalation,0.2,34.0
+2024-10-01,Indonesia,LNG,145.6,17.59,58.32,0.0,Initial Escalation,1.0,40.0
+2024-10-01,Indonesia,LPG,47.2,17.55,62.88,0.0,Initial Escalation,1.0,44.0
+2024-10-01,Indonesia,Diesel,72.0,18.15,60.22,0.0,Initial Escalation,0.4,36.0
+2024-10-01,Indonesia,Jet Fuel,39.7,17.92,59.59,0.0,Initial Escalation,0.2,33.0
+2024-10-01,Indonesia,Fuel Oil,27.1,18.36,58.12,0.0,Initial Escalation,0.3,35.0
+2024-10-01,Thailand,Crude Oil,539.8,56.02,44.25,0.0,Initial Escalation,2.1,34.0
+2024-10-01,Thailand,LNG,166.7,52.86,47.2,0.0,Initial Escalation,2.1,58.0
+2024-10-01,Thailand,LPG,56.1,53.84,46.6,0.0,Initial Escalation,2.0,30.0
+2024-10-01,Thailand,Diesel,77.0,53.11,45.7,0.0,Initial Escalation,1.6,30.0
+2024-10-01,Thailand,Jet Fuel,47.4,56.09,42.99,0.0,Initial Escalation,1.9,37.0
+2024-10-01,Thailand,Fuel Oil,29.0,55.43,42.76,0.0,Initial Escalation,2.3,50.0
+2024-10-01,Vietnam,Crude Oil,228.0,21.2,60.18,0.0,Initial Escalation,0.7,52.0
+2024-10-01,Vietnam,LNG,71.7,21.84,57.47,0.0,Initial Escalation,0.8,38.0
+2024-10-01,Vietnam,LPG,22.3,22.74,62.98,0.0,Initial Escalation,0.7,44.0
+2024-10-01,Vietnam,Diesel,30.9,22.81,59.1,0.0,Initial Escalation,0.6,29.0
+2024-10-01,Vietnam,Jet Fuel,19.9,21.15,60.04,0.0,Initial Escalation,1.1,37.0
+2024-10-01,Vietnam,Fuel Oil,12.5,21.65,61.75,0.0,Initial Escalation,0.3,49.0
+2024-10-01,Philippines,Crude Oil,190.5,61.11,40.12,0.0,Initial Escalation,1.6,43.0
+2024-10-01,Philippines,LNG,58.0,60.97,40.66,0.0,Initial Escalation,2.2,45.0
+2024-10-01,Philippines,LPG,17.6,60.67,37.76,0.0,Initial Escalation,2.2,36.0
+2024-10-01,Philippines,Diesel,25.3,61.68,36.55,0.0,Initial Escalation,1.7,32.0
+2024-10-01,Philippines,Jet Fuel,16.0,59.79,40.93,0.0,Initial Escalation,2.3,54.0
+2024-10-01,Philippines,Fuel Oil,9.8,60.74,39.21,0.0,Initial Escalation,2.4,35.0
+2024-10-01,Malaysia,Crude Oil,233.0,12.44,57.0,0.0,Initial Escalation,-0.1,50.0
+2024-10-01,Malaysia,LNG,81.0,12.08,58.77,0.0,Initial Escalation,0.1,48.0
+2024-10-01,Malaysia,LPG,26.8,11.86,57.62,0.0,Initial Escalation,0.4,47.0
+2024-10-01,Malaysia,Diesel,33.9,11.97,59.69,0.0,Initial Escalation,0.7,21.0
+2024-10-01,Malaysia,Jet Fuel,20.3,11.95,59.32,0.0,Initial Escalation,0.4,32.0
+2024-10-01,Malaysia,Fuel Oil,12.4,11.86,62.32,0.0,Initial Escalation,0.5,37.0
+2024-10-01,Pakistan,Crude Oil,274.5,75.53,25.68,0.0,Initial Escalation,2.4,39.0
+2024-10-01,Pakistan,LNG,82.9,74.54,26.37,0.0,Initial Escalation,3.0,50.0
+2024-10-01,Pakistan,LPG,28.8,73.42,27.52,0.0,Initial Escalation,3.1,47.0
+2024-10-01,Pakistan,Diesel,38.8,73.01,27.31,0.0,Initial Escalation,2.3,44.0
+2024-10-01,Pakistan,Jet Fuel,24.0,73.86,27.48,0.0,Initial Escalation,3.1,50.0
+2024-10-01,Pakistan,Fuel Oil,15.4,75.83,23.36,0.0,Initial Escalation,2.4,44.0
+2024-10-01,Bangladesh,Crude Oil,81.7,43.07,57.66,0.0,Initial Escalation,1.0,43.0
+2024-10-01,Bangladesh,LNG,25.6,40.48,62.9,0.0,Initial Escalation,1.0,50.0
+2024-10-01,Bangladesh,LPG,8.1,41.68,61.48,0.0,Initial Escalation,1.1,27.0
+2024-10-01,Bangladesh,Diesel,11.2,42.63,53.94,0.0,Initial Escalation,1.0,35.0
+2024-10-01,Bangladesh,Jet Fuel,7.1,42.62,59.21,0.0,Initial Escalation,1.6,51.0
+2024-10-01,Bangladesh,Fuel Oil,4.3,43.49,54.74,0.0,Initial Escalation,1.0,39.0
+2024-10-01,Taiwan,Crude Oil,493.3,81.1,19.98,0.0,Initial Escalation,2.3,50.0
+2024-10-01,Taiwan,LNG,165.6,77.55,22.45,0.0,Initial Escalation,2.9,47.0
+2024-10-01,Taiwan,LPG,56.6,79.67,21.14,0.0,Initial Escalation,2.9,35.0
+2024-10-01,Taiwan,Diesel,69.5,75.54,24.08,0.0,Initial Escalation,2.5,28.0
+2024-10-01,Taiwan,Jet Fuel,46.0,76.0,25.28,0.0,Initial Escalation,2.8,34.0
+2024-10-01,Taiwan,Fuel Oil,24.5,75.27,25.35,0.0,Initial Escalation,2.7,59.0
+2024-10-01,Singapore,Crude Oil,818.2,81.68,17.99,0.0,Initial Escalation,2.7,33.0
+2024-10-01,Singapore,LNG,238.8,82.88,16.79,0.0,Initial Escalation,3.3,50.0
+2024-10-01,Singapore,LPG,81.8,81.11,19.39,0.0,Initial Escalation,3.2,40.0
+2024-10-01,Singapore,Diesel,99.3,80.66,20.24,0.0,Initial Escalation,3.1,38.0
+2024-10-01,Singapore,Jet Fuel,61.8,78.35,22.85,0.0,Initial Escalation,2.4,48.0
+2024-10-01,Singapore,Fuel Oil,39.9,82.8,18.09,0.0,Initial Escalation,2.5,38.0
+2024-10-01,New Zealand,Crude Oil,77.8,28.59,60.01,0.0,Initial Escalation,1.2,30.0
+2024-10-01,New Zealand,LNG,24.3,27.07,59.82,0.0,Initial Escalation,0.8,54.0
+2024-10-01,New Zealand,LPG,8.5,28.53,61.2,0.0,Initial Escalation,1.3,46.0
+2024-10-01,New Zealand,Diesel,11.3,27.38,60.24,0.0,Initial Escalation,0.6,39.0
+2024-10-01,New Zealand,Jet Fuel,6.6,28.47,59.22,0.0,Initial Escalation,1.2,42.0
+2024-10-01,New Zealand,Fuel Oil,4.4,29.06,60.22,0.0,Initial Escalation,1.2,44.0
+2024-10-01,Sri Lanka,Crude Oil,44.5,93.33,6.96,0.0,Initial Escalation,2.7,46.0
+2024-10-01,Sri Lanka,LNG,15.4,90.49,9.59,0.0,Initial Escalation,2.8,56.0
+2024-10-01,Sri Lanka,LPG,4.9,91.93,7.95,0.0,Initial Escalation,3.1,28.0
+2024-10-01,Sri Lanka,Diesel,6.4,88.61,11.77,0.0,Initial Escalation,3.0,34.0
+2024-10-01,Sri Lanka,Jet Fuel,4.2,90.16,10.25,0.0,Initial Escalation,3.3,36.0
+2024-10-01,Sri Lanka,Fuel Oil,2.3,89.12,11.33,0.0,Initial Escalation,3.2,55.0
+2024-10-01,Myanmar,Crude Oil,39.6,35.9,62.74,0.0,Initial Escalation,1.1,40.0
+2024-10-01,Myanmar,LNG,13.3,34.2,57.28,0.0,Initial Escalation,0.8,40.0
+2024-10-01,Myanmar,LPG,4.0,33.62,60.84,0.0,Initial Escalation,1.3,36.0
+2024-10-01,Myanmar,Diesel,5.9,34.15,63.4,0.0,Initial Escalation,1.5,43.0
+2024-10-01,Myanmar,Jet Fuel,3.5,34.71,60.04,0.0,Initial Escalation,1.6,41.0
+2024-10-01,Myanmar,Fuel Oil,2.2,34.06,56.51,0.0,Initial Escalation,1.1,48.0
+2024-10-01,Cambodia,Crude Oil,26.5,40.32,62.06,0.0,Initial Escalation,1.1,39.0
+2024-10-01,Cambodia,LNG,7.7,41.01,60.6,0.0,Initial Escalation,1.3,44.0
+2024-10-01,Cambodia,LPG,2.8,39.67,59.88,0.0,Initial Escalation,1.3,40.0
+2024-10-01,Cambodia,Diesel,3.7,39.72,58.97,0.0,Initial Escalation,1.2,46.0
+2024-10-01,Cambodia,Jet Fuel,2.3,41.2,56.78,0.0,Initial Escalation,1.6,37.0
+2024-10-01,Cambodia,Fuel Oil,1.4,38.58,61.03,0.0,Initial Escalation,1.0,37.0
+2024-10-01,Laos,Crude Oil,9.5,10.09,59.38,0.0,Initial Escalation,0.5,41.0
+2024-10-01,Laos,LNG,2.9,9.85,58.83,0.0,Initial Escalation,-0.0,58.0
+2024-10-01,Laos,LPG,0.9,9.93,59.34,0.0,Initial Escalation,0.1,33.0
+2024-10-01,Laos,Diesel,1.2,9.91,61.25,0.0,Initial Escalation,-0.1,40.0
+2024-10-01,Laos,Jet Fuel,0.7,9.7,58.29,0.0,Initial Escalation,-0.0,38.0
+2024-10-01,Laos,Fuel Oil,0.5,9.99,62.67,0.0,Initial Escalation,0.2,41.0
+2024-10-01,Mongolia,Crude Oil,15.1,5.01,58.25,0.0,Initial Escalation,0.6,37.0
+2024-10-01,Mongolia,LNG,4.6,4.98,56.81,0.0,Initial Escalation,0.2,33.0
+2024-10-01,Mongolia,LPG,1.5,5.12,61.84,0.0,Initial Escalation,0.1,23.0
+2024-10-01,Mongolia,Diesel,2.1,5.15,57.94,0.0,Initial Escalation,-0.0,43.0
+2024-10-01,Mongolia,Jet Fuel,1.3,5.1,60.91,0.0,Initial Escalation,0.2,55.0
+2024-10-01,Mongolia,Fuel Oil,0.7,4.95,62.72,0.0,Initial Escalation,0.6,48.0
+2024-11-01,China,Crude Oil,6561.6,43.81,58.86,0.0,Initial Escalation,1.9,87.0
+2024-11-01,China,LNG,1876.3,43.55,53.4,0.0,Initial Escalation,2.0,86.0
+2024-11-01,China,LPG,712.4,43.32,57.16,0.0,Initial Escalation,1.6,103.0
+2024-11-01,China,Diesel,955.9,44.63,55.65,0.0,Initial Escalation,1.1,92.0
+2024-11-01,China,Jet Fuel,568.4,43.47,57.77,0.0,Initial Escalation,1.3,98.0
+2024-11-01,China,Fuel Oil,351.4,43.59,56.11,0.0,Initial Escalation,1.8,85.0
+2024-11-01,India,Crude Oil,2938.8,62.36,36.51,0.0,Initial Escalation,2.5,64.0
+2024-11-01,India,LNG,900.2,63.05,37.32,0.0,Initial Escalation,2.2,56.0
+2024-11-01,India,LPG,300.8,62.91,37.96,0.0,Initial Escalation,2.3,77.0
+2024-11-01,India,Diesel,386.5,62.09,38.14,0.0,Initial Escalation,2.6,60.0
+2024-11-01,India,Jet Fuel,247.6,62.8,38.22,0.0,Initial Escalation,1.9,74.0
+2024-11-01,India,Fuel Oil,133.6,60.7,39.75,0.0,Initial Escalation,2.1,58.0
+2024-11-01,Japan,Crude Oil,1742.7,86.3,14.48,0.0,Initial Escalation,3.5,241.0
+2024-11-01,Japan,LNG,525.8,87.34,12.02,0.0,Initial Escalation,2.8,251.0
+2024-11-01,Japan,LPG,187.2,88.68,11.0,0.0,Initial Escalation,3.6,213.0
+2024-11-01,Japan,Diesel,229.3,85.03,15.57,0.0,Initial Escalation,3.0,236.0
+2024-11-01,Japan,Jet Fuel,158.5,87.95,12.61,0.0,Initial Escalation,2.6,223.0
+2024-11-01,Japan,Fuel Oil,100.1,90.76,9.02,0.0,Initial Escalation,2.7,210.0
+2024-11-01,South Korea,Crude Oil,1546.7,69.44,28.92,0.0,Initial Escalation,2.8,180.0
+2024-11-01,South Korea,LNG,499.8,71.03,28.89,0.0,Initial Escalation,3.0,180.0
+2024-11-01,South Korea,LPG,153.2,71.98,28.39,0.0,Initial Escalation,2.9,179.0
+2024-11-01,South Korea,Diesel,217.9,73.11,27.49,0.0,Initial Escalation,2.1,179.0
+2024-11-01,South Korea,Jet Fuel,134.6,70.61,30.99,0.0,Initial Escalation,2.3,178.0
+2024-11-01,South Korea,Fuel Oil,77.8,73.99,24.84,0.0,Initial Escalation,2.5,179.0
+2024-11-01,Australia,Crude Oil,398.6,15.29,60.74,0.0,Initial Escalation,0.6,76.0
+2024-11-01,Australia,LNG,122.5,14.82,56.74,0.0,Initial Escalation,0.3,75.0
+2024-11-01,Australia,LPG,40.3,14.56,59.16,0.0,Initial Escalation,1.0,62.0
+2024-11-01,Australia,Diesel,50.6,15.29,62.08,0.0,Initial Escalation,1.0,64.0
+2024-11-01,Australia,Jet Fuel,31.9,15.08,58.44,0.0,Initial Escalation,0.7,51.0
+2024-11-01,Australia,Fuel Oil,19.7,15.33,62.44,0.0,Initial Escalation,0.9,61.0
+2024-11-01,Indonesia,Crude Oil,485.9,17.97,59.61,0.0,Initial Escalation,1.0,47.0
+2024-11-01,Indonesia,LNG,149.3,17.84,58.72,0.0,Initial Escalation,0.7,36.0
+2024-11-01,Indonesia,LPG,47.8,17.51,63.38,0.0,Initial Escalation,0.6,40.0
+2024-11-01,Indonesia,Diesel,72.9,18.59,63.2,0.0,Initial Escalation,0.7,31.0
+2024-11-01,Indonesia,Jet Fuel,39.1,18.59,56.5,0.0,Initial Escalation,0.5,37.0
+2024-11-01,Indonesia,Fuel Oil,24.8,17.75,61.81,0.0,Initial Escalation,0.7,47.0
+2024-11-01,Thailand,Crude Oil,526.6,54.3,46.94,0.0,Initial Escalation,2.3,27.0
+2024-11-01,Thailand,LNG,178.3,53.5,45.82,0.0,Initial Escalation,2.4,50.0
+2024-11-01,Thailand,LPG,52.3,54.49,47.7,0.0,Initial Escalation,1.6,29.0
+2024-11-01,Thailand,Diesel,78.9,55.75,41.75,0.0,Initial Escalation,1.5,43.0
+2024-11-01,Thailand,Jet Fuel,47.0,54.82,45.91,0.0,Initial Escalation,1.5,30.0
+2024-11-01,Thailand,Fuel Oil,27.5,56.01,41.89,0.0,Initial Escalation,1.9,42.0
+2024-11-01,Vietnam,Crude Oil,240.1,22.83,62.02,0.0,Initial Escalation,1.0,29.0
+2024-11-01,Vietnam,LNG,67.4,22.2,59.87,0.0,Initial Escalation,0.9,49.0
+2024-11-01,Vietnam,LPG,21.8,21.56,57.92,0.0,Initial Escalation,1.2,33.0
+2024-11-01,Vietnam,Diesel,33.1,21.49,62.01,0.0,Initial Escalation,0.6,53.0
+2024-11-01,Vietnam,Jet Fuel,19.0,21.75,57.33,0.0,Initial Escalation,0.7,41.0
+2024-11-01,Vietnam,Fuel Oil,12.1,21.76,62.05,0.0,Initial Escalation,0.8,45.0
+2024-11-01,Philippines,Crude Oil,183.0,59.93,42.27,0.0,Initial Escalation,2.6,41.0
+2024-11-01,Philippines,LNG,56.6,58.02,42.13,0.0,Initial Escalation,2.3,36.0
+2024-11-01,Philippines,LPG,18.6,60.71,38.46,0.0,Initial Escalation,2.3,40.0
+2024-11-01,Philippines,Diesel,25.7,61.05,38.16,0.0,Initial Escalation,1.7,35.0
+2024-11-01,Philippines,Jet Fuel,16.6,61.17,41.07,0.0,Initial Escalation,2.5,36.0
+2024-11-01,Philippines,Fuel Oil,9.3,57.84,42.26,0.0,Initial Escalation,2.1,48.0
+2024-11-01,Malaysia,Crude Oil,272.1,12.02,57.14,0.0,Initial Escalation,0.8,33.0
+2024-11-01,Malaysia,LNG,71.5,11.99,59.56,0.0,Initial Escalation,0.8,41.0
+2024-11-01,Malaysia,LPG,26.3,11.82,60.42,0.0,Initial Escalation,0.5,49.0
+2024-11-01,Malaysia,Diesel,32.8,11.85,58.74,0.0,Initial Escalation,0.7,53.0
+2024-11-01,Malaysia,Jet Fuel,19.4,12.1,61.92,0.0,Initial Escalation,0.2,46.0
+2024-11-01,Malaysia,Fuel Oil,13.6,12.12,56.46,0.0,Initial Escalation,0.1,44.0
+2024-11-01,Pakistan,Crude Oil,288.5,77.6,22.51,0.0,Initial Escalation,2.3,33.0
+2024-11-01,Pakistan,LNG,87.0,73.11,26.01,0.0,Initial Escalation,2.7,41.0
+2024-11-01,Pakistan,LPG,30.5,75.83,24.91,0.0,Initial Escalation,3.0,50.0
+2024-11-01,Pakistan,Diesel,39.6,73.7,27.56,0.0,Initial Escalation,3.1,42.0
+2024-11-01,Pakistan,Jet Fuel,22.5,72.76,27.92,0.0,Initial Escalation,2.7,46.0
+2024-11-01,Pakistan,Fuel Oil,14.7,72.43,27.93,0.0,Initial Escalation,2.5,31.0
+2024-11-01,Bangladesh,Crude Oil,89.7,43.22,56.21,0.0,Initial Escalation,1.6,38.0
+2024-11-01,Bangladesh,LNG,24.8,41.25,57.2,0.0,Initial Escalation,1.0,48.0
+2024-11-01,Bangladesh,LPG,8.6,41.98,58.51,0.0,Initial Escalation,1.3,40.0
+2024-11-01,Bangladesh,Diesel,11.0,41.32,57.11,0.0,Initial Escalation,1.6,43.0
+2024-11-01,Bangladesh,Jet Fuel,7.3,41.61,55.21,0.0,Initial Escalation,1.0,30.0
+2024-11-01,Bangladesh,Fuel Oil,4.3,41.76,56.8,0.0,Initial Escalation,1.9,40.0
+2024-11-01,Taiwan,Crude Oil,495.0,79.59,19.36,0.0,Initial Escalation,3.0,33.0
+2024-11-01,Taiwan,LNG,156.2,76.69,23.0,0.0,Initial Escalation,2.5,47.0
+2024-11-01,Taiwan,LPG,49.7,79.0,21.69,0.0,Initial Escalation,2.9,38.0
+2024-11-01,Taiwan,Diesel,72.6,81.08,20.0,0.0,Initial Escalation,3.0,32.0
+2024-11-01,Taiwan,Jet Fuel,40.6,76.44,24.93,0.0,Initial Escalation,2.4,37.0
+2024-11-01,Taiwan,Fuel Oil,26.3,77.31,23.84,0.0,Initial Escalation,3.1,55.0
+2024-11-01,Singapore,Crude Oil,824.4,82.0,18.1,0.0,Initial Escalation,2.8,40.0
+2024-11-01,Singapore,LNG,226.2,78.19,22.23,0.0,Initial Escalation,3.0,41.0
+2024-11-01,Singapore,LPG,83.9,81.21,18.92,0.0,Initial Escalation,2.4,43.0
+2024-11-01,Singapore,Diesel,107.8,80.62,20.47,0.0,Initial Escalation,2.6,48.0
+2024-11-01,Singapore,Jet Fuel,69.3,79.4,21.55,0.0,Initial Escalation,2.4,56.0
+2024-11-01,Singapore,Fuel Oil,37.6,77.87,21.44,0.0,Initial Escalation,2.8,43.0
+2024-11-01,New Zealand,Crude Oil,78.2,27.86,60.92,0.0,Initial Escalation,1.3,32.0
+2024-11-01,New Zealand,LNG,25.0,27.5,59.33,0.0,Initial Escalation,1.2,18.0
+2024-11-01,New Zealand,LPG,9.0,28.16,59.94,0.0,Initial Escalation,0.5,60.0
+2024-11-01,New Zealand,Diesel,11.2,29.11,63.08,0.0,Initial Escalation,0.5,44.0
+2024-11-01,New Zealand,Jet Fuel,7.2,27.34,58.23,0.0,Initial Escalation,1.3,28.0
+2024-11-01,New Zealand,Fuel Oil,3.9,28.0,60.6,0.0,Initial Escalation,0.8,45.0
+2024-11-01,Sri Lanka,Crude Oil,50.3,89.75,9.73,0.0,Initial Escalation,3.1,43.0
+2024-11-01,Sri Lanka,LNG,14.7,88.39,12.25,0.0,Initial Escalation,2.8,22.0
+2024-11-01,Sri Lanka,LPG,5.0,90.27,9.39,0.0,Initial Escalation,2.7,39.0
+2024-11-01,Sri Lanka,Diesel,6.9,88.6,10.88,0.0,Initial Escalation,3.1,32.0
+2024-11-01,Sri Lanka,Jet Fuel,4.0,90.05,9.67,0.0,Initial Escalation,2.9,46.0
+2024-11-01,Sri Lanka,Fuel Oil,2.4,92.66,7.47,0.0,Initial Escalation,2.7,39.0
+2024-11-01,Myanmar,Crude Oil,45.0,34.76,61.46,0.0,Initial Escalation,1.6,54.0
+2024-11-01,Myanmar,LNG,11.6,33.67,56.53,0.0,Initial Escalation,1.7,40.0
+2024-11-01,Myanmar,LPG,4.2,35.06,61.65,0.0,Initial Escalation,1.2,26.0
+2024-11-01,Myanmar,Diesel,5.9,34.76,57.64,0.0,Initial Escalation,0.9,38.0
+2024-11-01,Myanmar,Jet Fuel,3.3,34.35,58.77,0.0,Initial Escalation,0.7,36.0
+2024-11-01,Myanmar,Fuel Oil,2.0,34.99,62.32,0.0,Initial Escalation,1.1,42.0
+2024-11-01,Cambodia,Crude Oil,24.9,41.1,56.94,0.0,Initial Escalation,1.6,47.0
+2024-11-01,Cambodia,LNG,8.0,40.16,56.4,0.0,Initial Escalation,1.5,42.0
+2024-11-01,Cambodia,LPG,2.8,41.56,57.87,0.0,Initial Escalation,1.6,29.0
+2024-11-01,Cambodia,Diesel,3.5,40.74,59.98,0.0,Initial Escalation,1.4,41.0
+2024-11-01,Cambodia,Jet Fuel,2.1,38.76,58.73,0.0,Initial Escalation,1.8,42.0
+2024-11-01,Cambodia,Fuel Oil,1.3,40.74,60.81,0.0,Initial Escalation,0.9,33.0
+2024-11-01,Laos,Crude Oil,9.0,9.95,62.43,0.0,Initial Escalation,-0.1,30.0
+2024-11-01,Laos,LNG,2.5,10.01,58.04,0.0,Initial Escalation,0.1,37.0
+2024-11-01,Laos,LPG,0.9,9.74,59.52,0.0,Initial Escalation,0.6,46.0
+2024-11-01,Laos,Diesel,1.3,10.19,58.21,0.0,Initial Escalation,0.4,41.0
+2024-11-01,Laos,Jet Fuel,0.7,9.97,60.98,0.0,Initial Escalation,0.8,56.0
+2024-11-01,Laos,Fuel Oil,0.4,10.2,58.9,0.0,Initial Escalation,0.1,45.0
+2024-11-01,Mongolia,Crude Oil,15.6,5.07,60.71,0.0,Initial Escalation,0.1,40.0
+2024-11-01,Mongolia,LNG,4.8,4.86,56.47,0.0,Initial Escalation,-0.2,40.0
+2024-11-01,Mongolia,LPG,1.6,5.05,57.16,0.0,Initial Escalation,0.6,48.0
+2024-11-01,Mongolia,Diesel,2.2,5.18,59.81,0.0,Initial Escalation,-0.0,42.0
+2024-11-01,Mongolia,Jet Fuel,1.2,5.07,57.92,0.0,Initial Escalation,0.4,35.0
+2024-11-01,Mongolia,Fuel Oil,0.7,4.99,63.06,0.0,Initial Escalation,-0.2,51.0
+2024-12-01,China,Crude Oil,7020.5,45.49,51.84,0.0,Initial Escalation,1.7,95.0
+2024-12-01,China,LNG,2070.7,42.66,53.98,0.0,Initial Escalation,1.8,82.0
+2024-12-01,China,LPG,720.7,43.98,55.41,0.0,Initial Escalation,1.8,81.0
+2024-12-01,China,Diesel,876.4,42.45,54.41,0.0,Initial Escalation,1.2,91.0
+2024-12-01,China,Jet Fuel,603.7,45.17,52.22,0.0,Initial Escalation,1.5,91.0
+2024-12-01,China,Fuel Oil,332.9,44.9,54.41,0.0,Initial Escalation,2.0,85.0
+2024-12-01,India,Crude Oil,3089.3,62.24,38.32,0.0,Initial Escalation,2.3,69.0
+2024-12-01,India,LNG,820.6,64.04,35.16,0.0,Initial Escalation,1.7,79.0
+2024-12-01,India,LPG,278.4,62.87,35.15,0.0,Initial Escalation,2.6,71.0
+2024-12-01,India,Diesel,393.3,64.38,34.47,0.0,Initial Escalation,1.9,67.0
+2024-12-01,India,Jet Fuel,235.2,60.45,41.19,0.0,Initial Escalation,1.9,50.0
+2024-12-01,India,Fuel Oil,148.4,60.7,40.22,0.0,Initial Escalation,1.7,64.0
+2024-12-01,Japan,Crude Oil,1960.1,90.88,9.16,0.0,Initial Escalation,3.0,243.0
+2024-12-01,Japan,LNG,547.8,85.23,15.53,0.0,Initial Escalation,3.4,231.0
+2024-12-01,Japan,LPG,173.8,85.79,15.01,0.0,Initial Escalation,2.8,231.0
+2024-12-01,Japan,Diesel,261.7,90.03,10.37,0.0,Initial Escalation,2.7,241.0
+2024-12-01,Japan,Jet Fuel,165.8,85.19,14.21,0.0,Initial Escalation,3.2,220.0
+2024-12-01,Japan,Fuel Oil,97.9,88.03,11.35,0.0,Initial Escalation,3.0,229.0
+2024-12-01,South Korea,Crude Oil,1600.8,70.61,29.47,0.0,Initial Escalation,3.0,170.0
+2024-12-01,South Korea,LNG,488.7,71.03,28.44,0.0,Initial Escalation,2.7,163.0
+2024-12-01,South Korea,LPG,163.6,71.24,27.58,0.0,Initial Escalation,2.3,181.0
+2024-12-01,South Korea,Diesel,205.4,74.15,25.41,0.0,Initial Escalation,3.0,179.0
+2024-12-01,South Korea,Jet Fuel,139.6,69.38,28.92,0.0,Initial Escalation,2.0,176.0
+2024-12-01,South Korea,Fuel Oil,82.0,73.88,27.02,0.0,Initial Escalation,2.0,171.0
+2024-12-01,Australia,Crude Oil,396.1,14.49,58.03,0.0,Initial Escalation,0.6,66.0
+2024-12-01,Australia,LNG,112.4,15.05,58.15,0.0,Initial Escalation,0.5,53.0
+2024-12-01,Australia,LPG,36.8,15.33,62.76,0.0,Initial Escalation,0.4,52.0
+2024-12-01,Australia,Diesel,48.0,14.53,58.99,0.0,Initial Escalation,1.0,50.0
+2024-12-01,Australia,Jet Fuel,32.8,14.85,61.29,0.0,Initial Escalation,0.5,65.0
+2024-12-01,Australia,Fuel Oil,17.8,15.3,61.65,0.0,Initial Escalation,0.2,38.0
+2024-12-01,Indonesia,Crude Oil,529.8,18.14,59.13,0.0,Initial Escalation,0.9,51.0
+2024-12-01,Indonesia,LNG,155.0,18.02,60.81,0.0,Initial Escalation,1.1,27.0
+2024-12-01,Indonesia,LPG,47.8,17.33,62.01,0.0,Initial Escalation,0.8,32.0
+2024-12-01,Indonesia,Diesel,72.3,17.7,62.92,0.0,Initial Escalation,1.0,56.0
+2024-12-01,Indonesia,Jet Fuel,43.9,18.07,61.53,0.0,Initial Escalation,0.5,41.0
+2024-12-01,Indonesia,Fuel Oil,26.5,17.31,58.96,0.0,Initial Escalation,1.0,44.0
+2024-12-01,Thailand,Crude Oil,547.4,53.67,47.02,0.0,Initial Escalation,2.2,32.0
+2024-12-01,Thailand,LNG,155.8,52.97,48.78,0.0,Initial Escalation,2.3,46.0
+2024-12-01,Thailand,LPG,51.4,53.7,49.03,0.0,Initial Escalation,2.1,51.0
+2024-12-01,Thailand,Diesel,71.1,55.93,44.52,0.0,Initial Escalation,1.5,34.0
+2024-12-01,Thailand,Jet Fuel,44.5,54.96,43.16,0.0,Initial Escalation,1.6,45.0
+2024-12-01,Thailand,Fuel Oil,27.4,54.3,45.81,0.0,Initial Escalation,2.0,60.0
+2024-12-01,Vietnam,Crude Oil,220.1,21.7,60.17,0.0,Initial Escalation,0.6,44.0
+2024-12-01,Vietnam,LNG,71.0,22.61,63.57,0.0,Initial Escalation,1.0,37.0
+2024-12-01,Vietnam,LPG,22.8,21.37,61.88,0.0,Initial Escalation,1.1,44.0
+2024-12-01,Vietnam,Diesel,29.1,22.27,59.83,0.0,Initial Escalation,0.4,32.0
+2024-12-01,Vietnam,Jet Fuel,20.4,22.08,58.03,0.0,Initial Escalation,1.1,19.0
+2024-12-01,Vietnam,Fuel Oil,11.8,22.23,57.29,0.0,Initial Escalation,0.8,59.0
+2024-12-01,Philippines,Crude Oil,188.8,62.13,36.69,0.0,Initial Escalation,1.9,37.0
+2024-12-01,Philippines,LNG,56.8,61.11,38.42,0.0,Initial Escalation,2.3,48.0
+2024-12-01,Philippines,LPG,20.0,58.21,44.24,0.0,Initial Escalation,2.4,48.0
+2024-12-01,Philippines,Diesel,25.9,58.8,43.45,0.0,Initial Escalation,1.8,32.0
+2024-12-01,Philippines,Jet Fuel,16.2,61.13,36.79,0.0,Initial Escalation,2.0,50.0
+2024-12-01,Philippines,Fuel Oil,8.7,61.63,37.23,0.0,Initial Escalation,1.9,49.0
+2024-12-01,Malaysia,Crude Oil,270.7,11.66,60.0,0.0,Initial Escalation,0.2,41.0
+2024-12-01,Malaysia,LNG,74.6,11.91,60.31,0.0,Initial Escalation,0.3,40.0
+2024-12-01,Malaysia,LPG,25.9,11.82,56.54,0.0,Initial Escalation,0.4,40.0
+2024-12-01,Malaysia,Diesel,32.9,12.41,62.64,0.0,Initial Escalation,0.9,32.0
+2024-12-01,Malaysia,Jet Fuel,22.1,11.75,61.42,0.0,Initial Escalation,0.5,42.0
+2024-12-01,Malaysia,Fuel Oil,12.4,11.56,58.79,0.0,Initial Escalation,0.3,36.0
+2024-12-01,Pakistan,Crude Oil,276.0,75.72,24.69,0.0,Initial Escalation,2.3,41.0
+2024-12-01,Pakistan,LNG,90.3,73.8,26.22,0.0,Initial Escalation,2.8,55.0
+2024-12-01,Pakistan,LPG,30.2,76.0,23.06,0.0,Initial Escalation,2.6,49.0
+2024-12-01,Pakistan,Diesel,37.3,77.14,24.03,0.0,Initial Escalation,2.3,42.0
+2024-12-01,Pakistan,Jet Fuel,24.1,72.27,28.28,0.0,Initial Escalation,2.5,35.0
+2024-12-01,Pakistan,Fuel Oil,14.4,74.08,26.88,0.0,Initial Escalation,2.7,34.0
+2024-12-01,Bangladesh,Crude Oil,83.8,43.33,54.22,0.0,Initial Escalation,1.1,36.0
+2024-12-01,Bangladesh,LNG,23.9,40.96,57.97,0.0,Initial Escalation,1.9,37.0
+2024-12-01,Bangladesh,LPG,8.6,42.33,58.71,0.0,Initial Escalation,1.7,40.0
+2024-12-01,Bangladesh,Diesel,10.3,41.57,59.18,0.0,Initial Escalation,1.7,49.0
+2024-12-01,Bangladesh,Jet Fuel,7.4,43.1,53.73,0.0,Initial Escalation,1.7,44.0
+2024-12-01,Bangladesh,Fuel Oil,4.5,41.95,58.58,0.0,Initial Escalation,1.7,27.0
+2024-12-01,Taiwan,Crude Oil,551.4,80.07,21.08,0.0,Initial Escalation,2.6,46.0
+2024-12-01,Taiwan,LNG,169.5,80.55,20.39,0.0,Initial Escalation,2.7,36.0
+2024-12-01,Taiwan,LPG,55.0,80.85,18.14,0.0,Initial Escalation,2.6,36.0
+2024-12-01,Taiwan,Diesel,70.8,77.64,21.39,0.0,Initial Escalation,2.5,48.0
+2024-12-01,Taiwan,Jet Fuel,40.8,78.51,20.9,0.0,Initial Escalation,2.4,42.0
+2024-12-01,Taiwan,Fuel Oil,28.3,76.35,23.97,0.0,Initial Escalation,2.6,40.0
+2024-12-01,Singapore,Crude Oil,812.1,80.64,18.99,0.0,Initial Escalation,3.0,21.0
+2024-12-01,Singapore,LNG,230.2,79.55,21.39,0.0,Initial Escalation,2.7,51.0
+2024-12-01,Singapore,LPG,77.5,82.79,16.23,0.0,Initial Escalation,2.8,33.0
+2024-12-01,Singapore,Diesel,111.5,78.68,22.17,0.0,Initial Escalation,3.0,37.0
+2024-12-01,Singapore,Jet Fuel,62.7,82.51,16.91,0.0,Initial Escalation,2.5,24.0
+2024-12-01,Singapore,Fuel Oil,40.9,83.06,16.75,0.0,Initial Escalation,2.7,32.0
+2024-12-01,New Zealand,Crude Oil,88.6,27.83,61.96,0.0,Initial Escalation,1.0,36.0
+2024-12-01,New Zealand,LNG,25.9,27.12,62.65,0.0,Initial Escalation,0.6,32.0
+2024-12-01,New Zealand,LPG,8.5,28.2,60.42,0.0,Initial Escalation,1.3,40.0
+2024-12-01,New Zealand,Diesel,11.6,28.32,61.86,0.0,Initial Escalation,0.9,48.0
+2024-12-01,New Zealand,Jet Fuel,7.1,27.8,62.29,0.0,Initial Escalation,1.4,44.0
+2024-12-01,New Zealand,Fuel Oil,4.1,29.06,63.58,0.0,Initial Escalation,1.3,39.0
+2024-12-01,Sri Lanka,Crude Oil,46.4,90.66,9.09,0.0,Initial Escalation,2.7,47.0
+2024-12-01,Sri Lanka,LNG,14.3,88.97,11.41,0.0,Initial Escalation,2.9,31.0
+2024-12-01,Sri Lanka,LPG,4.9,90.25,9.32,0.0,Initial Escalation,2.9,52.0
+2024-12-01,Sri Lanka,Diesel,6.7,93.16,6.73,0.0,Initial Escalation,2.7,33.0
+2024-12-01,Sri Lanka,Jet Fuel,4.2,89.44,10.37,0.0,Initial Escalation,3.4,38.0
+2024-12-01,Sri Lanka,Fuel Oil,2.4,88.98,11.15,0.0,Initial Escalation,3.3,52.0
+2024-12-01,Myanmar,Crude Oil,43.7,34.6,58.88,0.0,Initial Escalation,1.3,48.0
+2024-12-01,Myanmar,LNG,13.3,34.99,60.21,0.0,Initial Escalation,1.6,42.0
+2024-12-01,Myanmar,LPG,3.9,34.94,60.06,0.0,Initial Escalation,1.7,32.0
+2024-12-01,Myanmar,Diesel,5.2,33.6,62.72,0.0,Initial Escalation,1.6,44.0
+2024-12-01,Myanmar,Jet Fuel,3.5,36.38,62.71,0.0,Initial Escalation,1.0,21.0
+2024-12-01,Myanmar,Fuel Oil,2.2,35.48,56.44,0.0,Initial Escalation,0.8,25.0
+2024-12-01,Cambodia,Crude Oil,28.2,39.99,58.44,0.0,Initial Escalation,1.0,41.0
+2024-12-01,Cambodia,LNG,7.7,38.99,62.93,0.0,Initial Escalation,0.9,33.0
+2024-12-01,Cambodia,LPG,2.5,38.46,63.06,0.0,Initial Escalation,0.9,54.0
+2024-12-01,Cambodia,Diesel,3.6,39.81,63.12,0.0,Initial Escalation,0.9,59.0
+2024-12-01,Cambodia,Jet Fuel,2.3,39.79,61.11,0.0,Initial Escalation,1.0,35.0
+2024-12-01,Cambodia,Fuel Oil,1.5,41.48,60.9,0.0,Initial Escalation,1.8,28.0
+2024-12-01,Laos,Crude Oil,9.3,10.34,57.87,0.0,Initial Escalation,0.4,38.0
+2024-12-01,Laos,LNG,2.7,10.29,58.36,0.0,Initial Escalation,0.8,40.0
+2024-12-01,Laos,LPG,1.0,10.12,62.0,0.0,Initial Escalation,0.5,43.0
+2024-12-01,Laos,Diesel,1.2,10.03,57.97,0.0,Initial Escalation,-0.0,29.0
+2024-12-01,Laos,Jet Fuel,0.7,10.29,59.77,0.0,Initial Escalation,0.2,33.0
+2024-12-01,Laos,Fuel Oil,0.4,10.05,63.06,0.0,Initial Escalation,-0.0,35.0
+2024-12-01,Mongolia,Crude Oil,14.4,5.07,56.8,0.0,Initial Escalation,0.0,40.0
+2024-12-01,Mongolia,LNG,4.2,4.85,61.71,0.0,Initial Escalation,-0.2,50.0
+2024-12-01,Mongolia,LPG,1.4,5.07,62.07,0.0,Initial Escalation,0.2,41.0
+2024-12-01,Mongolia,Diesel,2.0,4.94,58.04,0.0,Initial Escalation,-0.2,38.0
+2024-12-01,Mongolia,Jet Fuel,1.3,4.93,57.94,0.0,Initial Escalation,-0.3,48.0
+2024-12-01,Mongolia,Fuel Oil,0.7,5.06,57.45,0.0,Initial Escalation,-0.2,32.0
+2025-01-01,China,Crude Oil,6140.1,43.34,61.06,2.76,Regional Spread,2.6,80.0
+2025-01-01,China,LNG,1882.7,44.12,56.31,2.36,Regional Spread,2.6,99.0
+2025-01-01,China,LPG,620.3,44.78,55.88,2.59,Regional Spread,1.7,98.0
+2025-01-01,China,Diesel,869.6,42.83,61.85,2.65,Regional Spread,1.7,87.0
+2025-01-01,China,Jet Fuel,564.3,42.64,58.61,2.8,Regional Spread,2.6,81.0
+2025-01-01,China,Fuel Oil,309.3,44.46,58.92,2.38,Regional Spread,2.1,95.0
+2025-01-01,India,Crude Oil,2672.1,61.73,40.1,3.91,Regional Spread,3.1,58.0
+2025-01-01,India,LNG,889.2,61.28,43.64,3.64,Regional Spread,2.7,65.0
+2025-01-01,India,LPG,256.4,58.57,44.38,3.46,Regional Spread,3.2,52.0
+2025-01-01,India,Diesel,369.5,58.71,45.81,3.33,Regional Spread,3.1,58.0
+2025-01-01,India,Jet Fuel,238.2,60.63,43.05,3.32,Regional Spread,2.8,67.0
+2025-01-01,India,Fuel Oil,128.2,62.36,40.23,3.72,Regional Spread,2.9,71.0
+2025-01-01,Japan,Crude Oil,1649.3,84.27,19.67,4.8,Regional Spread,3.8,225.0
+2025-01-01,Japan,LNG,512.8,83.1,20.1,5.68,Regional Spread,4.7,226.0
+2025-01-01,Japan,LPG,176.8,84.73,18.99,4.72,Regional Spread,4.6,230.0
+2025-01-01,Japan,Diesel,250.8,86.39,17.54,5.81,Regional Spread,4.5,225.0
+2025-01-01,Japan,Jet Fuel,141.6,83.78,19.64,5.2,Regional Spread,4.0,227.0
+2025-01-01,Japan,Fuel Oil,84.9,88.0,15.19,5.52,Regional Spread,4.7,230.0
+2025-01-01,South Korea,Crude Oil,1424.1,71.22,32.36,4.73,Regional Spread,4.0,182.0
+2025-01-01,South Korea,LNG,450.0,68.11,33.04,4.22,Regional Spread,3.3,187.0
+2025-01-01,South Korea,LPG,143.0,72.44,29.01,3.85,Regional Spread,3.6,185.0
+2025-01-01,South Korea,Diesel,219.8,69.93,33.84,4.16,Regional Spread,3.3,181.0
+2025-01-01,South Korea,Jet Fuel,136.4,68.92,33.63,4.77,Regional Spread,3.2,169.0
+2025-01-01,South Korea,Fuel Oil,78.0,71.4,30.05,4.13,Regional Spread,3.0,180.0
+2025-01-01,Australia,Crude Oil,397.2,14.37,58.49,0.82,Regional Spread,1.1,64.0
+2025-01-01,Australia,LNG,122.0,15.18,60.37,0.97,Regional Spread,1.2,66.0
+2025-01-01,Australia,LPG,38.8,15.16,56.97,0.81,Regional Spread,1.0,48.0
+2025-01-01,Australia,Diesel,50.4,14.46,60.62,0.9,Regional Spread,0.9,56.0
+2025-01-01,Australia,Jet Fuel,33.0,14.57,60.37,0.9,Regional Spread,1.1,58.0
+2025-01-01,Australia,Fuel Oil,18.8,14.48,58.71,0.8,Regional Spread,0.3,42.0
+2025-01-01,Indonesia,Crude Oil,532.5,17.14,61.72,0.97,Regional Spread,0.9,38.0
+2025-01-01,Indonesia,LNG,158.4,17.08,56.59,1.08,Regional Spread,0.7,37.0
+2025-01-01,Indonesia,LPG,47.5,17.15,57.06,0.98,Regional Spread,0.5,32.0
+2025-01-01,Indonesia,Diesel,71.1,17.7,58.97,1.02,Regional Spread,0.5,39.0
+2025-01-01,Indonesia,Jet Fuel,42.0,17.43,58.96,1.13,Regional Spread,1.4,30.0
+2025-01-01,Indonesia,Fuel Oil,23.5,17.43,62.51,1.01,Regional Spread,1.0,42.0
+2025-01-01,Thailand,Crude Oil,554.6,52.3,49.36,3.06,Regional Spread,3.1,42.0
+2025-01-01,Thailand,LNG,156.4,52.86,48.58,3.11,Regional Spread,2.4,45.0
+2025-01-01,Thailand,LPG,50.6,54.19,48.37,3.18,Regional Spread,2.2,50.0
+2025-01-01,Thailand,Diesel,65.7,53.55,52.17,3.21,Regional Spread,2.6,37.0
+2025-01-01,Thailand,Jet Fuel,47.0,55.46,49.33,3.56,Regional Spread,2.3,47.0
+2025-01-01,Thailand,Fuel Oil,25.2,55.91,47.76,3.45,Regional Spread,2.3,43.0
+2025-01-01,Vietnam,Crude Oil,227.3,21.88,61.39,1.26,Regional Spread,0.9,55.0
+2025-01-01,Vietnam,LNG,66.4,21.7,62.16,1.39,Regional Spread,1.2,50.0
+2025-01-01,Vietnam,LPG,22.6,20.71,62.09,1.17,Regional Spread,1.1,42.0
+2025-01-01,Vietnam,Diesel,32.7,22.09,60.27,1.42,Regional Spread,0.7,44.0
+2025-01-01,Vietnam,Jet Fuel,20.3,20.9,62.62,1.17,Regional Spread,1.5,34.0
+2025-01-01,Vietnam,Fuel Oil,11.2,21.36,57.69,1.4,Regional Spread,0.6,34.0
+2025-01-01,Philippines,Crude Oil,184.0,56.5,48.42,3.98,Regional Spread,3.1,45.0
+2025-01-01,Philippines,LNG,55.8,59.96,44.81,3.2,Regional Spread,3.4,45.0
+2025-01-01,Philippines,LPG,18.1,58.48,46.32,3.78,Regional Spread,2.6,49.0
+2025-01-01,Philippines,Diesel,22.8,57.24,45.19,3.65,Regional Spread,3.2,35.0
+2025-01-01,Philippines,Jet Fuel,13.9,58.38,43.65,3.54,Regional Spread,3.4,40.0
+2025-01-01,Philippines,Fuel Oil,8.9,60.75,40.63,3.89,Regional Spread,3.3,26.0
+2025-01-01,Malaysia,Crude Oil,233.4,11.99,58.01,0.76,Regional Spread,0.3,48.0
+2025-01-01,Malaysia,LNG,80.7,11.84,62.51,0.7,Regional Spread,0.4,31.0
+2025-01-01,Malaysia,LPG,23.8,11.83,62.11,0.79,Regional Spread,0.5,31.0
+2025-01-01,Malaysia,Diesel,35.6,12.0,62.49,0.79,Regional Spread,0.5,43.0
+2025-01-01,Malaysia,Jet Fuel,21.1,11.74,60.15,0.67,Regional Spread,0.8,37.0
+2025-01-01,Malaysia,Fuel Oil,13.3,12.08,57.14,0.7,Regional Spread,0.4,36.0
+2025-01-01,Pakistan,Crude Oil,261.9,74.11,27.47,4.45,Regional Spread,3.8,30.0
+2025-01-01,Pakistan,LNG,81.7,71.13,33.1,4.21,Regional Spread,3.4,38.0
+2025-01-01,Pakistan,LPG,28.9,71.5,33.42,4.46,Regional Spread,3.3,41.0
+2025-01-01,Pakistan,Diesel,36.5,71.22,33.7,4.82,Regional Spread,3.8,44.0
+2025-01-01,Pakistan,Jet Fuel,23.2,70.61,33.27,4.77,Regional Spread,3.9,52.0
+2025-01-01,Pakistan,Fuel Oil,13.9,73.25,28.52,4.32,Regional Spread,3.7,47.0
+2025-01-01,Bangladesh,Crude Oil,84.8,42.76,57.67,2.29,Regional Spread,2.0,49.0
+2025-01-01,Bangladesh,LNG,22.7,41.76,62.59,2.38,Regional Spread,2.4,50.0
+2025-01-01,Bangladesh,LPG,8.5,39.86,58.44,2.51,Regional Spread,2.4,45.0
+2025-01-01,Bangladesh,Diesel,10.3,41.66,63.2,2.77,Regional Spread,2.2,26.0
+2025-01-01,Bangladesh,Jet Fuel,6.4,42.11,58.36,2.34,Regional Spread,1.9,41.0
+2025-01-01,Bangladesh,Fuel Oil,4.2,41.32,56.89,2.62,Regional Spread,1.6,55.0
+2025-01-01,Taiwan,Crude Oil,529.9,76.77,26.73,4.79,Regional Spread,4.0,56.0
+2025-01-01,Taiwan,LNG,147.6,76.56,27.57,5.2,Regional Spread,3.6,39.0
+2025-01-01,Taiwan,LPG,46.4,78.58,25.2,4.77,Regional Spread,3.7,38.0
+2025-01-01,Taiwan,Diesel,70.1,77.12,27.6,4.47,Regional Spread,4.2,26.0
+2025-01-01,Taiwan,Jet Fuel,41.5,78.3,25.86,4.16,Regional Spread,3.5,32.0
+2025-01-01,Taiwan,Fuel Oil,23.9,77.21,24.75,4.57,Regional Spread,3.7,51.0
+2025-01-01,Singapore,Crude Oil,727.3,76.39,26.63,4.6,Regional Spread,4.2,50.0
+2025-01-01,Singapore,LNG,225.5,79.01,24.65,5.19,Regional Spread,3.6,33.0
+2025-01-01,Singapore,LPG,79.3,78.5,25.04,4.85,Regional Spread,3.7,40.0
+2025-01-01,Singapore,Diesel,100.4,78.8,24.81,4.32,Regional Spread,4.3,44.0
+2025-01-01,Singapore,Jet Fuel,63.0,78.65,25.34,4.4,Regional Spread,4.2,35.0
+2025-01-01,Singapore,Fuel Oil,34.5,79.11,24.43,5.36,Regional Spread,3.8,40.0
+2025-01-01,New Zealand,Crude Oil,84.3,27.47,60.49,1.74,Regional Spread,1.6,40.0
+2025-01-01,New Zealand,LNG,23.2,27.95,60.41,1.65,Regional Spread,1.8,42.0
+2025-01-01,New Zealand,LPG,8.7,27.35,58.52,1.59,Regional Spread,1.6,33.0
+2025-01-01,New Zealand,Diesel,11.0,28.16,62.16,1.86,Regional Spread,1.2,34.0
+2025-01-01,New Zealand,Jet Fuel,6.8,27.64,61.85,1.79,Regional Spread,0.9,39.0
+2025-01-01,New Zealand,Fuel Oil,3.8,27.03,63.39,1.84,Regional Spread,1.6,49.0
+2025-01-01,Sri Lanka,Crude Oil,47.9,87.88,14.78,5.53,Regional Spread,4.6,51.0
+2025-01-01,Sri Lanka,LNG,13.9,90.5,12.51,5.12,Regional Spread,4.1,35.0
+2025-01-01,Sri Lanka,LPG,4.7,85.27,17.36,4.95,Regional Spread,4.5,47.0
+2025-01-01,Sri Lanka,Diesel,6.0,88.09,15.25,5.18,Regional Spread,4.5,54.0
+2025-01-01,Sri Lanka,Jet Fuel,3.6,89.83,12.62,5.23,Regional Spread,4.0,36.0
+2025-01-01,Sri Lanka,Fuel Oil,2.3,86.52,15.72,5.44,Regional Spread,4.3,32.0
+2025-01-01,Myanmar,Crude Oil,41.4,34.2,60.01,2.13,Regional Spread,1.6,36.0
+2025-01-01,Myanmar,LNG,12.6,35.49,62.72,2.02,Regional Spread,1.9,43.0
+2025-01-01,Myanmar,LPG,4.2,34.51,61.32,2.23,Regional Spread,1.5,34.0
+2025-01-01,Myanmar,Diesel,5.9,35.29,57.51,2.05,Regional Spread,1.5,27.0
+2025-01-01,Myanmar,Jet Fuel,3.6,35.56,59.02,2.18,Regional Spread,1.4,31.0
+2025-01-01,Myanmar,Fuel Oil,2.2,35.65,61.4,2.02,Regional Spread,2.0,35.0
+2025-01-01,Cambodia,Crude Oil,24.2,39.04,60.25,2.6,Regional Spread,1.5,29.0
+2025-01-01,Cambodia,LNG,8.2,38.54,61.74,2.47,Regional Spread,2.1,53.0
+2025-01-01,Cambodia,LPG,2.4,37.66,61.8,2.3,Regional Spread,2.1,41.0
+2025-01-01,Cambodia,Diesel,3.7,40.71,61.39,2.33,Regional Spread,2.1,42.0
+2025-01-01,Cambodia,Jet Fuel,2.0,39.03,56.74,2.45,Regional Spread,1.8,41.0
+2025-01-01,Cambodia,Fuel Oil,1.3,40.12,60.14,2.61,Regional Spread,2.2,42.0
+2025-01-01,Laos,Crude Oil,8.4,10.07,63.58,0.6,Regional Spread,0.2,35.0
+2025-01-01,Laos,LNG,2.7,9.78,60.12,0.54,Regional Spread,0.7,48.0
+2025-01-01,Laos,LPG,0.9,9.86,63.29,0.62,Regional Spread,0.0,22.0
+2025-01-01,Laos,Diesel,1.1,9.77,61.02,0.58,Regional Spread,0.3,43.0
+2025-01-01,Laos,Jet Fuel,0.8,9.56,61.96,0.57,Regional Spread,0.5,41.0
+2025-01-01,Laos,Fuel Oil,0.5,10.17,56.87,0.55,Regional Spread,0.0,31.0
+2025-01-01,Mongolia,Crude Oil,15.0,4.9,63.25,0.29,Regional Spread,0.4,39.0
+2025-01-01,Mongolia,LNG,4.6,5.07,61.91,0.3,Regional Spread,0.0,38.0
+2025-01-01,Mongolia,LPG,1.6,4.74,61.58,0.26,Regional Spread,0.5,35.0
+2025-01-01,Mongolia,Diesel,1.9,4.83,63.08,0.28,Regional Spread,0.7,47.0
+2025-01-01,Mongolia,Jet Fuel,1.2,5.03,59.78,0.29,Regional Spread,0.2,36.0
+2025-01-01,Mongolia,Fuel Oil,0.8,4.89,61.28,0.29,Regional Spread,0.2,37.0
+2025-02-01,China,Crude Oil,6735.8,42.82,62.35,2.63,Regional Spread,1.8,85.0
+2025-02-01,China,LNG,1868.4,44.27,58.91,2.64,Regional Spread,1.9,83.0
+2025-02-01,China,LPG,620.2,43.99,58.48,2.44,Regional Spread,1.8,78.0
+2025-02-01,China,Diesel,936.0,41.83,57.67,2.57,Regional Spread,2.0,72.0
+2025-02-01,China,Jet Fuel,508.1,44.53,60.45,2.46,Regional Spread,2.4,84.0
+2025-02-01,China,Fuel Oil,308.0,43.91,61.59,2.36,Regional Spread,2.0,97.0
+2025-02-01,India,Crude Oil,2713.2,60.94,42.3,4.12,Regional Spread,3.3,68.0
+2025-02-01,India,LNG,845.9,60.56,42.6,3.62,Regional Spread,3.0,77.0
+2025-02-01,India,LPG,271.9,61.53,39.25,3.74,Regional Spread,3.0,79.0
+2025-02-01,India,Diesel,387.6,58.4,42.89,4.16,Regional Spread,2.9,70.0
+2025-02-01,India,Jet Fuel,221.1,58.85,43.22,3.67,Regional Spread,2.9,61.0
+2025-02-01,India,Fuel Oil,148.2,60.88,43.19,3.43,Regional Spread,3.0,62.0
+2025-02-01,Japan,Crude Oil,1620.1,88.64,14.04,4.98,Regional Spread,4.5,243.0
+2025-02-01,Japan,LNG,557.0,82.81,20.54,5.06,Regional Spread,4.8,233.0
+2025-02-01,Japan,LPG,183.6,84.89,17.53,5.13,Regional Spread,4.2,214.0
+2025-02-01,Japan,Diesel,248.1,89.11,13.53,5.08,Regional Spread,4.1,218.0
+2025-02-01,Japan,Jet Fuel,144.7,89.61,13.48,5.34,Regional Spread,4.3,222.0
+2025-02-01,Japan,Fuel Oil,92.1,84.15,19.28,4.91,Regional Spread,3.8,233.0
+2025-02-01,South Korea,Crude Oil,1649.5,68.5,34.33,4.76,Regional Spread,3.2,185.0
+2025-02-01,South Korea,LNG,459.6,72.87,31.1,3.8,Regional Spread,3.4,197.0
+2025-02-01,South Korea,LPG,157.9,68.98,35.61,4.82,Regional Spread,3.7,178.0
+2025-02-01,South Korea,Diesel,209.8,67.77,35.96,4.71,Regional Spread,3.7,195.0
+2025-02-01,South Korea,Jet Fuel,131.2,69.81,34.24,3.83,Regional Spread,3.1,168.0
+2025-02-01,South Korea,Fuel Oil,71.1,72.91,31.27,4.31,Regional Spread,3.7,178.0
+2025-02-01,Australia,Crude Oil,356.6,15.13,59.08,0.86,Regional Spread,0.9,49.0
+2025-02-01,Australia,LNG,116.3,14.65,57.49,0.95,Regional Spread,1.2,59.0
+2025-02-01,Australia,LPG,39.1,14.32,63.42,0.8,Regional Spread,0.6,41.0
+2025-02-01,Australia,Diesel,53.6,14.99,62.54,0.95,Regional Spread,0.9,56.0
+2025-02-01,Australia,Jet Fuel,31.1,15.09,60.61,0.82,Regional Spread,0.3,62.0
+2025-02-01,Australia,Fuel Oil,18.5,14.59,56.52,0.94,Regional Spread,0.9,50.0
+2025-02-01,Indonesia,Crude Oil,477.2,17.3,61.68,1.16,Regional Spread,0.4,38.0
+2025-02-01,Indonesia,LNG,150.0,17.31,57.95,1.06,Regional Spread,0.5,48.0
+2025-02-01,Indonesia,LPG,52.6,17.92,58.48,0.96,Regional Spread,1.3,42.0
+2025-02-01,Indonesia,Diesel,64.6,17.96,59.01,1.16,Regional Spread,0.6,48.0
+2025-02-01,Indonesia,Jet Fuel,42.4,18.28,58.75,1.09,Regional Spread,1.0,37.0
+2025-02-01,Indonesia,Fuel Oil,26.7,17.49,61.58,1.18,Regional Spread,0.8,45.0
+2025-02-01,Thailand,Crude Oil,529.2,54.61,47.87,2.96,Regional Spread,3.0,37.0
+2025-02-01,Thailand,LNG,150.3,52.5,50.93,3.38,Regional Spread,2.7,40.0
+2025-02-01,Thailand,LPG,49.5,52.32,48.96,2.97,Regional Spread,2.5,25.0
+2025-02-01,Thailand,Diesel,75.1,55.22,49.14,2.97,Regional Spread,3.1,32.0
+2025-02-01,Thailand,Jet Fuel,42.8,53.02,50.37,3.08,Regional Spread,3.1,24.0
+2025-02-01,Thailand,Fuel Oil,28.4,52.7,50.26,3.65,Regional Spread,2.5,52.0
+2025-02-01,Vietnam,Crude Oil,243.3,21.76,58.25,1.34,Regional Spread,1.3,39.0
+2025-02-01,Vietnam,LNG,70.5,22.22,62.33,1.46,Regional Spread,1.3,40.0
+2025-02-01,Vietnam,LPG,22.7,21.45,62.86,1.28,Regional Spread,1.4,44.0
+2025-02-01,Vietnam,Diesel,30.7,20.84,58.94,1.4,Regional Spread,1.1,45.0
+2025-02-01,Vietnam,Jet Fuel,18.0,21.96,63.21,1.39,Regional Spread,1.2,42.0
+2025-02-01,Vietnam,Fuel Oil,11.6,20.83,59.49,1.29,Regional Spread,1.3,25.0
+2025-02-01,Philippines,Crude Oil,169.0,59.38,41.32,4.01,Regional Spread,3.1,51.0
+2025-02-01,Philippines,LNG,49.4,57.51,44.15,3.89,Regional Spread,3.0,44.0
+2025-02-01,Philippines,LPG,18.8,60.58,44.57,3.31,Regional Spread,3.0,38.0
+2025-02-01,Philippines,Diesel,25.1,58.81,45.34,3.3,Regional Spread,2.9,24.0
+2025-02-01,Philippines,Jet Fuel,14.0,57.61,43.2,3.88,Regional Spread,2.9,39.0
+2025-02-01,Philippines,Fuel Oil,8.5,60.33,43.48,3.76,Regional Spread,3.3,43.0
+2025-02-01,Malaysia,Crude Oil,266.1,11.41,56.97,0.66,Regional Spread,0.8,24.0
+2025-02-01,Malaysia,LNG,75.8,11.94,58.08,0.73,Regional Spread,0.4,54.0
+2025-02-01,Malaysia,LPG,26.3,12.17,58.07,0.72,Regional Spread,0.8,21.0
+2025-02-01,Malaysia,Diesel,34.4,12.04,60.15,0.74,Regional Spread,0.7,43.0
+2025-02-01,Malaysia,Jet Fuel,21.6,11.35,62.3,0.67,Regional Spread,1.0,43.0
+2025-02-01,Malaysia,Fuel Oil,12.1,12.15,57.6,0.74,Regional Spread,0.6,46.0
+2025-02-01,Pakistan,Crude Oil,283.4,73.15,29.55,4.52,Regional Spread,3.9,43.0
+2025-02-01,Pakistan,LNG,77.9,74.3,28.23,4.0,Regional Spread,4.2,43.0
+2025-02-01,Pakistan,LPG,26.5,71.98,31.02,4.82,Regional Spread,3.4,44.0
+2025-02-01,Pakistan,Diesel,35.0,74.9,28.72,4.66,Regional Spread,3.2,39.0
+2025-02-01,Pakistan,Jet Fuel,21.8,73.9,27.69,4.36,Regional Spread,4.2,47.0
+2025-02-01,Pakistan,Fuel Oil,12.9,76.06,28.74,3.98,Regional Spread,3.5,42.0
+2025-02-01,Bangladesh,Crude Oil,88.0,41.83,61.84,2.58,Regional Spread,2.1,43.0
+2025-02-01,Bangladesh,LNG,25.5,41.68,63.04,2.28,Regional Spread,2.3,52.0
+2025-02-01,Bangladesh,LPG,8.7,42.41,60.24,2.53,Regional Spread,1.6,38.0
+2025-02-01,Bangladesh,Diesel,11.3,41.92,60.21,2.24,Regional Spread,2.0,53.0
+2025-02-01,Bangladesh,Jet Fuel,7.3,39.75,57.0,2.27,Regional Spread,1.8,39.0
+2025-02-01,Bangladesh,Fuel Oil,4.1,41.11,62.0,2.75,Regional Spread,1.6,34.0
+2025-02-01,Taiwan,Crude Oil,521.3,79.04,23.68,5.03,Regional Spread,3.9,45.0
+2025-02-01,Taiwan,LNG,158.7,73.51,30.83,4.54,Regional Spread,3.5,25.0
+2025-02-01,Taiwan,LPG,49.3,79.06,24.87,4.63,Regional Spread,3.4,25.0
+2025-02-01,Taiwan,Diesel,69.3,77.03,26.91,4.16,Regional Spread,3.8,43.0
+2025-02-01,Taiwan,Jet Fuel,43.6,74.79,28.51,5.1,Regional Spread,3.6,32.0
+2025-02-01,Taiwan,Fuel Oil,26.6,76.33,27.43,4.64,Regional Spread,3.9,37.0
+2025-02-01,Singapore,Crude Oil,725.1,80.97,21.62,5.2,Regional Spread,4.1,38.0
+2025-02-01,Singapore,LNG,222.3,78.21,25.0,5.1,Regional Spread,3.5,38.0
+2025-02-01,Singapore,LPG,68.1,76.59,27.93,4.29,Regional Spread,3.5,50.0
+2025-02-01,Singapore,Diesel,92.6,75.59,26.52,4.35,Regional Spread,4.1,27.0
+2025-02-01,Singapore,Jet Fuel,58.3,80.9,23.27,4.64,Regional Spread,4.3,45.0
+2025-02-01,Singapore,Fuel Oil,34.9,80.5,23.66,5.27,Regional Spread,4.1,28.0
+2025-02-01,New Zealand,Crude Oil,83.6,27.6,61.28,1.59,Regional Spread,1.5,33.0
+2025-02-01,New Zealand,LNG,23.1,27.76,60.21,1.79,Regional Spread,1.6,31.0
+2025-02-01,New Zealand,LPG,8.0,27.59,62.68,1.8,Regional Spread,1.7,31.0
+2025-02-01,New Zealand,Diesel,11.0,27.84,62.61,1.65,Regional Spread,1.1,31.0
+2025-02-01,New Zealand,Jet Fuel,6.7,27.45,61.24,1.88,Regional Spread,1.3,43.0
+2025-02-01,New Zealand,Fuel Oil,4.3,27.45,62.25,1.49,Regional Spread,1.4,44.0
+2025-02-01,Sri Lanka,Crude Oil,45.4,89.38,13.3,5.17,Regional Spread,4.0,35.0
+2025-02-01,Sri Lanka,LNG,14.1,86.64,17.14,5.94,Regional Spread,4.2,48.0
+2025-02-01,Sri Lanka,LPG,4.8,89.84,13.02,5.62,Regional Spread,4.4,43.0
+2025-02-01,Sri Lanka,Diesel,5.8,86.94,17.02,5.5,Regional Spread,4.1,37.0
+2025-02-01,Sri Lanka,Jet Fuel,3.5,86.89,16.83,5.86,Regional Spread,4.1,47.0
+2025-02-01,Sri Lanka,Fuel Oil,2.3,87.85,15.37,5.46,Regional Spread,4.1,37.0
+2025-02-01,Myanmar,Crude Oil,38.2,33.22,63.17,1.91,Regional Spread,2.1,38.0
+2025-02-01,Myanmar,LNG,13.2,35.52,57.68,2.16,Regional Spread,1.7,39.0
+2025-02-01,Myanmar,LPG,3.9,33.92,58.16,2.31,Regional Spread,1.5,38.0
+2025-02-01,Myanmar,Diesel,5.5,33.07,61.38,2.04,Regional Spread,2.0,46.0
+2025-02-01,Myanmar,Jet Fuel,3.6,33.57,60.34,2.03,Regional Spread,2.0,30.0
+2025-02-01,Myanmar,Fuel Oil,2.0,33.15,62.6,2.1,Regional Spread,1.2,35.0
+2025-02-01,Cambodia,Crude Oil,26.7,40.49,59.87,2.16,Regional Spread,1.6,41.0
+2025-02-01,Cambodia,LNG,8.3,39.16,57.27,2.46,Regional Spread,2.1,55.0
+2025-02-01,Cambodia,LPG,2.4,39.68,58.28,2.61,Regional Spread,2.3,28.0
+2025-02-01,Cambodia,Diesel,3.7,37.83,58.03,2.62,Regional Spread,2.2,50.0
+2025-02-01,Cambodia,Jet Fuel,2.3,39.48,56.44,2.47,Regional Spread,2.3,39.0
+2025-02-01,Cambodia,Fuel Oil,1.3,38.26,59.31,2.36,Regional Spread,1.8,42.0
+2025-02-01,Laos,Crude Oil,9.6,9.67,62.82,0.64,Regional Spread,0.2,38.0
+2025-02-01,Laos,LNG,2.8,10.18,59.92,0.63,Regional Spread,0.1,46.0
+2025-02-01,Laos,LPG,0.9,9.57,63.5,0.59,Regional Spread,0.4,35.0
+2025-02-01,Laos,Diesel,1.3,9.61,62.94,0.62,Regional Spread,0.5,46.0
+2025-02-01,Laos,Jet Fuel,0.7,10.06,59.21,0.56,Regional Spread,0.6,46.0
+2025-02-01,Laos,Fuel Oil,0.4,9.61,59.93,0.59,Regional Spread,1.0,51.0
+2025-02-01,Mongolia,Crude Oil,14.6,5.04,59.17,0.29,Regional Spread,-0.1,54.0
+2025-02-01,Mongolia,LNG,4.8,4.79,58.82,0.31,Regional Spread,0.6,37.0
+2025-02-01,Mongolia,LPG,1.6,4.83,59.94,0.33,Regional Spread,0.0,24.0
+2025-02-01,Mongolia,Diesel,2.0,5.02,58.82,0.3,Regional Spread,0.3,36.0
+2025-02-01,Mongolia,Jet Fuel,1.3,5.01,63.01,0.28,Regional Spread,0.4,55.0
+2025-02-01,Mongolia,Fuel Oil,0.8,5.05,58.14,0.28,Regional Spread,0.7,44.0
+2025-03-01,China,Crude Oil,6318.4,42.19,59.81,2.93,Regional Spread,2.6,90.0
+2025-03-01,China,LNG,1854.3,42.78,60.87,2.71,Regional Spread,2.7,86.0
+2025-03-01,China,LPG,675.1,42.9,63.52,2.62,Regional Spread,1.7,75.0
+2025-03-01,China,Diesel,911.7,44.79,55.5,2.9,Regional Spread,2.0,98.0
+2025-03-01,China,Jet Fuel,519.4,44.25,56.11,2.5,Regional Spread,1.9,103.0
+2025-03-01,China,Fuel Oil,303.2,44.54,56.22,2.91,Regional Spread,2.3,97.0
+2025-03-01,India,Crude Oil,2970.9,61.84,42.95,4.02,Regional Spread,3.5,68.0
+2025-03-01,India,LNG,798.1,62.74,39.57,3.38,Regional Spread,2.8,60.0
+2025-03-01,India,LPG,295.1,60.39,43.16,3.97,Regional Spread,2.6,65.0
+2025-03-01,India,Diesel,373.0,62.52,39.73,3.86,Regional Spread,3.2,68.0
+2025-03-01,India,Jet Fuel,230.3,60.0,44.97,4.14,Regional Spread,3.4,67.0
+2025-03-01,India,Fuel Oil,140.6,58.77,46.59,3.67,Regional Spread,2.7,55.0
+2025-03-01,Japan,Crude Oil,1608.8,84.89,18.56,5.1,Regional Spread,3.9,222.0
+2025-03-01,Japan,LNG,557.8,83.02,20.13,4.81,Regional Spread,4.7,226.0
+2025-03-01,Japan,LPG,167.6,84.24,19.16,5.53,Regional Spread,4.2,236.0
+2025-03-01,Japan,Diesel,244.6,85.04,18.29,5.62,Regional Spread,4.7,226.0
+2025-03-01,Japan,Jet Fuel,155.2,86.41,15.83,5.14,Regional Spread,4.2,225.0
+2025-03-01,Japan,Fuel Oil,90.9,87.24,15.79,5.8,Regional Spread,4.1,226.0
+2025-03-01,South Korea,Crude Oil,1450.4,68.46,33.79,4.56,Regional Spread,3.6,192.0
+2025-03-01,South Korea,LNG,473.2,72.63,30.03,4.08,Regional Spread,3.5,185.0
+2025-03-01,South Korea,LPG,152.9,68.68,32.61,4.43,Regional Spread,3.1,178.0
+2025-03-01,South Korea,Diesel,197.7,72.24,30.44,4.69,Regional Spread,3.9,185.0
+2025-03-01,South Korea,Jet Fuel,118.4,68.42,33.04,4.36,Regional Spread,3.6,182.0
+2025-03-01,South Korea,Fuel Oil,74.4,69.47,33.57,4.31,Regional Spread,3.1,184.0
+2025-03-01,Australia,Crude Oil,382.5,15.26,58.26,0.84,Regional Spread,0.7,55.0
+2025-03-01,Australia,LNG,109.3,14.47,59.28,0.88,Regional Spread,0.7,59.0
+2025-03-01,Australia,LPG,38.1,15.0,61.08,0.86,Regional Spread,0.5,61.0
+2025-03-01,Australia,Diesel,49.1,14.53,57.02,0.8,Regional Spread,1.1,55.0
+2025-03-01,Australia,Jet Fuel,30.3,14.68,61.44,0.94,Regional Spread,0.3,59.0
+2025-03-01,Australia,Fuel Oil,20.4,14.8,57.42,0.98,Regional Spread,0.3,52.0
+2025-03-01,Indonesia,Crude Oil,483.4,17.17,57.91,1.07,Regional Spread,0.7,30.0
+2025-03-01,Indonesia,LNG,162.4,17.71,62.81,0.97,Regional Spread,0.5,49.0
+2025-03-01,Indonesia,LPG,50.9,18.35,58.79,1.02,Regional Spread,0.8,45.0
+2025-03-01,Indonesia,Diesel,63.2,18.15,60.54,1.2,Regional Spread,1.2,45.0
+2025-03-01,Indonesia,Jet Fuel,44.2,17.21,62.34,1.13,Regional Spread,1.1,33.0
+2025-03-01,Indonesia,Fuel Oil,23.5,17.9,57.66,1.2,Regional Spread,1.0,57.0
+2025-03-01,Thailand,Crude Oil,551.8,51.96,51.77,3.38,Regional Spread,3.0,49.0
+2025-03-01,Thailand,LNG,155.9,52.06,53.44,3.68,Regional Spread,2.4,46.0
+2025-03-01,Thailand,LPG,52.0,52.16,53.18,3.56,Regional Spread,3.2,57.0
+2025-03-01,Thailand,Diesel,72.5,55.2,49.46,3.47,Regional Spread,3.1,48.0
+2025-03-01,Thailand,Jet Fuel,40.7,53.85,51.79,3.39,Regional Spread,2.4,40.0
+2025-03-01,Thailand,Fuel Oil,27.7,54.46,47.1,3.31,Regional Spread,2.5,38.0
+2025-03-01,Vietnam,Crude Oil,241.9,22.23,58.53,1.34,Regional Spread,0.9,47.0
+2025-03-01,Vietnam,LNG,64.8,22.33,61.89,1.44,Regional Spread,0.9,33.0
+2025-03-01,Vietnam,LPG,24.9,22.01,61.4,1.31,Regional Spread,1.2,30.0
+2025-03-01,Vietnam,Diesel,32.3,22.4,59.24,1.43,Regional Spread,1.4,29.0
+2025-03-01,Vietnam,Jet Fuel,19.3,21.62,58.96,1.35,Regional Spread,1.6,40.0
+2025-03-01,Vietnam,Fuel Oil,11.5,21.62,60.3,1.45,Regional Spread,1.6,31.0
+2025-03-01,Philippines,Crude Oil,170.5,57.99,47.25,3.87,Regional Spread,3.3,36.0
+2025-03-01,Philippines,LNG,56.6,56.88,45.97,3.59,Regional Spread,2.7,29.0
+2025-03-01,Philippines,LPG,17.1,60.77,43.61,3.96,Regional Spread,3.4,48.0
+2025-03-01,Philippines,Diesel,22.9,60.26,44.14,3.66,Regional Spread,3.4,41.0
+2025-03-01,Philippines,Jet Fuel,15.8,56.61,46.71,3.33,Regional Spread,3.3,24.0
+2025-03-01,Philippines,Fuel Oil,9.1,59.37,42.58,3.67,Regional Spread,2.5,25.0
+2025-03-01,Malaysia,Crude Oil,254.1,12.02,62.18,0.67,Regional Spread,0.5,37.0
+2025-03-01,Malaysia,LNG,69.2,11.99,59.75,0.8,Regional Spread,0.3,38.0
+2025-03-01,Malaysia,LPG,26.0,11.92,56.41,0.78,Regional Spread,0.4,32.0
+2025-03-01,Malaysia,Diesel,34.9,11.99,56.59,0.72,Regional Spread,1.1,25.0
+2025-03-01,Malaysia,Jet Fuel,19.6,11.4,57.89,0.64,Regional Spread,0.3,44.0
+2025-03-01,Malaysia,Fuel Oil,12.8,12.03,63.23,0.69,Regional Spread,0.4,55.0
+2025-03-01,Pakistan,Crude Oil,288.5,71.24,32.48,4.86,Regional Spread,3.4,37.0
+2025-03-01,Pakistan,LNG,85.4,70.73,31.97,4.56,Regional Spread,4.1,54.0
+2025-03-01,Pakistan,LPG,28.4,71.63,29.88,4.03,Regional Spread,3.6,37.0
+2025-03-01,Pakistan,Diesel,36.2,74.5,28.82,4.46,Regional Spread,3.9,29.0
+2025-03-01,Pakistan,Jet Fuel,22.4,72.97,31.26,4.01,Regional Spread,3.9,41.0
+2025-03-01,Pakistan,Fuel Oil,13.3,73.32,29.22,4.75,Regional Spread,3.5,50.0
+2025-03-01,Bangladesh,Crude Oil,75.6,41.21,59.43,2.64,Regional Spread,2.4,52.0
+2025-03-01,Bangladesh,LNG,22.8,41.18,57.21,2.57,Regional Spread,1.7,35.0
+2025-03-01,Bangladesh,LPG,8.0,39.73,63.56,2.29,Regional Spread,1.6,32.0
+2025-03-01,Bangladesh,Diesel,11.3,42.67,62.27,2.77,Regional Spread,2.0,55.0
+2025-03-01,Bangladesh,Jet Fuel,6.6,41.2,60.94,2.79,Regional Spread,1.7,38.0
+2025-03-01,Bangladesh,Fuel Oil,4.3,39.68,63.2,2.81,Regional Spread,2.1,40.0
+2025-03-01,Taiwan,Crude Oil,522.9,78.89,24.48,5.08,Regional Spread,4.1,38.0
+2025-03-01,Taiwan,LNG,161.4,76.52,27.21,4.46,Regional Spread,3.6,32.0
+2025-03-01,Taiwan,LPG,48.2,76.57,25.29,4.68,Regional Spread,3.9,37.0
+2025-03-01,Taiwan,Diesel,65.6,74.36,29.21,4.13,Regional Spread,3.4,34.0
+2025-03-01,Taiwan,Jet Fuel,39.5,77.61,26.01,4.31,Regional Spread,3.4,31.0
+2025-03-01,Taiwan,Fuel Oil,26.2,73.96,30.61,5.13,Regional Spread,3.6,23.0
+2025-03-01,Singapore,Crude Oil,717.4,81.35,22.72,5.0,Regional Spread,3.9,27.0
+2025-03-01,Singapore,LNG,225.7,78.37,25.25,5.11,Regional Spread,4.3,27.0
+2025-03-01,Singapore,LPG,73.8,75.98,28.16,5.04,Regional Spread,4.1,28.0
+2025-03-01,Singapore,Diesel,103.7,79.15,22.89,4.48,Regional Spread,3.6,57.0
+2025-03-01,Singapore,Jet Fuel,59.9,77.23,24.64,4.31,Regional Spread,4.0,28.0
+2025-03-01,Singapore,Fuel Oil,39.0,77.54,24.29,4.38,Regional Spread,4.2,23.0
+2025-03-01,New Zealand,Crude Oil,78.9,27.83,62.97,1.52,Regional Spread,1.3,29.0
+2025-03-01,New Zealand,LNG,26.6,27.3,57.26,1.75,Regional Spread,1.8,31.0
+2025-03-01,New Zealand,LPG,7.8,27.84,59.94,1.8,Regional Spread,1.7,42.0
+2025-03-01,New Zealand,Diesel,10.7,27.71,61.93,1.57,Regional Spread,1.2,46.0
+2025-03-01,New Zealand,Jet Fuel,6.7,27.42,58.57,1.83,Regional Spread,1.5,39.0
+2025-03-01,New Zealand,Fuel Oil,4.4,27.0,60.62,1.57,Regional Spread,1.4,31.0
+2025-03-01,Sri Lanka,Crude Oil,42.7,89.7,12.83,4.9,Regional Spread,4.0,49.0
+2025-03-01,Sri Lanka,LNG,13.6,90.46,12.73,5.06,Regional Spread,4.4,17.0
+2025-03-01,Sri Lanka,LPG,4.2,85.68,16.73,5.15,Regional Spread,4.1,26.0
+2025-03-01,Sri Lanka,Diesel,6.4,88.27,14.23,5.13,Regional Spread,4.4,21.0
+2025-03-01,Sri Lanka,Jet Fuel,4.0,90.77,12.32,5.76,Regional Spread,4.8,37.0
+2025-03-01,Sri Lanka,Fuel Oil,2.1,91.35,12.53,5.31,Regional Spread,4.7,39.0
+2025-03-01,Myanmar,Crude Oil,42.6,35.09,56.61,1.86,Regional Spread,2.1,43.0
+2025-03-01,Myanmar,LNG,11.6,34.67,57.27,2.0,Regional Spread,1.5,24.0
+2025-03-01,Myanmar,LPG,4.1,34.27,57.44,2.14,Regional Spread,1.7,35.0
+2025-03-01,Myanmar,Diesel,5.0,35.13,57.35,2.3,Regional Spread,1.6,32.0
+2025-03-01,Myanmar,Jet Fuel,3.6,33.71,58.56,2.17,Regional Spread,1.6,25.0
+2025-03-01,Myanmar,Fuel Oil,2.2,34.1,59.2,2.05,Regional Spread,1.3,44.0
+2025-03-01,Cambodia,Crude Oil,26.4,39.72,63.08,2.4,Regional Spread,2.1,35.0
+2025-03-01,Cambodia,LNG,8.2,40.1,58.03,2.65,Regional Spread,1.8,39.0
+2025-03-01,Cambodia,LPG,2.5,38.58,59.97,2.53,Regional Spread,2.2,48.0
+2025-03-01,Cambodia,Diesel,3.5,39.85,58.81,2.67,Regional Spread,2.4,43.0
+2025-03-01,Cambodia,Jet Fuel,2.3,38.15,58.65,2.3,Regional Spread,2.4,35.0
+2025-03-01,Cambodia,Fuel Oil,1.2,37.95,61.28,2.54,Regional Spread,1.5,41.0
+2025-03-01,Laos,Crude Oil,8.3,9.81,58.72,0.66,Regional Spread,0.7,49.0
+2025-03-01,Laos,LNG,2.7,9.49,60.33,0.54,Regional Spread,0.2,25.0
+2025-03-01,Laos,LPG,0.9,9.88,61.18,0.63,Regional Spread,0.9,39.0
+2025-03-01,Laos,Diesel,1.1,9.96,63.45,0.55,Regional Spread,0.1,34.0
+2025-03-01,Laos,Jet Fuel,0.8,10.1,57.44,0.64,Regional Spread,0.4,23.0
+2025-03-01,Laos,Fuel Oil,0.5,9.49,62.98,0.56,Regional Spread,0.4,41.0
+2025-03-01,Mongolia,Crude Oil,14.4,4.81,63.1,0.27,Regional Spread,-0.2,35.0
+2025-03-01,Mongolia,LNG,4.1,4.95,56.82,0.29,Regional Spread,0.2,45.0
+2025-03-01,Mongolia,LPG,1.6,4.7,60.66,0.29,Regional Spread,0.3,49.0
+2025-03-01,Mongolia,Diesel,2.1,4.98,58.92,0.28,Regional Spread,0.6,34.0
+2025-03-01,Mongolia,Jet Fuel,1.2,4.71,58.25,0.26,Regional Spread,0.7,39.0
+2025-03-01,Mongolia,Fuel Oil,0.7,4.93,58.98,0.33,Regional Spread,-0.0,42.0
+2025-04-01,China,Crude Oil,6569.0,41.08,61.31,4.87,Maritime Blockade Threats,3.1,79.0
+2025-04-01,China,LNG,1815.8,42.77,58.82,5.88,Maritime Blockade Threats,3.0,89.0
+2025-04-01,China,LPG,613.4,41.04,58.83,5.73,Maritime Blockade Threats,3.3,96.0
+2025-04-01,China,Diesel,896.2,42.41,62.46,5.18,Maritime Blockade Threats,3.2,90.0
+2025-04-01,China,Jet Fuel,514.3,41.2,56.54,5.73,Maritime Blockade Threats,2.5,89.0
+2025-04-01,China,Fuel Oil,301.7,40.66,61.94,5.65,Maritime Blockade Threats,2.5,98.0
+2025-04-01,India,Crude Oil,2445.6,57.94,49.93,7.83,Maritime Blockade Threats,4.1,55.0
+2025-04-01,India,LNG,777.4,60.05,45.16,7.66,Maritime Blockade Threats,4.1,65.0
+2025-04-01,India,LPG,260.1,61.26,46.07,6.85,Maritime Blockade Threats,3.7,50.0
+2025-04-01,India,Diesel,346.0,61.07,45.35,7.86,Maritime Blockade Threats,4.4,53.0
+2025-04-01,India,Jet Fuel,224.4,59.55,49.04,7.19,Maritime Blockade Threats,4.2,61.0
+2025-04-01,India,Fuel Oil,121.4,61.1,43.65,7.39,Maritime Blockade Threats,3.9,54.0
+2025-04-01,Japan,Crude Oil,1596.1,85.83,19.57,11.76,Maritime Blockade Threats,5.9,228.0
+2025-04-01,Japan,LNG,461.3,86.43,20.99,9.34,Maritime Blockade Threats,6.0,230.0
+2025-04-01,Japan,LPG,171.9,82.3,24.4,10.35,Maritime Blockade Threats,5.8,247.0
+2025-04-01,Japan,Diesel,232.0,82.34,25.16,9.96,Maritime Blockade Threats,5.3,233.0
+2025-04-01,Japan,Jet Fuel,146.1,82.79,24.98,10.6,Maritime Blockade Threats,5.9,223.0
+2025-04-01,Japan,Fuel Oil,74.8,82.99,24.7,9.29,Maritime Blockade Threats,5.7,235.0
+2025-04-01,South Korea,Crude Oil,1539.6,68.34,38.97,7.68,Maritime Blockade Threats,4.3,192.0
+2025-04-01,South Korea,LNG,436.0,68.74,37.01,7.83,Maritime Blockade Threats,4.3,180.0
+2025-04-01,South Korea,LPG,143.1,71.49,36.34,8.3,Maritime Blockade Threats,4.8,167.0
+2025-04-01,South Korea,Diesel,182.2,70.95,36.84,8.37,Maritime Blockade Threats,4.1,174.0
+2025-04-01,South Korea,Jet Fuel,112.4,67.26,40.9,8.45,Maritime Blockade Threats,4.5,201.0
+2025-04-01,South Korea,Fuel Oil,74.7,71.43,36.77,7.91,Maritime Blockade Threats,4.8,187.0
+2025-04-01,Australia,Crude Oil,398.5,14.16,58.72,1.63,Maritime Blockade Threats,1.3,53.0
+2025-04-01,Australia,LNG,107.1,14.91,60.04,1.75,Maritime Blockade Threats,1.4,54.0
+2025-04-01,Australia,LPG,39.3,14.56,58.41,1.6,Maritime Blockade Threats,0.8,72.0
+2025-04-01,Australia,Diesel,50.3,14.65,61.19,1.63,Maritime Blockade Threats,1.1,50.0
+2025-04-01,Australia,Jet Fuel,33.8,14.06,61.64,1.65,Maritime Blockade Threats,1.1,56.0
+2025-04-01,Australia,Fuel Oil,18.8,14.04,62.24,1.62,Maritime Blockade Threats,1.0,52.0
+2025-04-01,Indonesia,Crude Oil,506.9,17.03,60.68,2.02,Maritime Blockade Threats,1.5,44.0
+2025-04-01,Indonesia,LNG,151.0,17.26,63.23,2.05,Maritime Blockade Threats,1.5,36.0
+2025-04-01,Indonesia,LPG,49.9,16.95,58.28,2.32,Maritime Blockade Threats,0.8,45.0
+2025-04-01,Indonesia,Diesel,67.4,17.08,63.34,2.04,Maritime Blockade Threats,1.1,30.0
+2025-04-01,Indonesia,Jet Fuel,42.6,17.68,61.52,2.17,Maritime Blockade Threats,1.2,51.0
+2025-04-01,Indonesia,Fuel Oil,26.5,17.54,62.26,1.97,Maritime Blockade Threats,1.2,61.0
+2025-04-01,Thailand,Crude Oil,504.4,54.72,52.95,6.23,Maritime Blockade Threats,3.5,26.0
+2025-04-01,Thailand,LNG,154.6,50.72,53.85,6.84,Maritime Blockade Threats,3.8,51.0
+2025-04-01,Thailand,LPG,54.4,54.37,49.48,6.75,Maritime Blockade Threats,3.9,35.0
+2025-04-01,Thailand,Diesel,70.5,53.25,50.16,6.78,Maritime Blockade Threats,3.2,30.0
+2025-04-01,Thailand,Jet Fuel,39.3,54.32,51.53,5.88,Maritime Blockade Threats,3.3,53.0
+2025-04-01,Thailand,Fuel Oil,26.4,54.51,50.88,5.99,Maritime Blockade Threats,3.3,29.0
+2025-04-01,Vietnam,Crude Oil,243.2,20.58,60.48,2.84,Maritime Blockade Threats,1.6,36.0
+2025-04-01,Vietnam,LNG,68.6,20.96,56.62,2.34,Maritime Blockade Threats,1.1,48.0
+2025-04-01,Vietnam,LPG,21.7,21.13,59.09,2.91,Maritime Blockade Threats,1.4,47.0
+2025-04-01,Vietnam,Diesel,32.1,20.81,58.26,2.87,Maritime Blockade Threats,1.3,23.0
+2025-04-01,Vietnam,Jet Fuel,20.2,20.35,62.09,2.74,Maritime Blockade Threats,1.1,54.0
+2025-04-01,Vietnam,Fuel Oil,11.7,21.41,59.57,2.69,Maritime Blockade Threats,1.5,52.0
+2025-04-01,Philippines,Crude Oil,159.8,56.58,47.58,6.41,Maritime Blockade Threats,3.7,46.0
+2025-04-01,Philippines,LNG,54.3,58.36,50.48,6.91,Maritime Blockade Threats,3.3,36.0
+2025-04-01,Philippines,LPG,17.1,59.51,45.55,7.15,Maritime Blockade Threats,3.6,36.0
+2025-04-01,Philippines,Diesel,24.1,57.48,50.91,6.58,Maritime Blockade Threats,3.7,37.0
+2025-04-01,Philippines,Jet Fuel,15.1,59.23,44.58,7.82,Maritime Blockade Threats,3.3,30.0
+2025-04-01,Philippines,Fuel Oil,8.9,59.53,45.4,6.75,Maritime Blockade Threats,3.3,40.0
+2025-04-01,Malaysia,Crude Oil,252.9,11.77,57.59,1.5,Maritime Blockade Threats,1.0,46.0
+2025-04-01,Malaysia,LNG,69.4,11.87,60.75,1.47,Maritime Blockade Threats,0.4,50.0
+2025-04-01,Malaysia,LPG,23.6,11.77,56.46,1.58,Maritime Blockade Threats,0.4,30.0
+2025-04-01,Malaysia,Diesel,32.5,11.64,58.97,1.37,Maritime Blockade Threats,1.1,43.0
+2025-04-01,Malaysia,Jet Fuel,22.2,11.6,61.82,1.51,Maritime Blockade Threats,0.5,50.0
+2025-04-01,Malaysia,Fuel Oil,12.3,11.71,57.81,1.55,Maritime Blockade Threats,0.9,42.0
+2025-04-01,Pakistan,Crude Oil,270.6,70.31,36.94,9.25,Maritime Blockade Threats,4.9,44.0
+2025-04-01,Pakistan,LNG,71.5,69.83,35.79,8.58,Maritime Blockade Threats,4.6,47.0
+2025-04-01,Pakistan,LPG,24.8,70.59,35.95,8.37,Maritime Blockade Threats,4.7,37.0
+2025-04-01,Pakistan,Diesel,36.3,74.18,32.91,9.58,Maritime Blockade Threats,4.6,35.0
+2025-04-01,Pakistan,Jet Fuel,21.3,71.78,34.72,8.29,Maritime Blockade Threats,4.9,40.0
+2025-04-01,Pakistan,Fuel Oil,13.6,74.74,31.88,8.22,Maritime Blockade Threats,4.4,33.0
+2025-04-01,Bangladesh,Crude Oil,80.5,41.3,60.68,5.0,Maritime Blockade Threats,3.0,43.0
+2025-04-01,Bangladesh,LNG,25.4,39.75,60.66,4.75,Maritime Blockade Threats,3.1,26.0
+2025-04-01,Bangladesh,LPG,7.4,40.38,59.73,5.08,Maritime Blockade Threats,2.4,42.0
+2025-04-01,Bangladesh,Diesel,10.0,40.5,62.45,4.49,Maritime Blockade Threats,2.4,41.0
+2025-04-01,Bangladesh,Jet Fuel,7.0,41.71,57.49,5.05,Maritime Blockade Threats,3.1,45.0
+2025-04-01,Bangladesh,Fuel Oil,4.2,41.22,62.31,5.53,Maritime Blockade Threats,2.3,47.0
+2025-04-01,Taiwan,Crude Oil,453.2,73.23,34.88,8.79,Maritime Blockade Threats,4.4,35.0
+2025-04-01,Taiwan,LNG,141.4,74.11,30.72,10.18,Maritime Blockade Threats,5.0,48.0
+2025-04-01,Taiwan,LPG,46.1,73.37,31.37,9.34,Maritime Blockade Threats,5.0,37.0
+2025-04-01,Taiwan,Diesel,61.0,74.91,31.97,9.33,Maritime Blockade Threats,4.8,40.0
+2025-04-01,Taiwan,Jet Fuel,37.4,75.67,32.54,8.96,Maritime Blockade Threats,5.1,40.0
+2025-04-01,Taiwan,Fuel Oil,22.3,76.93,28.71,9.76,Maritime Blockade Threats,4.8,42.0
+2025-04-01,Singapore,Crude Oil,687.0,74.69,30.47,9.0,Maritime Blockade Threats,5.1,34.0
+2025-04-01,Singapore,LNG,209.9,73.84,31.78,10.04,Maritime Blockade Threats,4.7,52.0
+2025-04-01,Singapore,LPG,68.7,79.11,27.13,8.64,Maritime Blockade Threats,5.0,39.0
+2025-04-01,Singapore,Diesel,92.5,77.37,28.35,9.77,Maritime Blockade Threats,5.2,28.0
+2025-04-01,Singapore,Jet Fuel,57.5,79.39,26.38,9.24,Maritime Blockade Threats,5.0,51.0
+2025-04-01,Singapore,Fuel Oil,37.1,78.86,26.65,8.77,Maritime Blockade Threats,4.9,38.0
+2025-04-01,New Zealand,Crude Oil,75.9,26.35,60.56,3.54,Maritime Blockade Threats,2.0,42.0
+2025-04-01,New Zealand,LNG,22.6,27.6,59.16,3.12,Maritime Blockade Threats,1.6,47.0
+2025-04-01,New Zealand,LPG,8.6,27.7,61.99,3.35,Maritime Blockade Threats,1.6,48.0
+2025-04-01,New Zealand,Diesel,11.1,26.13,62.81,3.26,Maritime Blockade Threats,2.2,53.0
+2025-04-01,New Zealand,Jet Fuel,6.7,27.39,59.35,3.59,Maritime Blockade Threats,1.8,37.0
+2025-04-01,New Zealand,Fuel Oil,4.0,27.72,56.65,3.04,Maritime Blockade Threats,2.0,41.0
+2025-04-01,Sri Lanka,Crude Oil,40.7,83.45,23.67,11.64,Maritime Blockade Threats,6.1,31.0
+2025-04-01,Sri Lanka,LNG,12.2,85.43,21.5,10.91,Maritime Blockade Threats,5.6,34.0
+2025-04-01,Sri Lanka,LPG,4.1,85.12,21.87,10.63,Maritime Blockade Threats,5.8,37.0
+2025-04-01,Sri Lanka,Diesel,5.5,83.1,24.2,10.9,Maritime Blockade Threats,6.1,41.0
+2025-04-01,Sri Lanka,Jet Fuel,3.2,85.53,20.89,9.51,Maritime Blockade Threats,5.9,43.0
+2025-04-01,Sri Lanka,Fuel Oil,2.1,84.54,22.54,11.29,Maritime Blockade Threats,5.9,36.0
+2025-04-01,Myanmar,Crude Oil,38.9,34.28,60.15,4.31,Maritime Blockade Threats,2.4,44.0
+2025-04-01,Myanmar,LNG,11.7,33.74,57.26,3.76,Maritime Blockade Threats,2.3,49.0
+2025-04-01,Myanmar,LPG,3.9,33.56,61.06,4.64,Maritime Blockade Threats,2.0,20.0
+2025-04-01,Myanmar,Diesel,5.2,34.11,61.48,4.33,Maritime Blockade Threats,2.2,41.0
+2025-04-01,Myanmar,Jet Fuel,3.5,32.79,62.84,3.93,Maritime Blockade Threats,1.9,39.0
+2025-04-01,Myanmar,Fuel Oil,2.1,32.49,60.56,4.66,Maritime Blockade Threats,2.6,35.0
+2025-04-01,Cambodia,Crude Oil,25.1,38.1,62.43,4.71,Maritime Blockade Threats,2.6,56.0
+2025-04-01,Cambodia,LNG,7.6,37.24,57.08,5.05,Maritime Blockade Threats,2.2,55.0
+2025-04-01,Cambodia,LPG,2.6,39.84,58.77,5.2,Maritime Blockade Threats,2.2,39.0
+2025-04-01,Cambodia,Diesel,3.3,38.24,61.73,4.66,Maritime Blockade Threats,2.5,33.0
+2025-04-01,Cambodia,Jet Fuel,2.1,37.51,57.73,5.1,Maritime Blockade Threats,2.9,46.0
+2025-04-01,Cambodia,Fuel Oil,1.3,38.82,61.88,4.89,Maritime Blockade Threats,2.4,36.0
+2025-04-01,Laos,Crude Oil,8.2,9.48,61.19,1.23,Maritime Blockade Threats,1.0,35.0
+2025-04-01,Laos,LNG,2.7,9.77,56.81,1.16,Maritime Blockade Threats,0.5,43.0
+2025-04-01,Laos,LPG,0.9,9.6,62.53,1.2,Maritime Blockade Threats,1.1,32.0
+2025-04-01,Laos,Diesel,1.2,9.9,57.56,1.18,Maritime Blockade Threats,0.5,45.0
+2025-04-01,Laos,Jet Fuel,0.7,9.64,61.7,1.08,Maritime Blockade Threats,0.2,26.0
+2025-04-01,Laos,Fuel Oil,0.5,9.89,57.05,1.23,Maritime Blockade Threats,0.9,33.0
+2025-04-01,Mongolia,Crude Oil,15.1,4.93,60.86,0.63,Maritime Blockade Threats,0.4,48.0
+2025-04-01,Mongolia,LNG,4.3,4.75,60.74,0.58,Maritime Blockade Threats,-0.0,35.0
+2025-04-01,Mongolia,LPG,1.5,4.89,60.05,0.62,Maritime Blockade Threats,-0.1,42.0
+2025-04-01,Mongolia,Diesel,1.9,4.79,57.74,0.63,Maritime Blockade Threats,0.1,48.0
+2025-04-01,Mongolia,Jet Fuel,1.3,4.81,62.04,0.57,Maritime Blockade Threats,0.6,36.0
+2025-04-01,Mongolia,Fuel Oil,0.8,4.92,58.15,0.56,Maritime Blockade Threats,0.7,44.0
+2025-05-01,China,Crude Oil,6725.6,42.19,60.22,4.89,Maritime Blockade Threats,3.2,90.0
+2025-05-01,China,LNG,1738.2,43.29,62.62,5.46,Maritime Blockade Threats,2.8,90.0
+2025-05-01,China,LPG,630.3,42.54,61.93,5.35,Maritime Blockade Threats,3.1,93.0
+2025-05-01,China,Diesel,798.3,40.86,61.41,5.05,Maritime Blockade Threats,2.8,81.0
+2025-05-01,China,Jet Fuel,490.2,41.25,60.9,4.83,Maritime Blockade Threats,2.6,78.0
+2025-05-01,China,Fuel Oil,332.1,41.03,57.16,5.87,Maritime Blockade Threats,3.0,92.0
+2025-05-01,India,Crude Oil,2436.1,59.45,46.77,6.79,Maritime Blockade Threats,4.3,66.0
+2025-05-01,India,LNG,820.2,60.91,44.08,7.82,Maritime Blockade Threats,4.3,55.0
+2025-05-01,India,LPG,241.9,61.66,45.55,6.59,Maritime Blockade Threats,3.9,67.0
+2025-05-01,India,Diesel,377.4,59.63,47.27,7.76,Maritime Blockade Threats,4.2,69.0
+2025-05-01,India,Jet Fuel,226.5,61.46,44.16,7.24,Maritime Blockade Threats,4.3,66.0
+2025-05-01,India,Fuel Oil,122.1,59.76,46.66,7.87,Maritime Blockade Threats,3.9,66.0
+2025-05-01,Japan,Crude Oil,1652.7,85.16,20.21,10.06,Maritime Blockade Threats,6.0,233.0
+2025-05-01,Japan,LNG,486.3,84.53,22.19,11.26,Maritime Blockade Threats,5.4,232.0
+2025-05-01,Japan,LPG,155.0,83.55,23.77,11.31,Maritime Blockade Threats,5.6,224.0
+2025-05-01,Japan,Diesel,220.0,86.9,19.44,10.87,Maritime Blockade Threats,5.7,206.0
+2025-05-01,Japan,Jet Fuel,126.9,81.62,24.08,10.32,Maritime Blockade Threats,5.4,232.0
+2025-05-01,Japan,Fuel Oil,75.9,86.92,18.69,9.93,Maritime Blockade Threats,5.7,226.0
+2025-05-01,South Korea,Crude Oil,1398.5,67.4,38.51,7.91,Maritime Blockade Threats,4.2,189.0
+2025-05-01,South Korea,LNG,458.2,66.46,39.87,8.19,Maritime Blockade Threats,4.8,174.0
+2025-05-01,South Korea,LPG,145.2,71.22,36.6,9.23,Maritime Blockade Threats,4.8,167.0
+2025-05-01,South Korea,Diesel,182.5,68.69,35.85,8.32,Maritime Blockade Threats,4.1,172.0
+2025-05-01,South Korea,Jet Fuel,120.6,70.04,36.91,8.44,Maritime Blockade Threats,5.0,169.0
+2025-05-01,South Korea,Fuel Oil,69.3,68.04,38.16,9.0,Maritime Blockade Threats,5.0,185.0
+2025-05-01,Australia,Crude Oil,384.2,14.44,57.92,1.85,Maritime Blockade Threats,1.3,61.0
+2025-05-01,Australia,LNG,107.9,14.68,56.9,1.6,Maritime Blockade Threats,1.1,55.0
+2025-05-01,Australia,LPG,39.5,14.13,62.39,1.89,Maritime Blockade Threats,1.2,58.0
+2025-05-01,Australia,Diesel,48.5,14.02,60.01,1.81,Maritime Blockade Threats,1.0,65.0
+2025-05-01,Australia,Jet Fuel,32.4,14.23,56.86,1.94,Maritime Blockade Threats,1.2,42.0
+2025-05-01,Australia,Fuel Oil,17.8,14.61,56.69,1.77,Maritime Blockade Threats,0.5,57.0
+2025-05-01,Indonesia,Crude Oil,458.3,17.15,57.7,2.08,Maritime Blockade Threats,1.5,40.0
+2025-05-01,Indonesia,LNG,137.5,16.9,62.38,1.92,Maritime Blockade Threats,0.8,42.0
+2025-05-01,Indonesia,LPG,46.7,17.82,62.13,1.96,Maritime Blockade Threats,1.6,47.0
+2025-05-01,Indonesia,Diesel,64.9,17.69,58.37,2.03,Maritime Blockade Threats,1.3,25.0
+2025-05-01,Indonesia,Jet Fuel,40.5,16.81,57.3,2.28,Maritime Blockade Threats,1.5,38.0
+2025-05-01,Indonesia,Fuel Oil,25.7,17.85,56.7,2.33,Maritime Blockade Threats,1.3,31.0
+2025-05-01,Thailand,Crude Oil,528.0,53.07,50.44,6.79,Maritime Blockade Threats,3.5,15.0
+2025-05-01,Thailand,LNG,152.3,52.1,52.99,7.14,Maritime Blockade Threats,3.5,46.0
+2025-05-01,Thailand,LPG,53.7,51.73,52.9,7.24,Maritime Blockade Threats,3.6,32.0
+2025-05-01,Thailand,Diesel,72.5,53.8,55.47,6.7,Maritime Blockade Threats,3.0,39.0
+2025-05-01,Thailand,Jet Fuel,41.8,51.38,58.27,7.02,Maritime Blockade Threats,3.1,40.0
+2025-05-01,Thailand,Fuel Oil,27.0,52.0,54.09,6.48,Maritime Blockade Threats,3.7,48.0
+2025-05-01,Vietnam,Crude Oil,211.1,21.2,60.63,2.85,Maritime Blockade Threats,1.7,43.0
+2025-05-01,Vietnam,LNG,63.4,20.55,58.85,2.79,Maritime Blockade Threats,1.4,44.0
+2025-05-01,Vietnam,LPG,23.9,21.11,59.92,2.49,Maritime Blockade Threats,1.3,36.0
+2025-05-01,Vietnam,Diesel,31.4,20.29,57.1,2.68,Maritime Blockade Threats,1.6,34.0
+2025-05-01,Vietnam,Jet Fuel,20.2,21.25,58.75,2.75,Maritime Blockade Threats,1.6,36.0
+2025-05-01,Vietnam,Fuel Oil,11.0,20.96,58.7,2.68,Maritime Blockade Threats,1.3,36.0
+2025-05-01,Philippines,Crude Oil,162.9,59.47,46.48,7.31,Maritime Blockade Threats,3.6,42.0
+2025-05-01,Philippines,LNG,55.0,56.56,51.59,7.47,Maritime Blockade Threats,3.3,41.0
+2025-05-01,Philippines,LPG,15.7,57.06,47.62,7.58,Maritime Blockade Threats,3.9,49.0
+2025-05-01,Philippines,Diesel,22.8,56.48,47.34,7.96,Maritime Blockade Threats,3.3,28.0
+2025-05-01,Philippines,Jet Fuel,13.4,59.62,46.26,6.93,Maritime Blockade Threats,3.4,57.0
+2025-05-01,Philippines,Fuel Oil,8.2,58.95,47.13,6.57,Maritime Blockade Threats,4.2,41.0
+2025-05-01,Malaysia,Crude Oil,242.2,11.55,61.96,1.46,Maritime Blockade Threats,0.8,40.0
+2025-05-01,Malaysia,LNG,77.3,11.57,60.89,1.29,Maritime Blockade Threats,0.7,27.0
+2025-05-01,Malaysia,LPG,22.9,11.97,60.29,1.61,Maritime Blockade Threats,0.3,41.0
+2025-05-01,Malaysia,Diesel,33.9,11.18,59.23,1.57,Maritime Blockade Threats,1.1,37.0
+2025-05-01,Malaysia,Jet Fuel,21.7,11.57,56.77,1.36,Maritime Blockade Threats,1.0,59.0
+2025-05-01,Malaysia,Fuel Oil,12.8,11.81,58.06,1.27,Maritime Blockade Threats,0.9,41.0
+2025-05-01,Pakistan,Crude Oil,272.2,69.62,35.96,9.95,Maritime Blockade Threats,4.3,31.0
+2025-05-01,Pakistan,LNG,83.1,73.76,31.52,9.01,Maritime Blockade Threats,4.5,45.0
+2025-05-01,Pakistan,LPG,27.4,71.56,35.54,9.18,Maritime Blockade Threats,5.1,40.0
+2025-05-01,Pakistan,Diesel,34.8,74.45,30.46,8.09,Maritime Blockade Threats,4.7,32.0
+2025-05-01,Pakistan,Jet Fuel,21.8,70.08,35.09,9.42,Maritime Blockade Threats,4.8,24.0
+2025-05-01,Pakistan,Fuel Oil,12.6,73.16,32.83,7.95,Maritime Blockade Threats,5.0,39.0
+2025-05-01,Bangladesh,Crude Oil,80.1,39.79,57.33,5.08,Maritime Blockade Threats,2.9,37.0
+2025-05-01,Bangladesh,LNG,24.6,41.05,60.62,5.18,Maritime Blockade Threats,2.5,60.0
+2025-05-01,Bangladesh,LPG,8.0,41.14,57.81,5.58,Maritime Blockade Threats,2.3,33.0
+2025-05-01,Bangladesh,Diesel,11.3,38.84,59.46,5.57,Maritime Blockade Threats,2.9,35.0
+2025-05-01,Bangladesh,Jet Fuel,6.9,40.44,57.29,5.08,Maritime Blockade Threats,2.5,46.0
+2025-05-01,Bangladesh,Fuel Oil,4.0,40.07,58.72,4.61,Maritime Blockade Threats,3.1,50.0
+2025-05-01,Taiwan,Crude Oil,485.3,75.12,32.44,8.44,Maritime Blockade Threats,5.2,46.0
+2025-05-01,Taiwan,LNG,147.2,75.39,30.94,8.63,Maritime Blockade Threats,4.6,32.0
+2025-05-01,Taiwan,LPG,43.5,74.51,31.62,9.71,Maritime Blockade Threats,4.8,40.0
+2025-05-01,Taiwan,Diesel,64.5,73.13,33.43,8.82,Maritime Blockade Threats,5.3,38.0
+2025-05-01,Taiwan,Jet Fuel,39.2,73.92,32.56,9.87,Maritime Blockade Threats,5.1,36.0
+2025-05-01,Taiwan,Fuel Oil,23.4,73.53,34.13,8.58,Maritime Blockade Threats,5.3,35.0
+2025-05-01,Singapore,Crude Oil,700.0,76.16,28.75,9.7,Maritime Blockade Threats,5.0,34.0
+2025-05-01,Singapore,LNG,218.3,75.7,29.36,9.1,Maritime Blockade Threats,5.4,46.0
+2025-05-01,Singapore,LPG,64.2,79.27,28.29,10.65,Maritime Blockade Threats,4.9,51.0
+2025-05-01,Singapore,Diesel,98.7,79.43,26.4,10.09,Maritime Blockade Threats,4.7,52.0
+2025-05-01,Singapore,Jet Fuel,60.9,74.04,33.71,10.26,Maritime Blockade Threats,5.4,39.0
+2025-05-01,Singapore,Fuel Oil,35.1,77.13,27.8,9.76,Maritime Blockade Threats,4.6,42.0
+2025-05-01,New Zealand,Crude Oil,78.1,27.69,56.82,3.64,Maritime Blockade Threats,2.0,59.0
+2025-05-01,New Zealand,LNG,24.5,25.98,58.89,3.23,Maritime Blockade Threats,2.1,27.0
+2025-05-01,New Zealand,LPG,7.5,27.26,61.2,3.54,Maritime Blockade Threats,2.1,51.0
+2025-05-01,New Zealand,Diesel,11.3,25.9,58.32,3.0,Maritime Blockade Threats,2.0,43.0
+2025-05-01,New Zealand,Jet Fuel,6.5,27.92,62.72,3.1,Maritime Blockade Threats,1.6,47.0
+2025-05-01,New Zealand,Fuel Oil,4.0,26.32,57.35,3.08,Maritime Blockade Threats,1.7,36.0
+2025-05-01,Sri Lanka,Crude Oil,44.8,83.51,22.73,12.09,Maritime Blockade Threats,6.1,48.0
+2025-05-01,Sri Lanka,LNG,11.5,87.27,18.66,10.2,Maritime Blockade Threats,5.6,37.0
+2025-05-01,Sri Lanka,LPG,4.5,84.68,22.3,10.21,Maritime Blockade Threats,5.5,32.0
+2025-05-01,Sri Lanka,Diesel,5.8,85.18,21.54,10.72,Maritime Blockade Threats,5.3,41.0
+2025-05-01,Sri Lanka,Jet Fuel,3.2,87.79,18.3,12.03,Maritime Blockade Threats,5.9,45.0
+2025-05-01,Sri Lanka,Fuel Oil,2.0,88.92,18.27,9.86,Maritime Blockade Threats,5.7,50.0
+2025-05-01,Myanmar,Crude Oil,37.7,33.24,60.05,4.25,Maritime Blockade Threats,2.2,40.0
+2025-05-01,Myanmar,LNG,11.6,32.58,61.44,4.01,Maritime Blockade Threats,2.7,41.0
+2025-05-01,Myanmar,LPG,4.0,33.55,58.15,3.81,Maritime Blockade Threats,2.0,46.0
+2025-05-01,Myanmar,Diesel,5.4,33.69,58.27,4.39,Maritime Blockade Threats,2.4,44.0
+2025-05-01,Myanmar,Jet Fuel,3.5,34.07,57.4,4.01,Maritime Blockade Threats,1.9,29.0
+2025-05-01,Myanmar,Fuel Oil,2.1,34.23,56.64,4.56,Maritime Blockade Threats,2.5,51.0
+2025-05-01,Cambodia,Crude Oil,24.6,38.67,60.65,5.05,Maritime Blockade Threats,2.1,23.0
+2025-05-01,Cambodia,LNG,7.9,36.92,59.87,4.82,Maritime Blockade Threats,2.2,48.0
+2025-05-01,Cambodia,LPG,2.4,37.06,58.63,5.13,Maritime Blockade Threats,2.6,32.0
+2025-05-01,Cambodia,Diesel,3.6,38.44,60.68,4.78,Maritime Blockade Threats,2.8,42.0
+2025-05-01,Cambodia,Jet Fuel,2.1,39.11,60.68,4.77,Maritime Blockade Threats,2.1,47.0
+2025-05-01,Cambodia,Fuel Oil,1.2,39.54,62.84,4.51,Maritime Blockade Threats,2.3,30.0
+2025-05-01,Laos,Crude Oil,8.6,9.29,62.07,1.23,Maritime Blockade Threats,0.2,39.0
+2025-05-01,Laos,LNG,2.5,9.84,62.39,1.13,Maritime Blockade Threats,0.8,43.0
+2025-05-01,Laos,LPG,0.9,9.73,63.15,1.08,Maritime Blockade Threats,0.9,48.0
+2025-05-01,Laos,Diesel,1.2,9.68,63.21,1.08,Maritime Blockade Threats,0.7,38.0
+2025-05-01,Laos,Jet Fuel,0.7,9.29,61.53,1.18,Maritime Blockade Threats,0.3,27.0
+2025-05-01,Laos,Fuel Oil,0.5,9.28,60.5,1.28,Maritime Blockade Threats,0.5,41.0
+2025-05-01,Mongolia,Crude Oil,14.4,4.73,60.42,0.59,Maritime Blockade Threats,0.6,34.0
+2025-05-01,Mongolia,LNG,4.6,4.63,58.78,0.59,Maritime Blockade Threats,0.5,42.0
+2025-05-01,Mongolia,LPG,1.6,4.74,57.38,0.65,Maritime Blockade Threats,0.3,59.0
+2025-05-01,Mongolia,Diesel,2.0,4.84,62.6,0.62,Maritime Blockade Threats,-0.0,32.0
+2025-05-01,Mongolia,Jet Fuel,1.3,4.72,57.59,0.58,Maritime Blockade Threats,0.7,49.0
+2025-05-01,Mongolia,Fuel Oil,0.7,4.81,57.38,0.59,Maritime Blockade Threats,0.4,37.0
+2025-06-01,China,Crude Oil,6083.2,40.62,56.56,5.04,Maritime Blockade Threats,2.8,80.0
+2025-06-01,China,LNG,1873.1,40.69,62.57,5.28,Maritime Blockade Threats,2.4,91.0
+2025-06-01,China,LPG,666.4,40.74,62.94,5.29,Maritime Blockade Threats,2.4,84.0
+2025-06-01,China,Diesel,810.6,42.33,59.53,5.31,Maritime Blockade Threats,2.4,83.0
+2025-06-01,China,Jet Fuel,523.4,43.02,59.63,4.77,Maritime Blockade Threats,2.3,88.0
+2025-06-01,China,Fuel Oil,336.8,41.68,63.25,5.05,Maritime Blockade Threats,2.7,93.0
+2025-06-01,India,Crude Oil,2754.9,58.39,50.76,7.99,Maritime Blockade Threats,3.8,66.0
+2025-06-01,India,LNG,840.0,59.08,48.47,8.04,Maritime Blockade Threats,3.8,72.0
+2025-06-01,India,LPG,245.2,59.08,45.43,7.73,Maritime Blockade Threats,4.2,68.0
+2025-06-01,India,Diesel,336.6,58.81,48.06,6.77,Maritime Blockade Threats,3.8,71.0
+2025-06-01,India,Jet Fuel,203.0,61.52,47.48,7.7,Maritime Blockade Threats,3.8,64.0
+2025-06-01,India,Fuel Oil,137.5,57.49,48.5,7.6,Maritime Blockade Threats,4.0,66.0
+2025-06-01,Japan,Crude Oil,1725.1,85.8,21.5,9.92,Maritime Blockade Threats,5.7,235.0
+2025-06-01,Japan,LNG,505.7,84.86,21.86,9.41,Maritime Blockade Threats,5.7,231.0
+2025-06-01,Japan,LPG,150.2,83.33,23.89,10.8,Maritime Blockade Threats,5.1,228.0
+2025-06-01,Japan,Diesel,201.5,82.65,24.31,11.81,Maritime Blockade Threats,5.6,232.0
+2025-06-01,Japan,Jet Fuel,136.0,86.67,19.59,9.75,Maritime Blockade Threats,5.2,242.0
+2025-06-01,Japan,Fuel Oil,87.3,83.88,22.35,9.47,Maritime Blockade Threats,5.6,246.0
+2025-06-01,South Korea,Crude Oil,1446.5,69.07,38.73,9.01,Maritime Blockade Threats,5.0,174.0
+2025-06-01,South Korea,LNG,434.5,71.06,33.8,7.63,Maritime Blockade Threats,4.1,179.0
+2025-06-01,South Korea,LPG,136.2,67.08,37.58,8.82,Maritime Blockade Threats,4.1,174.0
+2025-06-01,South Korea,Diesel,199.9,71.23,35.41,9.64,Maritime Blockade Threats,4.6,195.0
+2025-06-01,South Korea,Jet Fuel,115.9,70.04,35.07,8.16,Maritime Blockade Threats,4.8,182.0
+2025-06-01,South Korea,Fuel Oil,70.8,67.45,36.81,8.21,Maritime Blockade Threats,4.3,171.0
+2025-06-01,Australia,Crude Oil,356.5,14.67,61.17,1.59,Maritime Blockade Threats,1.3,65.0
+2025-06-01,Australia,LNG,111.7,14.2,62.07,1.6,Maritime Blockade Threats,0.9,59.0
+2025-06-01,Australia,LPG,39.9,14.01,59.47,2.02,Maritime Blockade Threats,1.4,63.0
+2025-06-01,Australia,Diesel,52.8,14.91,56.55,1.9,Maritime Blockade Threats,1.4,59.0
+2025-06-01,Australia,Jet Fuel,29.6,14.78,59.19,1.95,Maritime Blockade Threats,1.4,55.0
+2025-06-01,Australia,Fuel Oil,18.8,13.83,57.21,1.6,Maritime Blockade Threats,1.2,55.0
+2025-06-01,Indonesia,Crude Oil,495.5,17.5,59.27,2.29,Maritime Blockade Threats,1.6,35.0
+2025-06-01,Indonesia,LNG,140.2,17.52,59.93,1.93,Maritime Blockade Threats,1.3,31.0
+2025-06-01,Indonesia,LPG,50.1,16.68,61.89,2.3,Maritime Blockade Threats,1.4,57.0
+2025-06-01,Indonesia,Diesel,68.7,16.61,62.08,1.99,Maritime Blockade Threats,1.4,39.0
+2025-06-01,Indonesia,Jet Fuel,43.2,16.67,57.61,2.12,Maritime Blockade Threats,0.8,21.0
+2025-06-01,Indonesia,Fuel Oil,25.1,17.77,57.09,2.32,Maritime Blockade Threats,1.6,33.0
+2025-06-01,Thailand,Crude Oil,523.5,54.74,49.72,6.55,Maritime Blockade Threats,3.9,43.0
+2025-06-01,Thailand,LNG,141.4,52.31,54.02,5.94,Maritime Blockade Threats,3.1,35.0
+2025-06-01,Thailand,LPG,49.7,53.48,51.44,7.37,Maritime Blockade Threats,3.1,36.0
+2025-06-01,Thailand,Diesel,63.8,51.47,54.48,6.23,Maritime Blockade Threats,3.1,30.0
+2025-06-01,Thailand,Jet Fuel,40.2,50.85,57.71,7.31,Maritime Blockade Threats,3.9,23.0
+2025-06-01,Thailand,Fuel Oil,25.1,52.14,52.26,6.1,Maritime Blockade Threats,3.8,50.0
+2025-06-01,Vietnam,Crude Oil,224.9,21.08,59.99,2.6,Maritime Blockade Threats,1.5,42.0
+2025-06-01,Vietnam,LNG,70.8,20.39,58.46,2.87,Maritime Blockade Threats,1.5,42.0
+2025-06-01,Vietnam,LPG,21.2,20.34,63.19,2.79,Maritime Blockade Threats,1.5,48.0
+2025-06-01,Vietnam,Diesel,32.6,21.25,58.32,2.82,Maritime Blockade Threats,1.1,48.0
+2025-06-01,Vietnam,Jet Fuel,18.9,21.23,63.53,2.48,Maritime Blockade Threats,1.1,62.0
+2025-06-01,Vietnam,Fuel Oil,10.6,21.18,57.57,2.51,Maritime Blockade Threats,1.9,25.0
+2025-06-01,Philippines,Crude Oil,171.5,56.02,52.97,7.17,Maritime Blockade Threats,3.6,34.0
+2025-06-01,Philippines,LNG,51.4,58.26,46.41,7.0,Maritime Blockade Threats,3.7,38.0
+2025-06-01,Philippines,LPG,16.4,56.69,50.47,6.4,Maritime Blockade Threats,4.1,31.0
+2025-06-01,Philippines,Diesel,21.3,57.65,50.5,6.71,Maritime Blockade Threats,3.8,53.0
+2025-06-01,Philippines,Jet Fuel,13.4,55.78,49.2,7.32,Maritime Blockade Threats,4.1,38.0
+2025-06-01,Philippines,Fuel Oil,9.1,59.89,48.2,7.48,Maritime Blockade Threats,3.5,28.0
+2025-06-01,Malaysia,Crude Oil,263.5,11.73,60.51,1.3,Maritime Blockade Threats,0.7,43.0
+2025-06-01,Malaysia,LNG,77.2,11.21,61.81,1.49,Maritime Blockade Threats,1.0,43.0
+2025-06-01,Malaysia,LPG,26.5,11.79,60.02,1.45,Maritime Blockade Threats,0.5,40.0
+2025-06-01,Malaysia,Diesel,31.2,11.81,63.31,1.31,Maritime Blockade Threats,1.1,53.0
+2025-06-01,Malaysia,Jet Fuel,19.3,11.76,58.87,1.59,Maritime Blockade Threats,0.4,38.0
+2025-06-01,Malaysia,Fuel Oil,12.3,11.95,58.38,1.28,Maritime Blockade Threats,1.1,33.0
+2025-06-01,Pakistan,Crude Oil,266.2,69.93,35.75,7.95,Maritime Blockade Threats,4.7,29.0
+2025-06-01,Pakistan,LNG,81.1,74.66,30.71,8.32,Maritime Blockade Threats,4.6,48.0
+2025-06-01,Pakistan,LPG,26.3,73.12,31.92,9.63,Maritime Blockade Threats,4.5,54.0
+2025-06-01,Pakistan,Diesel,35.1,74.25,33.71,9.96,Maritime Blockade Threats,5.0,46.0
+2025-06-01,Pakistan,Jet Fuel,20.0,71.05,36.63,8.2,Maritime Blockade Threats,4.8,40.0
+2025-06-01,Pakistan,Fuel Oil,13.0,69.72,37.15,9.53,Maritime Blockade Threats,4.8,52.0
+2025-06-01,Bangladesh,Crude Oil,83.9,39.96,56.95,4.72,Maritime Blockade Threats,3.0,49.0
+2025-06-01,Bangladesh,LNG,24.2,39.62,62.08,4.8,Maritime Blockade Threats,2.7,35.0
+2025-06-01,Bangladesh,LPG,8.0,39.78,57.37,4.86,Maritime Blockade Threats,2.5,39.0
+2025-06-01,Bangladesh,Diesel,10.0,41.19,59.54,4.69,Maritime Blockade Threats,3.0,48.0
+2025-06-01,Bangladesh,Jet Fuel,6.8,40.47,59.76,5.23,Maritime Blockade Threats,2.6,29.0
+2025-06-01,Bangladesh,Fuel Oil,3.7,39.08,58.21,5.36,Maritime Blockade Threats,2.2,24.0
+2025-06-01,Taiwan,Crude Oil,483.4,75.8,28.87,9.87,Maritime Blockade Threats,5.1,41.0
+2025-06-01,Taiwan,LNG,142.2,77.6,29.12,8.87,Maritime Blockade Threats,4.7,31.0
+2025-06-01,Taiwan,LPG,43.1,75.86,29.77,9.62,Maritime Blockade Threats,5.0,41.0
+2025-06-01,Taiwan,Diesel,60.9,75.27,32.87,8.95,Maritime Blockade Threats,4.7,35.0
+2025-06-01,Taiwan,Jet Fuel,39.1,77.28,29.98,9.0,Maritime Blockade Threats,5.0,42.0
+2025-06-01,Taiwan,Fuel Oil,25.2,75.01,32.27,8.51,Maritime Blockade Threats,5.0,37.0
+2025-06-01,Singapore,Crude Oil,647.8,78.39,29.35,8.77,Maritime Blockade Threats,4.8,28.0
+2025-06-01,Singapore,LNG,206.4,77.37,29.55,9.38,Maritime Blockade Threats,4.9,22.0
+2025-06-01,Singapore,LPG,67.8,78.89,28.83,9.51,Maritime Blockade Threats,4.7,47.0
+2025-06-01,Singapore,Diesel,92.0,78.07,29.93,10.08,Maritime Blockade Threats,4.7,44.0
+2025-06-01,Singapore,Jet Fuel,58.3,77.13,27.66,9.84,Maritime Blockade Threats,4.7,24.0
+2025-06-01,Singapore,Fuel Oil,33.8,78.22,27.43,8.68,Maritime Blockade Threats,5.1,35.0
+2025-06-01,New Zealand,Crude Oil,77.9,26.18,59.39,3.4,Maritime Blockade Threats,1.5,36.0
+2025-06-01,New Zealand,LNG,24.9,26.99,56.65,3.42,Maritime Blockade Threats,1.7,34.0
+2025-06-01,New Zealand,LPG,8.6,26.23,61.32,3.12,Maritime Blockade Threats,1.4,36.0
+2025-06-01,New Zealand,Diesel,10.3,26.52,60.32,3.46,Maritime Blockade Threats,2.2,46.0
+2025-06-01,New Zealand,Jet Fuel,6.8,27.33,60.63,3.32,Maritime Blockade Threats,2.1,33.0
+2025-06-01,New Zealand,Fuel Oil,3.9,26.23,58.45,2.96,Maritime Blockade Threats,1.7,28.0
+2025-06-01,Sri Lanka,Crude Oil,40.2,88.45,17.02,9.69,Maritime Blockade Threats,5.2,41.0
+2025-06-01,Sri Lanka,LNG,11.6,87.12,20.34,10.46,Maritime Blockade Threats,5.7,26.0
+2025-06-01,Sri Lanka,LPG,4.2,83.64,22.63,10.87,Maritime Blockade Threats,5.2,40.0
+2025-06-01,Sri Lanka,Diesel,5.6,88.24,17.48,11.45,Maritime Blockade Threats,6.2,29.0
+2025-06-01,Sri Lanka,Jet Fuel,3.6,87.79,17.93,11.06,Maritime Blockade Threats,5.8,42.0
+2025-06-01,Sri Lanka,Fuel Oil,2.0,87.76,19.41,11.15,Maritime Blockade Threats,6.0,32.0
+2025-06-01,Myanmar,Crude Oil,38.9,32.33,63.36,4.06,Maritime Blockade Threats,2.0,30.0
+2025-06-01,Myanmar,LNG,12.6,33.07,58.29,4.62,Maritime Blockade Threats,2.6,39.0
+2025-06-01,Myanmar,LPG,3.9,34.02,61.5,3.98,Maritime Blockade Threats,1.8,47.0
+2025-06-01,Myanmar,Diesel,5.1,32.39,58.43,4.36,Maritime Blockade Threats,2.5,37.0
+2025-06-01,Myanmar,Jet Fuel,3.2,32.77,61.33,4.44,Maritime Blockade Threats,1.8,37.0
+2025-06-01,Myanmar,Fuel Oil,2.0,34.27,61.3,4.15,Maritime Blockade Threats,2.6,36.0
+2025-06-01,Cambodia,Crude Oil,25.7,37.27,58.52,5.1,Maritime Blockade Threats,2.9,46.0
+2025-06-01,Cambodia,LNG,7.4,37.94,59.77,4.89,Maritime Blockade Threats,2.2,51.0
+2025-06-01,Cambodia,LPG,2.4,37.87,59.63,4.88,Maritime Blockade Threats,2.6,52.0
+2025-06-01,Cambodia,Diesel,3.3,39.67,62.33,4.86,Maritime Blockade Threats,2.2,43.0
+2025-06-01,Cambodia,Jet Fuel,2.1,39.18,58.3,5.05,Maritime Blockade Threats,2.6,38.0
+2025-06-01,Cambodia,Fuel Oil,1.2,38.49,57.96,4.89,Maritime Blockade Threats,2.5,35.0
+2025-06-01,Laos,Crude Oil,9.2,9.79,59.93,1.3,Maritime Blockade Threats,0.4,44.0
+2025-06-01,Laos,LNG,2.8,9.81,60.28,1.06,Maritime Blockade Threats,1.0,39.0
+2025-06-01,Laos,LPG,0.9,9.63,57.53,1.16,Maritime Blockade Threats,0.6,38.0
+2025-06-01,Laos,Diesel,1.2,9.91,63.49,1.13,Maritime Blockade Threats,1.0,38.0
+2025-06-01,Laos,Jet Fuel,0.8,9.49,61.99,1.16,Maritime Blockade Threats,0.9,38.0
+2025-06-01,Laos,Fuel Oil,0.4,9.5,58.91,1.28,Maritime Blockade Threats,0.5,54.0
+2025-06-01,Mongolia,Crude Oil,16.0,4.81,56.45,0.65,Maritime Blockade Threats,0.4,48.0
+2025-06-01,Mongolia,LNG,4.7,4.99,57.55,0.65,Maritime Blockade Threats,0.3,44.0
+2025-06-01,Mongolia,LPG,1.6,4.87,62.2,0.59,Maritime Blockade Threats,0.4,43.0
+2025-06-01,Mongolia,Diesel,1.9,4.64,57.83,0.67,Maritime Blockade Threats,-0.2,38.0
+2025-06-01,Mongolia,Jet Fuel,1.2,4.62,58.65,0.59,Maritime Blockade Threats,0.1,35.0
+2025-06-01,Mongolia,Fuel Oil,0.8,4.72,58.42,0.65,Maritime Blockade Threats,-0.1,29.0
+2025-07-01,China,Crude Oil,6065.1,42.33,59.46,8.41,Peak Disruption,3.7,97.0
+2025-07-01,China,LNG,1873.5,41.18,60.69,8.73,Peak Disruption,3.0,90.0
+2025-07-01,China,LPG,572.3,42.13,59.98,7.82,Peak Disruption,3.2,93.0
+2025-07-01,China,Diesel,818.4,41.1,63.31,7.09,Peak Disruption,3.2,89.0
+2025-07-01,China,Jet Fuel,538.5,41.63,58.96,7.31,Peak Disruption,3.5,85.0
+2025-07-01,China,Fuel Oil,287.5,42.37,62.76,7.02,Peak Disruption,3.8,88.0
+2025-07-01,India,Crude Oil,2313.6,58.68,48.53,12.18,Peak Disruption,5.0,68.0
+2025-07-01,India,LNG,719.8,60.6,50.63,9.98,Peak Disruption,4.5,67.0
+2025-07-01,India,LPG,236.5,56.17,52.75,12.24,Peak Disruption,4.9,72.0
+2025-07-01,India,Diesel,326.0,57.62,54.63,10.24,Peak Disruption,4.8,64.0
+2025-07-01,India,Jet Fuel,199.8,58.36,52.57,10.6,Peak Disruption,4.6,72.0
+2025-07-01,India,Fuel Oil,126.0,56.39,54.51,10.4,Peak Disruption,5.1,66.0
+2025-07-01,Japan,Crude Oil,1574.2,82.92,25.35,15.55,Peak Disruption,6.7,238.0
+2025-07-01,Japan,LNG,456.6,83.8,27.33,15.87,Peak Disruption,7.1,237.0
+2025-07-01,Japan,LPG,149.6,82.7,28.36,17.49,Peak Disruption,6.6,230.0
+2025-07-01,Japan,Diesel,191.6,82.47,26.08,16.26,Peak Disruption,7.0,225.0
+2025-07-01,Japan,Jet Fuel,116.2,79.57,28.43,16.94,Peak Disruption,7.2,231.0
+2025-07-01,Japan,Fuel Oil,74.1,83.63,26.37,17.2,Peak Disruption,7.1,231.0
+2025-07-01,South Korea,Crude Oil,1267.9,67.73,41.38,13.22,Peak Disruption,5.2,173.0
+2025-07-01,South Korea,LNG,396.0,65.51,45.28,12.66,Peak Disruption,5.4,195.0
+2025-07-01,South Korea,LPG,138.6,70.03,38.79,13.11,Peak Disruption,5.3,168.0
+2025-07-01,South Korea,Diesel,182.6,68.79,39.11,13.54,Peak Disruption,5.2,164.0
+2025-07-01,South Korea,Jet Fuel,108.0,70.01,38.65,11.47,Peak Disruption,5.2,189.0
+2025-07-01,South Korea,Fuel Oil,73.2,69.28,41.68,11.44,Peak Disruption,5.7,191.0
+2025-07-01,Australia,Crude Oil,397.9,13.57,61.41,2.8,Peak Disruption,0.9,58.0
+2025-07-01,Australia,LNG,114.7,13.85,59.16,2.55,Peak Disruption,1.0,63.0
+2025-07-01,Australia,LPG,36.3,14.32,63.43,2.94,Peak Disruption,1.5,65.0
+2025-07-01,Australia,Diesel,47.3,13.99,59.26,2.48,Peak Disruption,1.6,55.0
+2025-07-01,Australia,Jet Fuel,30.5,14.45,58.87,2.52,Peak Disruption,1.5,61.0
+2025-07-01,Australia,Fuel Oil,17.8,14.27,62.78,2.78,Peak Disruption,1.1,50.0
+2025-07-01,Indonesia,Crude Oil,481.6,16.81,62.88,2.91,Peak Disruption,1.7,43.0
+2025-07-01,Indonesia,LNG,141.9,16.43,62.85,3.56,Peak Disruption,1.7,45.0
+2025-07-01,Indonesia,LPG,52.0,16.54,60.34,3.46,Peak Disruption,0.9,26.0
+2025-07-01,Indonesia,Diesel,62.0,16.88,61.92,3.02,Peak Disruption,1.2,40.0
+2025-07-01,Indonesia,Jet Fuel,43.1,16.56,61.46,3.58,Peak Disruption,1.8,35.0
+2025-07-01,Indonesia,Fuel Oil,25.4,16.28,61.06,3.59,Peak Disruption,1.1,40.0
+2025-07-01,Thailand,Crude Oil,520.0,53.58,59.23,10.09,Peak Disruption,4.7,44.0
+2025-07-01,Thailand,LNG,154.4,53.21,55.91,10.42,Peak Disruption,3.8,41.0
+2025-07-01,Thailand,LPG,51.0,51.81,58.28,10.92,Peak Disruption,4.6,49.0
+2025-07-01,Thailand,Diesel,61.2,52.84,56.3,8.99,Peak Disruption,3.8,22.0
+2025-07-01,Thailand,Jet Fuel,37.7,50.41,58.03,9.59,Peak Disruption,3.8,29.0
+2025-07-01,Thailand,Fuel Oil,25.7,51.12,57.7,9.91,Peak Disruption,4.2,38.0
+2025-07-01,Vietnam,Crude Oil,223.9,21.49,60.35,3.94,Peak Disruption,1.3,37.0
+2025-07-01,Vietnam,LNG,69.9,21.25,62.86,4.05,Peak Disruption,1.8,41.0
+2025-07-01,Vietnam,LPG,21.6,20.95,61.59,3.67,Peak Disruption,2.0,43.0
+2025-07-01,Vietnam,Diesel,30.6,20.09,57.92,4.14,Peak Disruption,1.3,38.0
+2025-07-01,Vietnam,Jet Fuel,17.7,21.38,56.97,4.16,Peak Disruption,1.8,32.0
+2025-07-01,Vietnam,Fuel Oil,11.4,20.41,63.33,4.24,Peak Disruption,2.0,33.0
+2025-07-01,Philippines,Crude Oil,172.9,57.26,54.78,10.27,Peak Disruption,4.7,47.0
+2025-07-01,Philippines,LNG,48.4,56.34,53.15,10.91,Peak Disruption,4.9,48.0
+2025-07-01,Philippines,LPG,15.1,57.24,53.46,11.95,Peak Disruption,5.1,40.0
+2025-07-01,Philippines,Diesel,21.5,54.73,56.54,11.43,Peak Disruption,4.5,19.0
+2025-07-01,Philippines,Jet Fuel,14.4,57.77,53.16,10.12,Peak Disruption,4.5,37.0
+2025-07-01,Philippines,Fuel Oil,8.5,57.26,49.64,10.22,Peak Disruption,4.4,57.0
+2025-07-01,Malaysia,Crude Oil,247.2,11.68,56.76,1.91,Peak Disruption,0.5,43.0
+2025-07-01,Malaysia,LNG,73.7,11.34,59.32,2.02,Peak Disruption,0.9,38.0
+2025-07-01,Malaysia,LPG,25.3,11.29,62.89,2.33,Peak Disruption,0.7,43.0
+2025-07-01,Malaysia,Diesel,34.3,10.91,58.73,2.3,Peak Disruption,1.0,33.0
+2025-07-01,Malaysia,Jet Fuel,20.1,11.41,59.44,2.12,Peak Disruption,0.9,37.0
+2025-07-01,Malaysia,Fuel Oil,12.9,11.35,60.41,2.03,Peak Disruption,0.7,45.0
+2025-07-01,Pakistan,Crude Oil,241.8,68.04,40.67,12.19,Peak Disruption,5.8,33.0
+2025-07-01,Pakistan,LNG,77.2,71.37,38.51,14.74,Peak Disruption,5.4,51.0
+2025-07-01,Pakistan,LPG,23.2,71.97,37.6,14.74,Peak Disruption,6.0,25.0
+2025-07-01,Pakistan,Diesel,29.9,70.79,40.83,13.46,Peak Disruption,6.3,32.0
+2025-07-01,Pakistan,Jet Fuel,20.2,68.43,42.51,14.69,Peak Disruption,6.0,30.0
+2025-07-01,Pakistan,Fuel Oil,12.6,68.17,39.62,14.78,Peak Disruption,5.3,31.0
+2025-07-01,Bangladesh,Crude Oil,81.5,40.1,57.13,7.74,Peak Disruption,3.6,38.0
+2025-07-01,Bangladesh,LNG,22.0,40.33,61.58,7.09,Peak Disruption,3.3,42.0
+2025-07-01,Bangladesh,LPG,7.8,40.97,58.85,8.23,Peak Disruption,2.9,42.0
+2025-07-01,Bangladesh,Diesel,9.6,38.99,61.21,7.51,Peak Disruption,3.4,35.0
+2025-07-01,Bangladesh,Jet Fuel,6.4,40.38,59.9,7.94,Peak Disruption,2.9,39.0
+2025-07-01,Bangladesh,Fuel Oil,3.8,40.99,57.8,8.05,Peak Disruption,3.3,40.0
+2025-07-01,Taiwan,Crude Oil,459.5,71.69,38.57,12.7,Peak Disruption,5.6,38.0
+2025-07-01,Taiwan,LNG,124.4,70.66,39.26,13.97,Peak Disruption,6.4,40.0
+2025-07-01,Taiwan,LPG,44.9,75.43,35.12,15.0,Peak Disruption,6.3,44.0
+2025-07-01,Taiwan,Diesel,55.0,73.97,34.36,15.22,Peak Disruption,5.9,41.0
+2025-07-01,Taiwan,Jet Fuel,37.7,75.62,34.21,14.04,Peak Disruption,5.7,31.0
+2025-07-01,Taiwan,Fuel Oil,21.6,71.59,39.54,14.87,Peak Disruption,6.4,29.0
+2025-07-01,Singapore,Crude Oil,663.0,77.14,32.44,13.11,Peak Disruption,6.0,40.0
+2025-07-01,Singapore,LNG,192.0,73.88,33.77,15.15,Peak Disruption,6.1,41.0
+2025-07-01,Singapore,LPG,67.6,73.6,36.78,13.64,Peak Disruption,6.2,28.0
+2025-07-01,Singapore,Diesel,85.9,74.6,32.94,14.6,Peak Disruption,5.8,39.0
+2025-07-01,Singapore,Jet Fuel,51.3,75.73,35.22,14.25,Peak Disruption,6.1,43.0
+2025-07-01,Singapore,Fuel Oil,30.1,75.43,33.84,12.92,Peak Disruption,6.2,26.0
+2025-07-01,New Zealand,Crude Oil,75.0,26.22,58.6,5.46,Peak Disruption,1.8,42.0
+2025-07-01,New Zealand,LNG,22.5,26.03,61.71,5.61,Peak Disruption,2.6,38.0
+2025-07-01,New Zealand,LPG,8.0,26.99,57.47,5.27,Peak Disruption,2.6,41.0
+2025-07-01,New Zealand,Diesel,10.7,25.62,57.82,4.8,Peak Disruption,1.8,30.0
+2025-07-01,New Zealand,Jet Fuel,6.3,26.48,59.97,4.92,Peak Disruption,2.2,33.0
+2025-07-01,New Zealand,Fuel Oil,3.8,26.48,61.48,5.41,Peak Disruption,1.9,50.0
+2025-07-01,Sri Lanka,Crude Oil,39.3,85.46,23.76,15.17,Peak Disruption,7.1,48.0
+2025-07-01,Sri Lanka,LNG,10.8,87.07,22.45,15.57,Peak Disruption,6.6,32.0
+2025-07-01,Sri Lanka,LPG,3.6,86.02,24.94,17.78,Peak Disruption,6.8,33.0
+2025-07-01,Sri Lanka,Diesel,4.9,87.49,23.33,17.54,Peak Disruption,7.4,30.0
+2025-07-01,Sri Lanka,Jet Fuel,3.4,87.63,21.53,16.37,Peak Disruption,6.5,32.0
+2025-07-01,Sri Lanka,Fuel Oil,1.8,82.0,26.37,14.32,Peak Disruption,7.3,39.0
+2025-07-01,Myanmar,Crude Oil,35.8,33.91,61.23,6.91,Peak Disruption,2.9,39.0
+2025-07-01,Myanmar,LNG,10.9,33.57,57.49,6.32,Peak Disruption,2.6,36.0
+2025-07-01,Myanmar,LPG,3.7,33.01,61.04,6.02,Peak Disruption,2.5,44.0
+2025-07-01,Myanmar,Diesel,5.3,33.65,58.43,6.52,Peak Disruption,2.5,30.0
+2025-07-01,Myanmar,Jet Fuel,3.1,33.22,62.65,5.75,Peak Disruption,2.5,22.0
+2025-07-01,Myanmar,Fuel Oil,2.0,32.5,59.8,5.85,Peak Disruption,2.8,43.0
+2025-07-01,Cambodia,Crude Oil,23.2,38.95,59.1,7.61,Peak Disruption,3.5,48.0
+2025-07-01,Cambodia,LNG,7.0,37.74,56.61,7.1,Peak Disruption,3.2,44.0
+2025-07-01,Cambodia,LPG,2.4,37.43,57.76,7.4,Peak Disruption,3.5,26.0
+2025-07-01,Cambodia,Diesel,3.0,36.98,58.34,7.16,Peak Disruption,2.9,35.0
+2025-07-01,Cambodia,Jet Fuel,2.1,37.98,62.93,6.69,Peak Disruption,3.0,40.0
+2025-07-01,Cambodia,Fuel Oil,1.2,38.35,57.83,6.69,Peak Disruption,2.6,43.0
+2025-07-01,Laos,Crude Oil,9.0,9.14,57.37,1.71,Peak Disruption,0.9,41.0
+2025-07-01,Laos,LNG,2.6,9.61,62.32,1.8,Peak Disruption,0.3,37.0
+2025-07-01,Laos,LPG,0.9,9.56,61.52,1.6,Peak Disruption,0.9,32.0
+2025-07-01,Laos,Diesel,1.1,9.07,59.72,1.88,Peak Disruption,0.6,63.0
+2025-07-01,Laos,Jet Fuel,0.8,9.55,62.48,1.61,Peak Disruption,1.2,41.0
+2025-07-01,Laos,Fuel Oil,0.4,9.75,59.96,1.82,Peak Disruption,0.8,34.0
+2025-07-01,Mongolia,Crude Oil,15.1,4.77,63.01,0.94,Peak Disruption,0.3,40.0
+2025-07-01,Mongolia,LNG,4.4,4.72,62.26,0.93,Peak Disruption,0.5,35.0
+2025-07-01,Mongolia,LPG,1.4,4.85,62.19,0.8,Peak Disruption,0.2,36.0
+2025-07-01,Mongolia,Diesel,1.9,4.58,60.27,0.99,Peak Disruption,0.2,30.0
+2025-07-01,Mongolia,Jet Fuel,1.3,4.58,62.65,1.01,Peak Disruption,0.4,38.0
+2025-07-01,Mongolia,Fuel Oil,0.7,4.64,60.37,0.79,Peak Disruption,0.0,27.0
+2025-08-01,China,Crude Oil,6524.5,41.57,62.08,8.78,Peak Disruption,3.0,73.0
+2025-08-01,China,LNG,1938.7,40.62,61.67,8.78,Peak Disruption,3.0,99.0
+2025-08-01,China,LPG,602.4,42.92,61.54,8.8,Peak Disruption,3.0,100.0
+2025-08-01,China,Diesel,869.9,42.86,61.1,7.1,Peak Disruption,3.7,83.0
+2025-08-01,China,Jet Fuel,473.3,40.52,59.46,8.06,Peak Disruption,3.6,89.0
+2025-08-01,China,Fuel Oil,325.8,41.07,57.13,8.31,Peak Disruption,3.4,78.0
+2025-08-01,India,Crude Oil,2424.9,57.22,52.8,11.29,Peak Disruption,5.1,65.0
+2025-08-01,India,LNG,726.0,56.53,55.58,10.67,Peak Disruption,4.4,63.0
+2025-08-01,India,LPG,257.1,58.05,48.6,10.64,Peak Disruption,4.9,59.0
+2025-08-01,India,Diesel,318.9,59.75,51.0,10.68,Peak Disruption,5.0,70.0
+2025-08-01,India,Jet Fuel,213.2,56.57,55.03,10.5,Peak Disruption,5.3,57.0
+2025-08-01,India,Fuel Oil,115.5,56.24,52.56,12.28,Peak Disruption,4.9,67.0
+2025-08-01,Japan,Crude Oil,1456.2,84.0,25.16,14.71,Peak Disruption,7.1,225.0
+2025-08-01,Japan,LNG,426.5,79.57,31.52,15.51,Peak Disruption,7.1,239.0
+2025-08-01,Japan,LPG,141.1,82.85,25.67,14.33,Peak Disruption,6.4,234.0
+2025-08-01,Japan,Diesel,189.1,84.17,24.87,16.17,Peak Disruption,6.8,231.0
+2025-08-01,Japan,Jet Fuel,123.0,79.71,31.47,15.3,Peak Disruption,6.6,214.0
+2025-08-01,Japan,Fuel Oil,72.6,84.36,26.14,16.8,Peak Disruption,7.1,228.0
+2025-08-01,South Korea,Crude Oil,1258.9,70.02,40.1,12.94,Peak Disruption,5.1,176.0
+2025-08-01,South Korea,LNG,414.2,69.93,37.56,13.71,Peak Disruption,5.7,180.0
+2025-08-01,South Korea,LPG,142.1,68.45,43.03,13.34,Peak Disruption,5.4,175.0
+2025-08-01,South Korea,Diesel,188.7,65.14,47.06,14.48,Peak Disruption,5.7,178.0
+2025-08-01,South Korea,Jet Fuel,123.0,67.65,43.91,14.26,Peak Disruption,5.4,192.0
+2025-08-01,South Korea,Fuel Oil,67.2,67.21,40.77,13.63,Peak Disruption,5.5,187.0
+2025-08-01,Australia,Crude Oil,352.1,13.73,60.85,2.47,Peak Disruption,1.5,44.0
+2025-08-01,Australia,LNG,112.1,13.63,63.03,2.96,Peak Disruption,1.0,53.0
+2025-08-01,Australia,LPG,39.7,14.4,62.95,2.74,Peak Disruption,1.1,81.0
+2025-08-01,Australia,Diesel,49.2,13.66,60.46,2.7,Peak Disruption,1.1,42.0
+2025-08-01,Australia,Jet Fuel,29.1,14.6,62.81,2.91,Peak Disruption,1.0,65.0
+2025-08-01,Australia,Fuel Oil,18.8,13.73,61.25,2.66,Peak Disruption,0.8,50.0
+2025-08-01,Indonesia,Crude Oil,455.0,17.22,58.97,3.38,Peak Disruption,1.4,46.0
+2025-08-01,Indonesia,LNG,151.8,16.65,61.5,3.46,Peak Disruption,1.2,40.0
+2025-08-01,Indonesia,LPG,50.0,16.68,59.28,2.86,Peak Disruption,1.5,30.0
+2025-08-01,Indonesia,Diesel,65.8,17.26,60.26,3.29,Peak Disruption,1.1,38.0
+2025-08-01,Indonesia,Jet Fuel,39.4,17.46,57.56,2.97,Peak Disruption,1.8,38.0
+2025-08-01,Indonesia,Fuel Oil,22.9,16.83,59.3,3.44,Peak Disruption,1.2,39.0
+2025-08-01,Thailand,Crude Oil,504.5,52.39,55.19,9.84,Peak Disruption,4.5,32.0
+2025-08-01,Thailand,LNG,143.5,49.68,60.18,10.41,Peak Disruption,4.0,18.0
+2025-08-01,Thailand,LPG,48.3,52.86,57.52,9.42,Peak Disruption,4.6,33.0
+2025-08-01,Thailand,Diesel,63.4,52.96,53.95,9.65,Peak Disruption,3.8,48.0
+2025-08-01,Thailand,Jet Fuel,40.9,51.57,58.02,9.73,Peak Disruption,3.9,31.0
+2025-08-01,Thailand,Fuel Oil,22.9,53.65,54.63,10.68,Peak Disruption,4.3,42.0
+2025-08-01,Vietnam,Crude Oil,214.8,21.26,59.18,3.53,Peak Disruption,2.1,49.0
+2025-08-01,Vietnam,LNG,65.8,20.65,60.31,3.74,Peak Disruption,1.8,55.0
+2025-08-01,Vietnam,LPG,21.9,20.96,56.9,3.63,Peak Disruption,2.2,44.0
+2025-08-01,Vietnam,Diesel,29.4,20.16,60.59,3.73,Peak Disruption,1.8,30.0
+2025-08-01,Vietnam,Jet Fuel,18.1,20.46,62.17,3.61,Peak Disruption,1.7,31.0
+2025-08-01,Vietnam,Fuel Oil,11.8,20.02,62.77,4.14,Peak Disruption,1.2,45.0
+2025-08-01,Philippines,Crude Oil,157.9,55.46,53.84,10.42,Peak Disruption,4.6,29.0
+2025-08-01,Philippines,LNG,48.0,57.05,54.38,11.22,Peak Disruption,4.5,29.0
+2025-08-01,Philippines,LPG,16.5,55.4,55.78,11.54,Peak Disruption,4.4,49.0
+2025-08-01,Philippines,Diesel,21.1,56.02,52.68,9.57,Peak Disruption,5.1,39.0
+2025-08-01,Philippines,Jet Fuel,13.3,54.54,58.27,11.35,Peak Disruption,4.5,33.0
+2025-08-01,Philippines,Fuel Oil,8.3,55.33,54.98,12.05,Peak Disruption,5.1,41.0
+2025-08-01,Malaysia,Crude Oil,251.1,11.04,57.69,2.31,Peak Disruption,0.8,49.0
+2025-08-01,Malaysia,LNG,74.2,11.49,59.95,2.07,Peak Disruption,0.5,30.0
+2025-08-01,Malaysia,LPG,24.7,11.68,57.07,2.11,Peak Disruption,0.9,59.0
+2025-08-01,Malaysia,Diesel,33.4,11.33,59.77,2.33,Peak Disruption,0.7,51.0
+2025-08-01,Malaysia,Jet Fuel,20.7,11.17,58.94,2.32,Peak Disruption,1.0,51.0
+2025-08-01,Malaysia,Fuel Oil,12.9,11.12,62.25,2.06,Peak Disruption,0.4,31.0
+2025-08-01,Pakistan,Crude Oil,241.5,71.51,40.23,13.83,Peak Disruption,5.5,33.0
+2025-08-01,Pakistan,LNG,77.8,70.72,40.08,13.99,Peak Disruption,6.0,39.0
+2025-08-01,Pakistan,LPG,22.9,71.95,38.56,14.45,Peak Disruption,5.8,40.0
+2025-08-01,Pakistan,Diesel,34.7,69.4,39.85,13.2,Peak Disruption,6.1,47.0
+2025-08-01,Pakistan,Jet Fuel,21.6,72.02,36.0,12.67,Peak Disruption,5.4,36.0
+2025-08-01,Pakistan,Fuel Oil,11.8,72.26,38.73,14.4,Peak Disruption,5.3,44.0
+2025-08-01,Bangladesh,Crude Oil,74.3,37.98,58.92,7.91,Peak Disruption,2.8,48.0
+2025-08-01,Bangladesh,LNG,24.7,38.11,60.27,7.72,Peak Disruption,3.4,34.0
+2025-08-01,Bangladesh,LPG,7.3,39.45,60.01,7.29,Peak Disruption,3.7,37.0
+2025-08-01,Bangladesh,Diesel,9.8,41.03,59.94,7.12,Peak Disruption,2.9,52.0
+2025-08-01,Bangladesh,Jet Fuel,6.3,40.62,63.56,8.41,Peak Disruption,3.5,49.0
+2025-08-01,Bangladesh,Fuel Oil,4.0,39.57,56.94,8.28,Peak Disruption,3.7,47.0
+2025-08-01,Taiwan,Crude Oil,421.1,71.12,40.58,13.7,Peak Disruption,6.3,56.0
+2025-08-01,Taiwan,LNG,124.7,70.85,40.3,13.42,Peak Disruption,5.9,40.0
+2025-08-01,Taiwan,LPG,41.8,73.43,35.58,13.97,Peak Disruption,6.3,38.0
+2025-08-01,Taiwan,Diesel,60.6,71.48,39.92,15.63,Peak Disruption,6.2,36.0
+2025-08-01,Taiwan,Jet Fuel,37.4,71.98,35.9,15.53,Peak Disruption,5.5,44.0
+2025-08-01,Taiwan,Fuel Oil,20.4,70.5,37.74,12.95,Peak Disruption,6.4,38.0
+2025-08-01,Singapore,Crude Oil,657.1,77.45,33.94,13.26,Peak Disruption,6.4,36.0
+2025-08-01,Singapore,LNG,186.7,73.04,35.27,15.8,Peak Disruption,6.0,40.0
+2025-08-01,Singapore,LPG,65.9,72.37,38.83,14.08,Peak Disruption,6.0,46.0
+2025-08-01,Singapore,Diesel,81.1,77.05,32.81,15.51,Peak Disruption,6.6,43.0
+2025-08-01,Singapore,Jet Fuel,51.2,77.65,30.4,15.42,Peak Disruption,6.4,33.0
+2025-08-01,Singapore,Fuel Oil,32.0,78.12,29.72,13.99,Peak Disruption,6.2,28.0
+2025-08-01,New Zealand,Crude Oil,80.5,27.24,57.23,4.66,Peak Disruption,2.2,30.0
+2025-08-01,New Zealand,LNG,22.8,26.94,61.4,5.11,Peak Disruption,1.7,27.0
+2025-08-01,New Zealand,LPG,7.5,26.0,63.1,4.73,Peak Disruption,2.5,49.0
+2025-08-01,New Zealand,Diesel,9.9,27.29,62.57,4.98,Peak Disruption,2.0,35.0
+2025-08-01,New Zealand,Jet Fuel,6.4,27.36,58.98,4.76,Peak Disruption,2.4,35.0
+2025-08-01,New Zealand,Fuel Oil,4.0,25.94,56.52,4.7,Peak Disruption,2.4,23.0
+2025-08-01,Sri Lanka,Crude Oil,39.5,87.43,22.11,15.93,Peak Disruption,7.4,33.0
+2025-08-01,Sri Lanka,LNG,11.4,86.91,22.1,16.49,Peak Disruption,7.3,29.0
+2025-08-01,Sri Lanka,LPG,3.7,84.83,25.92,16.07,Peak Disruption,7.1,43.0
+2025-08-01,Sri Lanka,Diesel,5.1,81.86,26.44,16.97,Peak Disruption,7.2,47.0
+2025-08-01,Sri Lanka,Jet Fuel,3.2,83.61,24.79,17.66,Peak Disruption,6.7,45.0
+2025-08-01,Sri Lanka,Fuel Oil,2.0,85.58,22.98,16.24,Peak Disruption,7.2,41.0
+2025-08-01,Myanmar,Crude Oil,38.6,33.76,59.77,7.04,Peak Disruption,2.3,53.0
+2025-08-01,Myanmar,LNG,11.0,32.58,61.21,5.71,Peak Disruption,2.6,34.0
+2025-08-01,Myanmar,LPG,3.9,32.43,58.8,5.74,Peak Disruption,2.3,27.0
+2025-08-01,Myanmar,Diesel,5.5,32.38,58.01,7.05,Peak Disruption,2.5,61.0
+2025-08-01,Myanmar,Jet Fuel,3.1,32.45,58.59,6.99,Peak Disruption,2.5,37.0
+2025-08-01,Myanmar,Fuel Oil,1.9,33.27,58.63,6.11,Peak Disruption,2.8,38.0
+2025-08-01,Cambodia,Crude Oil,24.9,38.8,62.55,8.02,Peak Disruption,3.2,37.0
+2025-08-01,Cambodia,LNG,7.3,36.71,57.05,7.61,Peak Disruption,3.2,29.0
+2025-08-01,Cambodia,LPG,2.5,36.49,59.14,6.39,Peak Disruption,3.3,52.0
+2025-08-01,Cambodia,Diesel,3.4,38.57,62.67,7.11,Peak Disruption,3.6,39.0
+2025-08-01,Cambodia,Jet Fuel,2.0,39.06,61.24,6.93,Peak Disruption,2.8,38.0
+2025-08-01,Cambodia,Fuel Oil,1.3,37.13,58.97,6.87,Peak Disruption,3.0,44.0
+2025-08-01,Laos,Crude Oil,8.5,9.24,59.27,1.93,Peak Disruption,0.5,33.0
+2025-08-01,Laos,LNG,2.6,9.44,57.74,1.84,Peak Disruption,0.8,36.0
+2025-08-01,Laos,LPG,0.8,9.67,59.77,1.8,Peak Disruption,0.5,49.0
+2025-08-01,Laos,Diesel,1.2,9.17,60.99,1.67,Peak Disruption,0.3,47.0
+2025-08-01,Laos,Jet Fuel,0.7,9.06,61.64,1.95,Peak Disruption,0.4,47.0
+2025-08-01,Laos,Fuel Oil,0.4,9.33,61.0,1.84,Peak Disruption,0.3,45.0
+2025-08-01,Mongolia,Crude Oil,14.8,4.88,57.77,0.83,Peak Disruption,-0.0,30.0
+2025-08-01,Mongolia,LNG,4.2,4.88,57.79,0.8,Peak Disruption,0.5,31.0
+2025-08-01,Mongolia,LPG,1.6,4.64,57.65,0.94,Peak Disruption,0.6,46.0
+2025-08-01,Mongolia,Diesel,1.9,4.7,63.35,0.97,Peak Disruption,0.5,51.0
+2025-08-01,Mongolia,Jet Fuel,1.2,4.71,62.28,0.95,Peak Disruption,0.2,36.0
+2025-08-01,Mongolia,Fuel Oil,0.7,4.73,62.37,0.94,Peak Disruption,0.9,34.0
+2025-09-01,China,Crude Oil,5625.3,40.9,61.59,8.03,Peak Disruption,3.5,81.0
+2025-09-01,China,LNG,1960.6,40.25,63.47,7.75,Peak Disruption,3.4,84.0
+2025-09-01,China,LPG,588.9,42.71,59.24,7.71,Peak Disruption,3.6,82.0
+2025-09-01,China,Diesel,808.7,42.87,58.88,8.03,Peak Disruption,3.5,84.0
+2025-09-01,China,Jet Fuel,498.2,40.25,57.58,7.63,Peak Disruption,3.0,84.0
+2025-09-01,China,Fuel Oil,311.6,40.69,58.36,8.6,Peak Disruption,3.6,100.0
+2025-09-01,India,Crude Oil,2649.8,58.1,49.94,12.05,Peak Disruption,4.8,75.0
+2025-09-01,India,LNG,697.3,58.09,48.91,11.05,Peak Disruption,4.6,69.0
+2025-09-01,India,LPG,242.3,58.97,52.87,11.67,Peak Disruption,5.1,61.0
+2025-09-01,India,Diesel,342.1,57.95,49.53,11.32,Peak Disruption,5.1,69.0
+2025-09-01,India,Jet Fuel,214.3,58.22,48.41,11.16,Peak Disruption,4.5,85.0
+2025-09-01,India,Fuel Oil,115.2,58.89,49.4,10.81,Peak Disruption,4.5,73.0
+2025-09-01,Japan,Crude Oil,1476.7,80.39,30.19,15.11,Peak Disruption,6.9,224.0
+2025-09-01,Japan,LNG,423.1,85.89,24.77,17.17,Peak Disruption,6.9,232.0
+2025-09-01,Japan,LPG,141.2,82.5,28.73,15.9,Peak Disruption,6.5,227.0
+2025-09-01,Japan,Diesel,215.5,79.45,28.9,16.48,Peak Disruption,6.5,233.0
+2025-09-01,Japan,Jet Fuel,117.8,80.2,31.05,16.96,Peak Disruption,6.3,246.0
+2025-09-01,Japan,Fuel Oil,77.1,82.3,26.53,16.33,Peak Disruption,7.0,228.0
+2025-09-01,South Korea,Crude Oil,1477.3,67.9,40.32,11.92,Peak Disruption,5.5,175.0
+2025-09-01,South Korea,LNG,414.9,69.45,41.53,13.96,Peak Disruption,5.6,179.0
+2025-09-01,South Korea,LPG,147.6,66.61,43.69,13.71,Peak Disruption,5.3,172.0
+2025-09-01,South Korea,Diesel,172.8,65.11,42.75,12.15,Peak Disruption,5.5,192.0
+2025-09-01,South Korea,Jet Fuel,119.4,66.97,40.43,12.49,Peak Disruption,5.6,182.0
+2025-09-01,South Korea,Fuel Oil,65.9,67.94,40.65,11.61,Peak Disruption,6.0,179.0
+2025-09-01,Australia,Crude Oil,384.8,13.63,62.42,2.48,Peak Disruption,1.1,61.0
+2025-09-01,Australia,LNG,120.1,14.36,61.85,2.47,Peak Disruption,0.9,60.0
+2025-09-01,Australia,LPG,34.8,13.94,60.36,2.97,Peak Disruption,1.3,55.0
+2025-09-01,Australia,Diesel,51.5,14.4,62.27,2.67,Peak Disruption,0.9,59.0
+2025-09-01,Australia,Jet Fuel,29.8,14.28,61.63,2.5,Peak Disruption,1.4,43.0
+2025-09-01,Australia,Fuel Oil,17.8,14.66,61.32,2.99,Peak Disruption,0.7,53.0
+2025-09-01,Indonesia,Crude Oil,460.9,16.49,62.23,3.21,Peak Disruption,1.5,33.0
+2025-09-01,Indonesia,LNG,145.8,16.58,60.71,3.02,Peak Disruption,1.6,37.0
+2025-09-01,Indonesia,LPG,51.7,17.22,56.9,3.15,Peak Disruption,1.4,46.0
+2025-09-01,Indonesia,Diesel,61.0,16.49,56.96,2.99,Peak Disruption,1.5,26.0
+2025-09-01,Indonesia,Jet Fuel,38.5,17.5,59.55,3.29,Peak Disruption,1.1,38.0
+2025-09-01,Indonesia,Fuel Oil,23.4,17.47,62.37,3.0,Peak Disruption,1.5,33.0
+2025-09-01,Thailand,Crude Oil,517.0,51.73,56.28,10.93,Peak Disruption,4.0,33.0
+2025-09-01,Thailand,LNG,143.0,50.5,61.85,9.8,Peak Disruption,4.3,39.0
+2025-09-01,Thailand,LPG,45.6,52.87,59.96,10.68,Peak Disruption,4.5,37.0
+2025-09-01,Thailand,Diesel,69.7,52.8,59.17,10.65,Peak Disruption,4.4,41.0
+2025-09-01,Thailand,Jet Fuel,37.7,49.75,61.97,10.82,Peak Disruption,4.2,43.0
+2025-09-01,Thailand,Fuel Oil,23.3,52.33,54.13,10.87,Peak Disruption,4.7,22.0
+2025-09-01,Vietnam,Crude Oil,209.9,20.69,58.78,3.67,Peak Disruption,1.9,43.0
+2025-09-01,Vietnam,LNG,69.1,21.12,59.7,3.92,Peak Disruption,1.6,38.0
+2025-09-01,Vietnam,LPG,23.8,19.97,60.62,4.17,Peak Disruption,1.5,49.0
+2025-09-01,Vietnam,Diesel,28.4,20.1,61.37,3.92,Peak Disruption,1.5,39.0
+2025-09-01,Vietnam,Jet Fuel,19.4,20.24,59.36,3.57,Peak Disruption,2.0,44.0
+2025-09-01,Vietnam,Fuel Oil,11.2,20.71,56.66,3.79,Peak Disruption,1.3,34.0
+2025-09-01,Philippines,Crude Oil,171.0,56.93,49.99,12.07,Peak Disruption,5.1,38.0
+2025-09-01,Philippines,LNG,51.6,55.28,55.4,10.17,Peak Disruption,4.9,42.0
+2025-09-01,Philippines,LPG,17.4,54.49,56.16,11.68,Peak Disruption,4.8,56.0
+2025-09-01,Philippines,Diesel,22.2,56.68,52.12,11.37,Peak Disruption,4.1,42.0
+2025-09-01,Philippines,Jet Fuel,12.5,58.54,52.25,11.68,Peak Disruption,4.3,22.0
+2025-09-01,Philippines,Fuel Oil,7.7,58.33,50.99,11.7,Peak Disruption,4.8,45.0
+2025-09-01,Malaysia,Crude Oil,256.1,11.36,60.56,2.11,Peak Disruption,0.6,33.0
+2025-09-01,Malaysia,LNG,78.4,11.32,58.99,2.1,Peak Disruption,1.0,39.0
+2025-09-01,Malaysia,LPG,22.8,11.6,58.03,2.22,Peak Disruption,1.2,43.0
+2025-09-01,Malaysia,Diesel,31.2,11.7,63.31,2.24,Peak Disruption,1.0,36.0
+2025-09-01,Malaysia,Jet Fuel,20.6,11.07,58.14,1.98,Peak Disruption,0.6,56.0
+2025-09-01,Malaysia,Fuel Oil,11.5,11.02,57.14,2.14,Peak Disruption,0.6,50.0
+2025-09-01,Pakistan,Crude Oil,233.2,70.89,37.96,14.14,Peak Disruption,5.5,47.0
+2025-09-01,Pakistan,LNG,72.4,69.99,37.34,14.34,Peak Disruption,5.6,41.0
+2025-09-01,Pakistan,LPG,23.3,70.8,38.39,12.15,Peak Disruption,5.6,39.0
+2025-09-01,Pakistan,Diesel,31.9,70.34,38.66,14.97,Peak Disruption,6.0,61.0
+2025-09-01,Pakistan,Jet Fuel,18.9,73.1,38.18,12.44,Peak Disruption,6.0,27.0
+2025-09-01,Pakistan,Fuel Oil,11.4,73.08,37.63,13.65,Peak Disruption,5.6,32.0
+2025-09-01,Bangladesh,Crude Oil,76.8,40.61,62.8,6.8,Peak Disruption,3.2,39.0
+2025-09-01,Bangladesh,LNG,22.3,40.04,57.92,7.94,Peak Disruption,3.2,41.0
+2025-09-01,Bangladesh,LPG,7.9,39.69,62.45,8.13,Peak Disruption,3.4,43.0
+2025-09-01,Bangladesh,Diesel,9.6,40.49,57.35,6.82,Peak Disruption,3.3,50.0
+2025-09-01,Bangladesh,Jet Fuel,6.6,40.54,58.69,8.33,Peak Disruption,3.3,35.0
+2025-09-01,Bangladesh,Fuel Oil,3.8,39.21,61.95,8.39,Peak Disruption,2.8,43.0
+2025-09-01,Taiwan,Crude Oil,428.8,75.85,35.55,12.5,Peak Disruption,6.4,41.0
+2025-09-01,Taiwan,LNG,134.5,75.6,33.6,12.51,Peak Disruption,5.7,45.0
+2025-09-01,Taiwan,LPG,41.6,75.1,34.78,12.46,Peak Disruption,5.9,37.0
+2025-09-01,Taiwan,Diesel,59.3,72.13,37.08,13.57,Peak Disruption,6.2,40.0
+2025-09-01,Taiwan,Jet Fuel,38.4,71.13,39.35,15.3,Peak Disruption,5.8,41.0
+2025-09-01,Taiwan,Fuel Oil,23.2,74.67,35.38,12.98,Peak Disruption,5.8,52.0
+2025-09-01,Singapore,Crude Oil,639.9,78.18,32.6,13.19,Peak Disruption,6.2,51.0
+2025-09-01,Singapore,LNG,180.1,75.46,34.98,15.82,Peak Disruption,6.3,36.0
+2025-09-01,Singapore,LPG,62.6,73.14,38.4,15.53,Peak Disruption,6.5,33.0
+2025-09-01,Singapore,Diesel,83.0,74.22,36.61,14.27,Peak Disruption,5.8,37.0
+2025-09-01,Singapore,Jet Fuel,56.6,73.65,36.73,14.7,Peak Disruption,6.2,26.0
+2025-09-01,Singapore,Fuel Oil,30.2,77.77,30.34,13.85,Peak Disruption,6.6,47.0
+2025-09-01,New Zealand,Crude Oil,84.4,25.77,62.31,5.49,Peak Disruption,2.2,43.0
+2025-09-01,New Zealand,LNG,25.0,25.66,56.49,4.52,Peak Disruption,1.9,31.0
+2025-09-01,New Zealand,LPG,8.3,26.21,59.7,4.58,Peak Disruption,2.6,40.0
+2025-09-01,New Zealand,Diesel,11.0,26.57,59.02,4.52,Peak Disruption,1.8,33.0
+2025-09-01,New Zealand,Jet Fuel,6.4,25.64,57.97,5.22,Peak Disruption,2.2,40.0
+2025-09-01,New Zealand,Fuel Oil,3.9,25.67,58.04,4.6,Peak Disruption,2.2,29.0
+2025-09-01,Sri Lanka,Crude Oil,39.2,82.4,28.11,17.77,Peak Disruption,7.3,30.0
+2025-09-01,Sri Lanka,LNG,11.4,83.18,25.01,14.96,Peak Disruption,7.1,42.0
+2025-09-01,Sri Lanka,LPG,4.0,85.32,23.33,17.46,Peak Disruption,6.7,42.0
+2025-09-01,Sri Lanka,Diesel,4.8,84.32,23.8,14.92,Peak Disruption,6.5,45.0
+2025-09-01,Sri Lanka,Jet Fuel,3.2,84.48,24.05,15.78,Peak Disruption,7.4,38.0
+2025-09-01,Sri Lanka,Fuel Oil,1.9,85.05,25.12,17.86,Peak Disruption,6.9,30.0
+2025-09-01,Myanmar,Crude Oil,38.1,31.86,60.11,6.5,Peak Disruption,2.4,51.0
+2025-09-01,Myanmar,LNG,11.7,34.21,60.42,6.31,Peak Disruption,2.2,42.0
+2025-09-01,Myanmar,LPG,3.6,32.35,61.06,6.27,Peak Disruption,3.0,37.0
+2025-09-01,Myanmar,Diesel,5.2,33.55,58.71,5.94,Peak Disruption,2.6,43.0
+2025-09-01,Myanmar,Jet Fuel,3.2,33.36,57.83,5.73,Peak Disruption,2.8,45.0
+2025-09-01,Myanmar,Fuel Oil,1.9,32.33,62.23,5.76,Peak Disruption,3.2,35.0
+2025-09-01,Cambodia,Crude Oil,22.8,38.55,58.67,6.83,Peak Disruption,2.6,43.0
+2025-09-01,Cambodia,LNG,7.1,37.07,57.49,7.41,Peak Disruption,2.9,40.0
+2025-09-01,Cambodia,LPG,2.3,38.21,61.93,7.7,Peak Disruption,3.5,44.0
+2025-09-01,Cambodia,Diesel,3.4,37.49,58.61,6.58,Peak Disruption,3.5,28.0
+2025-09-01,Cambodia,Jet Fuel,2.1,38.33,60.0,7.01,Peak Disruption,2.7,51.0
+2025-09-01,Cambodia,Fuel Oil,1.2,37.05,61.28,7.15,Peak Disruption,2.9,43.0
+2025-09-01,Laos,Crude Oil,8.2,9.61,57.98,1.93,Peak Disruption,1.0,39.0
+2025-09-01,Laos,LNG,2.7,9.54,61.66,1.63,Peak Disruption,0.9,55.0
+2025-09-01,Laos,LPG,0.9,9.56,60.88,1.65,Peak Disruption,0.6,47.0
+2025-09-01,Laos,Diesel,1.2,9.6,63.54,1.98,Peak Disruption,0.8,29.0
+2025-09-01,Laos,Jet Fuel,0.8,9.38,62.17,1.6,Peak Disruption,1.1,39.0
+2025-09-01,Laos,Fuel Oil,0.5,9.31,63.2,1.86,Peak Disruption,0.4,47.0
+2025-09-01,Mongolia,Crude Oil,14.5,4.55,63.11,0.84,Peak Disruption,0.8,35.0
+2025-09-01,Mongolia,LNG,4.3,4.67,60.76,0.85,Peak Disruption,0.6,36.0
+2025-09-01,Mongolia,LPG,1.5,4.63,60.43,0.89,Peak Disruption,0.2,25.0
+2025-09-01,Mongolia,Diesel,1.9,4.6,62.98,0.97,Peak Disruption,0.4,37.0
+2025-09-01,Mongolia,Jet Fuel,1.3,4.76,59.7,0.99,Peak Disruption,0.7,40.0
+2025-09-01,Mongolia,Fuel Oil,0.7,4.74,56.48,0.87,Peak Disruption,0.0,30.0
+2025-10-01,China,Crude Oil,6440.8,42.22,59.45,4.41,Fragile Stabilisation,2.1,92.0
+2025-10-01,China,LNG,1839.2,43.06,60.08,3.96,Fragile Stabilisation,2.0,80.0
+2025-10-01,China,LPG,643.9,41.74,62.61,4.17,Fragile Stabilisation,2.2,75.0
+2025-10-01,China,Diesel,857.4,42.39,58.85,3.83,Fragile Stabilisation,2.8,90.0
+2025-10-01,China,Jet Fuel,510.4,42.65,56.88,3.68,Fragile Stabilisation,2.8,81.0
+2025-10-01,China,Fuel Oil,326.2,41.25,60.97,3.98,Fragile Stabilisation,2.5,98.0
+2025-10-01,India,Crude Oil,2673.9,58.55,48.03,4.93,Fragile Stabilisation,3.1,76.0
+2025-10-01,India,LNG,824.2,61.87,42.44,6.07,Fragile Stabilisation,3.6,76.0
+2025-10-01,India,LPG,277.6,59.71,46.07,5.27,Fragile Stabilisation,3.6,57.0
+2025-10-01,India,Diesel,369.4,60.15,44.67,5.6,Fragile Stabilisation,3.8,70.0
+2025-10-01,India,Jet Fuel,231.7,58.91,45.77,5.75,Fragile Stabilisation,3.9,63.0
+2025-10-01,India,Fuel Oil,138.2,61.49,44.57,5.92,Fragile Stabilisation,3.7,61.0
+2025-10-01,Japan,Crude Oil,1795.5,86.63,17.9,7.21,Fragile Stabilisation,5.4,226.0
+2025-10-01,Japan,LNG,476.5,85.13,19.57,7.0,Fragile Stabilisation,5.3,223.0
+2025-10-01,Japan,LPG,157.2,83.57,21.15,8.38,Fragile Stabilisation,4.9,234.0
+2025-10-01,Japan,Diesel,213.4,82.69,22.7,7.43,Fragile Stabilisation,5.1,239.0
+2025-10-01,Japan,Jet Fuel,142.8,84.2,21.66,7.09,Fragile Stabilisation,4.7,217.0
+2025-10-01,Japan,Fuel Oil,88.9,88.48,16.18,7.32,Fragile Stabilisation,4.9,221.0
+2025-10-01,South Korea,Crude Oil,1475.4,70.43,34.35,7.04,Fragile Stabilisation,3.6,179.0
+2025-10-01,South Korea,LNG,447.1,70.24,35.48,6.85,Fragile Stabilisation,3.9,180.0
+2025-10-01,South Korea,LPG,145.6,69.24,35.19,6.76,Fragile Stabilisation,4.3,187.0
+2025-10-01,South Korea,Diesel,214.6,70.54,32.37,6.49,Fragile Stabilisation,3.6,176.0
+2025-10-01,South Korea,Jet Fuel,129.7,70.28,32.8,7.0,Fragile Stabilisation,3.8,186.0
+2025-10-01,South Korea,Fuel Oil,72.7,71.59,34.39,6.43,Fragile Stabilisation,3.9,174.0
+2025-10-01,Australia,Crude Oil,356.3,14.91,61.08,1.29,Fragile Stabilisation,0.8,56.0
+2025-10-01,Australia,LNG,119.5,15.01,61.75,1.48,Fragile Stabilisation,0.5,51.0
+2025-10-01,Australia,LPG,38.8,15.12,58.49,1.5,Fragile Stabilisation,0.4,50.0
+2025-10-01,Australia,Diesel,49.1,14.26,60.22,1.28,Fragile Stabilisation,0.5,48.0
+2025-10-01,Australia,Jet Fuel,33.0,14.39,60.09,1.47,Fragile Stabilisation,1.2,42.0
+2025-10-01,Australia,Fuel Oil,18.2,14.59,61.91,1.32,Fragile Stabilisation,0.8,53.0
+2025-10-01,Indonesia,Crude Oil,491.7,17.52,62.96,1.75,Fragile Stabilisation,1.2,36.0
+2025-10-01,Indonesia,LNG,157.2,17.57,57.15,1.72,Fragile Stabilisation,0.7,26.0
+2025-10-01,Indonesia,LPG,49.6,17.71,60.31,1.64,Fragile Stabilisation,1.4,30.0
+2025-10-01,Indonesia,Diesel,63.7,17.03,61.23,1.62,Fragile Stabilisation,0.9,39.0
+2025-10-01,Indonesia,Jet Fuel,39.1,18.05,61.21,1.56,Fragile Stabilisation,0.7,34.0
+2025-10-01,Indonesia,Fuel Oil,26.9,17.97,56.5,1.68,Fragile Stabilisation,1.3,53.0
+2025-10-01,Thailand,Crude Oil,531.6,51.6,51.96,4.56,Fragile Stabilisation,3.3,47.0
+2025-10-01,Thailand,LNG,160.9,51.68,50.05,5.41,Fragile Stabilisation,2.7,26.0
+2025-10-01,Thailand,LPG,54.1,53.5,50.38,5.36,Fragile Stabilisation,3.4,36.0
+2025-10-01,Thailand,Diesel,72.9,53.23,51.44,5.44,Fragile Stabilisation,2.6,46.0
+2025-10-01,Thailand,Jet Fuel,44.6,53.57,53.51,4.55,Fragile Stabilisation,3.4,23.0
+2025-10-01,Thailand,Fuel Oil,25.6,54.91,52.37,5.3,Fragile Stabilisation,2.7,54.0
+2025-10-01,Vietnam,Crude Oil,222.2,20.88,58.93,2.07,Fragile Stabilisation,1.3,38.0
+2025-10-01,Vietnam,LNG,73.2,21.59,59.98,2.01,Fragile Stabilisation,1.5,43.0
+2025-10-01,Vietnam,LPG,23.2,20.91,59.9,1.86,Fragile Stabilisation,1.4,39.0
+2025-10-01,Vietnam,Diesel,32.2,21.59,62.43,1.83,Fragile Stabilisation,1.5,30.0
+2025-10-01,Vietnam,Jet Fuel,19.3,21.97,56.59,1.95,Fragile Stabilisation,0.9,44.0
+2025-10-01,Vietnam,Fuel Oil,10.7,21.56,56.44,2.02,Fragile Stabilisation,1.7,52.0
+2025-10-01,Philippines,Crude Oil,160.6,59.19,42.94,6.04,Fragile Stabilisation,3.7,43.0
+2025-10-01,Philippines,LNG,55.1,57.36,46.61,5.49,Fragile Stabilisation,3.2,43.0
+2025-10-01,Philippines,LPG,17.6,57.48,47.43,4.93,Fragile Stabilisation,3.8,41.0
+2025-10-01,Philippines,Diesel,23.1,59.63,45.75,5.41,Fragile Stabilisation,3.6,39.0
+2025-10-01,Philippines,Jet Fuel,15.3,59.34,42.99,6.03,Fragile Stabilisation,3.2,34.0
+2025-10-01,Philippines,Fuel Oil,8.3,60.04,45.36,5.04,Fragile Stabilisation,3.6,37.0
+2025-10-01,Malaysia,Crude Oil,241.6,11.34,59.24,1.12,Fragile Stabilisation,1.2,33.0
+2025-10-01,Malaysia,LNG,72.1,11.43,59.17,0.97,Fragile Stabilisation,0.5,43.0
+2025-10-01,Malaysia,LPG,24.0,11.77,62.8,0.96,Fragile Stabilisation,0.4,18.0
+2025-10-01,Malaysia,Diesel,34.3,11.85,62.56,1.21,Fragile Stabilisation,0.3,53.0
+2025-10-01,Malaysia,Jet Fuel,21.2,11.39,61.51,1.01,Fragile Stabilisation,1.1,49.0
+2025-10-01,Malaysia,Fuel Oil,12.7,11.89,61.13,1.13,Fragile Stabilisation,0.9,39.0
+2025-10-01,Pakistan,Crude Oil,275.8,74.7,29.42,6.22,Fragile Stabilisation,4.1,26.0
+2025-10-01,Pakistan,LNG,84.9,75.49,30.35,7.46,Fragile Stabilisation,4.3,48.0
+2025-10-01,Pakistan,LPG,24.5,74.22,29.3,6.7,Fragile Stabilisation,4.3,40.0
+2025-10-01,Pakistan,Diesel,37.8,70.35,36.18,6.65,Fragile Stabilisation,3.9,37.0
+2025-10-01,Pakistan,Jet Fuel,22.8,74.08,30.07,6.68,Fragile Stabilisation,4.2,46.0
+2025-10-01,Pakistan,Fuel Oil,13.6,73.9,29.94,5.97,Fragile Stabilisation,4.0,49.0
+2025-10-01,Bangladesh,Crude Oil,81.8,41.76,60.9,3.46,Fragile Stabilisation,2.1,46.0
+2025-10-01,Bangladesh,LNG,24.2,39.28,62.96,3.42,Fragile Stabilisation,2.1,56.0
+2025-10-01,Bangladesh,LPG,7.7,42.26,62.01,3.4,Fragile Stabilisation,2.2,32.0
+2025-10-01,Bangladesh,Diesel,11.2,40.69,60.92,3.75,Fragile Stabilisation,2.7,35.0
+2025-10-01,Bangladesh,Jet Fuel,6.7,39.85,62.79,3.35,Fragile Stabilisation,2.4,33.0
+2025-10-01,Bangladesh,Fuel Oil,3.9,39.28,61.16,4.09,Fragile Stabilisation,2.5,55.0
+2025-10-01,Taiwan,Crude Oil,521.0,72.85,33.45,6.98,Fragile Stabilisation,4.5,39.0
+2025-10-01,Taiwan,LNG,152.1,76.35,28.22,6.54,Fragile Stabilisation,4.2,35.0
+2025-10-01,Taiwan,LPG,50.2,77.26,26.15,6.55,Fragile Stabilisation,4.2,39.0
+2025-10-01,Taiwan,Diesel,64.8,78.5,27.09,6.43,Fragile Stabilisation,4.3,47.0
+2025-10-01,Taiwan,Jet Fuel,38.2,77.17,28.56,6.2,Fragile Stabilisation,3.9,39.0
+2025-10-01,Taiwan,Fuel Oil,23.9,76.7,28.13,6.2,Fragile Stabilisation,4.0,39.0
+2025-10-01,Singapore,Crude Oil,705.6,76.19,28.69,6.5,Fragile Stabilisation,4.9,36.0
+2025-10-01,Singapore,LNG,205.1,78.97,25.01,6.72,Fragile Stabilisation,4.7,37.0
+2025-10-01,Singapore,LPG,73.8,78.84,26.04,7.32,Fragile Stabilisation,4.5,37.0
+2025-10-01,Singapore,Diesel,87.8,79.21,24.99,7.17,Fragile Stabilisation,4.5,39.0
+2025-10-01,Singapore,Jet Fuel,57.6,78.53,27.18,6.82,Fragile Stabilisation,4.8,34.0
+2025-10-01,Singapore,Fuel Oil,35.8,76.48,28.05,7.49,Fragile Stabilisation,4.9,37.0
+2025-10-01,New Zealand,Crude Oil,77.2,27.28,60.28,2.52,Fragile Stabilisation,1.4,50.0
+2025-10-01,New Zealand,LNG,26.1,28.11,61.14,2.76,Fragile Stabilisation,1.5,47.0
+2025-10-01,New Zealand,LPG,8.0,27.37,59.33,2.7,Fragile Stabilisation,1.1,42.0
+2025-10-01,New Zealand,Diesel,10.8,27.44,60.55,2.77,Fragile Stabilisation,1.6,39.0
+2025-10-01,New Zealand,Jet Fuel,6.9,26.37,60.23,2.6,Fragile Stabilisation,1.7,56.0
+2025-10-01,New Zealand,Fuel Oil,3.9,27.32,57.51,2.57,Fragile Stabilisation,1.9,37.0
+2025-10-01,Sri Lanka,Crude Oil,43.3,87.55,16.79,8.1,Fragile Stabilisation,5.5,26.0
+2025-10-01,Sri Lanka,LNG,13.1,90.09,14.41,7.15,Fragile Stabilisation,5.5,48.0
+2025-10-01,Sri Lanka,LPG,4.0,84.52,20.01,7.79,Fragile Stabilisation,5.3,38.0
+2025-10-01,Sri Lanka,Diesel,5.5,87.42,17.23,8.8,Fragile Stabilisation,5.2,53.0
+2025-10-01,Sri Lanka,Jet Fuel,3.8,86.24,18.49,7.39,Fragile Stabilisation,5.2,39.0
+2025-10-01,Sri Lanka,Fuel Oil,2.3,89.74,15.24,8.15,Fragile Stabilisation,4.6,35.0
+2025-10-01,Myanmar,Crude Oil,40.7,32.82,61.15,2.98,Fragile Stabilisation,1.5,51.0
+2025-10-01,Myanmar,LNG,11.6,34.85,57.93,3.04,Fragile Stabilisation,1.6,34.0
+2025-10-01,Myanmar,LPG,4.2,33.05,62.6,3.19,Fragile Stabilisation,2.4,40.0
+2025-10-01,Myanmar,Diesel,5.5,32.93,59.62,3.25,Fragile Stabilisation,2.0,38.0
+2025-10-01,Myanmar,Jet Fuel,3.5,34.52,62.75,2.83,Fragile Stabilisation,1.9,46.0
+2025-10-01,Myanmar,Fuel Oil,2.0,34.66,57.82,3.14,Fragile Stabilisation,1.5,36.0
+2025-10-01,Cambodia,Crude Oil,25.7,37.36,61.47,3.78,Fragile Stabilisation,2.0,42.0
+2025-10-01,Cambodia,LNG,7.4,38.8,61.24,3.85,Fragile Stabilisation,1.9,35.0
+2025-10-01,Cambodia,LPG,2.7,39.69,63.59,3.78,Fragile Stabilisation,2.4,41.0
+2025-10-01,Cambodia,Diesel,3.7,38.6,57.06,3.62,Fragile Stabilisation,2.5,57.0
+2025-10-01,Cambodia,Jet Fuel,2.1,39.11,57.8,3.64,Fragile Stabilisation,1.8,40.0
+2025-10-01,Cambodia,Fuel Oil,1.3,37.63,62.66,3.8,Fragile Stabilisation,2.1,40.0
+2025-10-01,Laos,Crude Oil,8.6,9.75,56.85,0.99,Fragile Stabilisation,0.6,56.0
+2025-10-01,Laos,LNG,2.5,9.45,59.34,0.87,Fragile Stabilisation,0.9,48.0
+2025-10-01,Laos,LPG,0.8,9.54,60.17,0.83,Fragile Stabilisation,0.8,45.0
+2025-10-01,Laos,Diesel,1.1,9.33,61.9,0.8,Fragile Stabilisation,0.2,48.0
+2025-10-01,Laos,Jet Fuel,0.7,10.0,60.67,1.0,Fragile Stabilisation,1.0,40.0
+2025-10-01,Laos,Fuel Oil,0.5,9.57,62.42,1.0,Fragile Stabilisation,0.7,52.0
+2025-10-01,Mongolia,Crude Oil,15.3,5.04,57.23,0.4,Fragile Stabilisation,0.1,43.0
+2025-10-01,Mongolia,LNG,4.4,5.02,60.85,0.5,Fragile Stabilisation,0.6,46.0
+2025-10-01,Mongolia,LPG,1.5,4.82,59.52,0.5,Fragile Stabilisation,0.5,30.0
+2025-10-01,Mongolia,Diesel,2.1,4.68,62.31,0.46,Fragile Stabilisation,-0.1,44.0
+2025-10-01,Mongolia,Jet Fuel,1.3,4.68,63.44,0.46,Fragile Stabilisation,0.2,33.0
+2025-10-01,Mongolia,Fuel Oil,0.7,4.68,58.11,0.5,Fragile Stabilisation,0.3,34.0
+2025-11-01,China,Crude Oil,6063.1,43.86,57.69,4.17,Fragile Stabilisation,2.7,74.0
+2025-11-01,China,LNG,1968.7,42.73,58.83,3.57,Fragile Stabilisation,2.4,84.0
+2025-11-01,China,LPG,642.1,44.0,56.95,4.32,Fragile Stabilisation,2.1,94.0
+2025-11-01,China,Diesel,815.9,42.19,58.57,4.33,Fragile Stabilisation,2.2,72.0
+2025-11-01,China,Jet Fuel,505.5,42.36,57.92,3.72,Fragile Stabilisation,2.0,89.0
+2025-11-01,China,Fuel Oil,313.3,42.4,57.53,3.97,Fragile Stabilisation,2.8,97.0
+2025-11-01,India,Crude Oil,2621.0,57.92,49.58,5.4,Fragile Stabilisation,3.8,68.0
+2025-11-01,India,LNG,774.3,57.89,46.89,4.97,Fragile Stabilisation,3.1,55.0
+2025-11-01,India,LPG,247.2,61.57,40.84,5.11,Fragile Stabilisation,3.6,52.0
+2025-11-01,India,Diesel,362.6,60.0,43.32,5.5,Fragile Stabilisation,3.0,73.0
+2025-11-01,India,Jet Fuel,215.0,60.29,42.12,5.46,Fragile Stabilisation,4.0,72.0
+2025-11-01,India,Fuel Oil,142.6,62.54,42.79,6.01,Fragile Stabilisation,3.8,84.0
+2025-11-01,Japan,Crude Oil,1581.7,85.84,20.06,8.11,Fragile Stabilisation,4.7,238.0
+2025-11-01,Japan,LNG,518.5,82.02,22.92,8.83,Fragile Stabilisation,5.0,233.0
+2025-11-01,Japan,LPG,166.4,85.03,20.62,7.82,Fragile Stabilisation,5.0,243.0
+2025-11-01,Japan,Diesel,226.4,83.45,21.86,7.97,Fragile Stabilisation,5.0,224.0
+2025-11-01,Japan,Jet Fuel,130.5,83.44,22.51,7.69,Fragile Stabilisation,4.7,232.0
+2025-11-01,Japan,Fuel Oil,82.4,84.1,21.92,8.68,Fragile Stabilisation,4.7,215.0
+2025-11-01,South Korea,Crude Oil,1522.8,70.52,35.11,5.98,Fragile Stabilisation,3.6,176.0
+2025-11-01,South Korea,LNG,435.6,71.98,34.72,7.03,Fragile Stabilisation,3.8,183.0
+2025-11-01,South Korea,LPG,143.1,67.86,34.81,6.82,Fragile Stabilisation,4.2,176.0
+2025-11-01,South Korea,Diesel,187.3,68.18,35.2,7.07,Fragile Stabilisation,4.4,170.0
+2025-11-01,South Korea,Jet Fuel,116.6,71.04,32.25,6.53,Fragile Stabilisation,4.0,173.0
+2025-11-01,South Korea,Fuel Oil,77.8,70.27,36.01,6.08,Fragile Stabilisation,4.3,165.0
+2025-11-01,Australia,Crude Oil,407.4,14.47,60.8,1.4,Fragile Stabilisation,1.1,55.0
+2025-11-01,Australia,LNG,113.0,15.11,62.82,1.51,Fragile Stabilisation,0.7,37.0
+2025-11-01,Australia,LPG,35.2,14.81,56.48,1.41,Fragile Stabilisation,1.2,61.0
+2025-11-01,Australia,Diesel,54.3,15.06,57.43,1.45,Fragile Stabilisation,0.5,60.0
+2025-11-01,Australia,Jet Fuel,33.7,14.7,63.52,1.37,Fragile Stabilisation,0.5,64.0
+2025-11-01,Australia,Fuel Oil,18.0,14.95,62.18,1.2,Fragile Stabilisation,0.5,71.0
+2025-11-01,Indonesia,Crude Oil,480.0,16.87,63.59,1.43,Fragile Stabilisation,0.5,38.0
+2025-11-01,Indonesia,LNG,145.1,17.47,59.21,1.45,Fragile Stabilisation,0.9,44.0
+2025-11-01,Indonesia,LPG,49.0,17.87,62.94,1.58,Fragile Stabilisation,0.9,44.0
+2025-11-01,Indonesia,Diesel,63.9,16.86,62.37,1.52,Fragile Stabilisation,1.1,34.0
+2025-11-01,Indonesia,Jet Fuel,43.0,17.65,61.14,1.57,Fragile Stabilisation,1.4,17.0
+2025-11-01,Indonesia,Fuel Oil,26.4,17.56,63.49,1.55,Fragile Stabilisation,1.1,41.0
+2025-11-01,Thailand,Crude Oil,523.3,53.18,49.23,4.74,Fragile Stabilisation,3.4,45.0
+2025-11-01,Thailand,LNG,154.9,55.27,46.94,4.5,Fragile Stabilisation,2.9,52.0
+2025-11-01,Thailand,LPG,51.1,52.23,54.27,5.12,Fragile Stabilisation,3.6,53.0
+2025-11-01,Thailand,Diesel,65.8,54.06,49.62,5.21,Fragile Stabilisation,2.8,38.0
+2025-11-01,Thailand,Jet Fuel,42.2,52.03,50.98,5.07,Fragile Stabilisation,3.6,48.0
+2025-11-01,Thailand,Fuel Oil,24.4,53.69,49.36,4.97,Fragile Stabilisation,2.8,36.0
+2025-11-01,Vietnam,Crude Oil,237.1,21.32,58.78,1.77,Fragile Stabilisation,1.1,38.0
+2025-11-01,Vietnam,LNG,73.4,20.51,56.52,2.05,Fragile Stabilisation,0.9,38.0
+2025-11-01,Vietnam,LPG,22.1,20.77,56.81,1.75,Fragile Stabilisation,1.2,53.0
+2025-11-01,Vietnam,Diesel,28.2,21.87,62.03,1.8,Fragile Stabilisation,1.3,37.0
+2025-11-01,Vietnam,Jet Fuel,20.1,21.97,61.56,2.11,Fragile Stabilisation,1.6,45.0
+2025-11-01,Vietnam,Fuel Oil,11.0,20.89,61.08,1.88,Fragile Stabilisation,1.0,23.0
+2025-11-01,Philippines,Crude Oil,181.9,57.84,47.97,5.33,Fragile Stabilisation,3.3,50.0
+2025-11-01,Philippines,LNG,54.5,56.69,47.66,5.0,Fragile Stabilisation,2.9,40.0
+2025-11-01,Philippines,LPG,16.7,56.16,51.23,5.41,Fragile Stabilisation,3.7,35.0
+2025-11-01,Philippines,Diesel,24.0,56.3,49.54,5.74,Fragile Stabilisation,3.5,33.0
+2025-11-01,Philippines,Jet Fuel,14.4,56.36,48.39,5.58,Fragile Stabilisation,3.7,57.0
+2025-11-01,Philippines,Fuel Oil,8.4,57.78,49.59,5.6,Fragile Stabilisation,3.3,33.0
+2025-11-01,Malaysia,Crude Oil,268.3,11.53,63.29,1.04,Fragile Stabilisation,0.7,48.0
+2025-11-01,Malaysia,LNG,80.3,11.84,63.32,1.08,Fragile Stabilisation,1.1,43.0
+2025-11-01,Malaysia,LPG,26.7,11.75,58.63,1.05,Fragile Stabilisation,0.4,47.0
+2025-11-01,Malaysia,Diesel,34.4,11.2,58.44,0.98,Fragile Stabilisation,0.3,36.0
+2025-11-01,Malaysia,Jet Fuel,19.2,11.39,57.88,1.17,Fragile Stabilisation,0.2,42.0
+2025-11-01,Malaysia,Fuel Oil,13.1,11.48,60.74,1.18,Fragile Stabilisation,0.3,58.0
+2025-11-01,Pakistan,Crude Oil,245.5,74.7,30.4,7.15,Fragile Stabilisation,4.7,49.0
+2025-11-01,Pakistan,LNG,79.0,70.37,32.78,6.26,Fragile Stabilisation,4.4,29.0
+2025-11-01,Pakistan,LPG,25.4,75.14,30.48,7.32,Fragile Stabilisation,3.9,47.0
+2025-11-01,Pakistan,Diesel,33.3,74.77,30.07,6.7,Fragile Stabilisation,3.8,42.0
+2025-11-01,Pakistan,Jet Fuel,21.2,72.54,31.35,6.7,Fragile Stabilisation,4.0,25.0
+2025-11-01,Pakistan,Fuel Oil,13.7,70.16,34.98,6.6,Fragile Stabilisation,3.8,19.0
+2025-11-01,Bangladesh,Crude Oil,81.1,41.31,58.15,4.0,Fragile Stabilisation,2.8,38.0
+2025-11-01,Bangladesh,LNG,23.6,39.26,57.4,4.02,Fragile Stabilisation,2.6,47.0
+2025-11-01,Bangladesh,LPG,8.0,41.83,56.85,3.84,Fragile Stabilisation,2.4,40.0
+2025-11-01,Bangladesh,Diesel,10.2,40.95,59.1,3.78,Fragile Stabilisation,2.7,35.0
+2025-11-01,Bangladesh,Jet Fuel,6.2,40.82,63.03,3.73,Fragile Stabilisation,2.5,21.0
+2025-11-01,Bangladesh,Fuel Oil,4.1,40.06,63.54,3.42,Fragile Stabilisation,2.4,32.0
+2025-11-01,Taiwan,Crude Oil,494.3,73.01,32.12,6.56,Fragile Stabilisation,4.3,43.0
+2025-11-01,Taiwan,LNG,137.1,76.13,27.57,6.73,Fragile Stabilisation,4.1,37.0
+2025-11-01,Taiwan,LPG,47.5,75.22,28.92,6.23,Fragile Stabilisation,3.9,56.0
+2025-11-01,Taiwan,Diesel,62.8,76.23,30.19,6.35,Fragile Stabilisation,4.8,28.0
+2025-11-01,Taiwan,Jet Fuel,42.9,74.77,29.99,6.47,Fragile Stabilisation,3.9,36.0
+2025-11-01,Taiwan,Fuel Oil,25.5,78.04,25.78,7.03,Fragile Stabilisation,4.9,43.0
+2025-11-01,Singapore,Crude Oil,686.5,76.79,28.83,7.16,Fragile Stabilisation,4.8,45.0
+2025-11-01,Singapore,LNG,220.9,78.81,25.71,7.23,Fragile Stabilisation,4.8,35.0
+2025-11-01,Singapore,LPG,70.9,80.12,24.88,6.65,Fragile Stabilisation,4.5,27.0
+2025-11-01,Singapore,Diesel,87.7,77.17,29.12,6.84,Fragile Stabilisation,4.6,37.0
+2025-11-01,Singapore,Jet Fuel,54.9,79.45,24.74,7.59,Fragile Stabilisation,4.7,44.0
+2025-11-01,Singapore,Fuel Oil,33.2,79.18,25.33,6.36,Fragile Stabilisation,4.5,36.0
+2025-11-01,New Zealand,Crude Oil,87.9,28.18,59.15,2.78,Fragile Stabilisation,1.6,45.0
+2025-11-01,New Zealand,LNG,25.9,26.21,61.91,2.61,Fragile Stabilisation,1.8,36.0
+2025-11-01,New Zealand,LPG,8.2,27.11,61.91,2.79,Fragile Stabilisation,2.0,35.0
+2025-11-01,New Zealand,Diesel,10.9,27.75,58.67,2.74,Fragile Stabilisation,1.2,38.0
+2025-11-01,New Zealand,Jet Fuel,7.2,27.21,57.44,2.76,Fragile Stabilisation,1.5,52.0
+2025-11-01,New Zealand,Fuel Oil,4.0,26.51,56.86,2.38,Fragile Stabilisation,1.1,46.0
+2025-11-01,Sri Lanka,Crude Oil,39.9,84.15,20.04,7.37,Fragile Stabilisation,5.2,30.0
+2025-11-01,Sri Lanka,LNG,13.9,89.38,15.11,8.21,Fragile Stabilisation,5.4,49.0
+2025-11-01,Sri Lanka,LPG,4.2,89.86,15.71,8.38,Fragile Stabilisation,5.1,34.0
+2025-11-01,Sri Lanka,Diesel,6.0,87.04,17.37,7.59,Fragile Stabilisation,4.7,58.0
+2025-11-01,Sri Lanka,Jet Fuel,3.9,84.75,20.71,8.71,Fragile Stabilisation,4.6,41.0
+2025-11-01,Sri Lanka,Fuel Oil,2.1,85.21,19.36,7.87,Fragile Stabilisation,5.2,47.0
+2025-11-01,Myanmar,Crude Oil,42.7,35.15,62.87,2.78,Fragile Stabilisation,1.5,47.0
+2025-11-01,Myanmar,LNG,12.9,34.64,60.75,3.53,Fragile Stabilisation,1.9,40.0
+2025-11-01,Myanmar,LPG,3.8,33.06,57.31,3.29,Fragile Stabilisation,1.9,30.0
+2025-11-01,Myanmar,Diesel,5.8,34.38,61.59,2.9,Fragile Stabilisation,1.8,44.0
+2025-11-01,Myanmar,Jet Fuel,3.3,33.06,59.51,3.25,Fragile Stabilisation,1.6,44.0
+2025-11-01,Myanmar,Fuel Oil,2.0,32.8,60.53,2.99,Fragile Stabilisation,1.9,33.0
+2025-11-01,Cambodia,Crude Oil,27.3,38.7,60.91,3.86,Fragile Stabilisation,1.8,36.0
+2025-11-01,Cambodia,LNG,7.9,39.78,58.45,3.46,Fragile Stabilisation,2.6,35.0
+2025-11-01,Cambodia,LPG,2.7,37.87,61.81,3.63,Fragile Stabilisation,2.3,42.0
+2025-11-01,Cambodia,Diesel,3.4,39.63,57.51,3.55,Fragile Stabilisation,1.9,52.0
+2025-11-01,Cambodia,Jet Fuel,2.2,39.94,59.19,3.2,Fragile Stabilisation,2.5,45.0
+2025-11-01,Cambodia,Fuel Oil,1.3,40.03,62.97,3.71,Fragile Stabilisation,2.7,51.0
+2025-11-01,Laos,Crude Oil,8.4,10.06,58.95,0.98,Fragile Stabilisation,0.8,44.0
+2025-11-01,Laos,LNG,2.8,9.6,63.4,0.93,Fragile Stabilisation,0.4,46.0
+2025-11-01,Laos,LPG,0.9,9.81,62.89,0.82,Fragile Stabilisation,0.1,36.0
+2025-11-01,Laos,Diesel,1.3,9.5,62.83,0.93,Fragile Stabilisation,0.3,45.0
+2025-11-01,Laos,Jet Fuel,0.7,9.72,60.17,0.81,Fragile Stabilisation,0.1,50.0
+2025-11-01,Laos,Fuel Oil,0.4,9.6,61.88,0.85,Fragile Stabilisation,0.2,36.0
+2025-11-01,Mongolia,Crude Oil,15.6,4.9,59.92,0.44,Fragile Stabilisation,0.7,40.0
+2025-11-01,Mongolia,LNG,4.4,4.96,59.28,0.41,Fragile Stabilisation,0.4,48.0
+2025-11-01,Mongolia,LPG,1.5,4.81,62.96,0.5,Fragile Stabilisation,0.0,53.0
+2025-11-01,Mongolia,Diesel,2.1,5.04,59.15,0.45,Fragile Stabilisation,0.5,34.0
+2025-11-01,Mongolia,Jet Fuel,1.2,4.73,57.79,0.46,Fragile Stabilisation,0.2,28.0
+2025-11-01,Mongolia,Fuel Oil,0.8,4.99,57.25,0.5,Fragile Stabilisation,0.8,47.0
+2025-12-01,China,Crude Oil,6531.9,44.14,59.41,3.52,Fragile Stabilisation,2.4,102.0
+2025-12-01,China,LNG,1859.0,41.78,60.37,3.75,Fragile Stabilisation,2.7,89.0
+2025-12-01,China,LPG,682.4,41.69,62.37,4.11,Fragile Stabilisation,2.3,81.0
+2025-12-01,China,Diesel,845.4,41.38,61.1,3.64,Fragile Stabilisation,2.9,93.0
+2025-12-01,China,Jet Fuel,502.2,42.27,62.12,3.79,Fragile Stabilisation,2.9,91.0
+2025-12-01,China,Fuel Oil,341.8,42.01,63.29,3.68,Fragile Stabilisation,2.8,106.0
+2025-12-01,India,Crude Oil,2732.7,62.09,41.07,5.59,Fragile Stabilisation,3.2,77.0
+2025-12-01,India,LNG,851.3,58.01,46.16,5.0,Fragile Stabilisation,3.5,64.0
+2025-12-01,India,LPG,269.4,61.0,44.09,6.12,Fragile Stabilisation,3.0,68.0
+2025-12-01,India,Diesel,371.4,62.04,44.56,5.75,Fragile Stabilisation,3.0,75.0
+2025-12-01,India,Jet Fuel,228.5,59.66,44.05,5.12,Fragile Stabilisation,3.8,77.0
+2025-12-01,India,Fuel Oil,138.7,59.35,47.91,5.39,Fragile Stabilisation,3.8,60.0
+2025-12-01,Japan,Crude Oil,1725.8,82.46,21.68,7.84,Fragile Stabilisation,5.3,240.0
+2025-12-01,Japan,LNG,489.1,83.3,21.16,8.19,Fragile Stabilisation,5.1,230.0
+2025-12-01,Japan,LPG,161.1,86.79,18.6,7.53,Fragile Stabilisation,5.2,230.0
+2025-12-01,Japan,Diesel,227.7,86.32,17.62,8.3,Fragile Stabilisation,4.5,233.0
+2025-12-01,Japan,Jet Fuel,144.1,82.66,22.64,8.22,Fragile Stabilisation,4.9,239.0
+2025-12-01,Japan,Fuel Oil,88.4,86.91,17.73,7.11,Fragile Stabilisation,5.1,220.0
+2025-12-01,South Korea,Crude Oil,1496.0,68.97,34.81,6.56,Fragile Stabilisation,4.5,184.0
+2025-12-01,South Korea,LNG,448.1,71.37,34.7,6.82,Fragile Stabilisation,3.7,187.0
+2025-12-01,South Korea,LPG,143.1,70.93,32.34,6.1,Fragile Stabilisation,4.0,200.0
+2025-12-01,South Korea,Diesel,192.6,67.36,35.96,5.75,Fragile Stabilisation,4.0,162.0
+2025-12-01,South Korea,Jet Fuel,117.0,70.85,33.24,6.71,Fragile Stabilisation,3.7,189.0
+2025-12-01,South Korea,Fuel Oil,68.9,67.05,38.61,6.78,Fragile Stabilisation,3.6,179.0
+2025-12-01,Australia,Crude Oil,392.9,14.61,62.95,1.39,Fragile Stabilisation,1.2,66.0
+2025-12-01,Australia,LNG,106.7,14.14,60.12,1.41,Fragile Stabilisation,0.4,44.0
+2025-12-01,Australia,LPG,40.7,14.17,61.08,1.39,Fragile Stabilisation,1.1,50.0
+2025-12-01,Australia,Diesel,46.7,14.62,60.34,1.31,Fragile Stabilisation,0.7,57.0
+2025-12-01,Australia,Jet Fuel,30.3,14.45,62.98,1.45,Fragile Stabilisation,1.0,51.0
+2025-12-01,Australia,Fuel Oil,18.3,14.54,58.32,1.37,Fragile Stabilisation,0.5,52.0
+2025-12-01,Indonesia,Crude Oil,493.1,16.95,61.17,1.77,Fragile Stabilisation,1.2,40.0
+2025-12-01,Indonesia,LNG,157.9,17.55,56.61,1.61,Fragile Stabilisation,1.1,42.0
+2025-12-01,Indonesia,LPG,48.0,17.18,61.34,1.73,Fragile Stabilisation,0.7,30.0
+2025-12-01,Indonesia,Diesel,63.0,18.07,58.93,1.8,Fragile Stabilisation,0.6,39.0
+2025-12-01,Indonesia,Jet Fuel,42.4,17.9,58.58,1.81,Fragile Stabilisation,1.5,49.0
+2025-12-01,Indonesia,Fuel Oil,24.2,16.82,56.72,1.44,Fragile Stabilisation,1.1,46.0
+2025-12-01,Thailand,Crude Oil,496.5,52.03,50.3,5.24,Fragile Stabilisation,2.8,33.0
+2025-12-01,Thailand,LNG,158.6,53.0,51.76,4.55,Fragile Stabilisation,2.8,29.0
+2025-12-01,Thailand,LPG,51.7,54.1,50.29,4.7,Fragile Stabilisation,3.4,38.0
+2025-12-01,Thailand,Diesel,73.5,54.13,49.37,4.78,Fragile Stabilisation,2.9,47.0
+2025-12-01,Thailand,Jet Fuel,45.1,53.18,51.2,4.97,Fragile Stabilisation,3.4,39.0
+2025-12-01,Thailand,Fuel Oil,26.4,52.65,49.05,5.43,Fragile Stabilisation,3.1,56.0
+2025-12-01,Vietnam,Crude Oil,234.3,21.17,59.24,2.16,Fragile Stabilisation,1.2,45.0
+2025-12-01,Vietnam,LNG,63.5,20.75,60.09,1.77,Fragile Stabilisation,0.7,36.0
+2025-12-01,Vietnam,LPG,21.1,21.88,63.53,2.11,Fragile Stabilisation,1.0,33.0
+2025-12-01,Vietnam,Diesel,31.6,21.85,59.42,1.96,Fragile Stabilisation,1.0,44.0
+2025-12-01,Vietnam,Jet Fuel,18.8,21.27,59.12,1.85,Fragile Stabilisation,1.0,35.0
+2025-12-01,Vietnam,Fuel Oil,11.1,20.55,56.52,1.83,Fragile Stabilisation,1.2,42.0
+2025-12-01,Philippines,Crude Oil,181.0,57.11,49.27,5.45,Fragile Stabilisation,2.9,41.0
+2025-12-01,Philippines,LNG,51.0,60.09,46.11,5.37,Fragile Stabilisation,3.2,38.0
+2025-12-01,Philippines,LPG,17.1,59.47,42.65,5.08,Fragile Stabilisation,3.3,48.0
+2025-12-01,Philippines,Diesel,23.5,59.91,43.27,5.62,Fragile Stabilisation,3.8,45.0
+2025-12-01,Philippines,Jet Fuel,15.2,57.81,44.8,5.42,Fragile Stabilisation,3.5,47.0
+2025-12-01,Philippines,Fuel Oil,8.5,57.29,49.44,5.05,Fragile Stabilisation,3.5,30.0
+2025-12-01,Malaysia,Crude Oil,241.5,11.7,63.21,1.08,Fragile Stabilisation,0.4,50.0
+2025-12-01,Malaysia,LNG,78.3,11.76,59.19,1.08,Fragile Stabilisation,0.4,48.0
+2025-12-01,Malaysia,LPG,26.8,11.47,62.68,0.95,Fragile Stabilisation,0.3,47.0
+2025-12-01,Malaysia,Diesel,34.3,11.53,58.97,1.13,Fragile Stabilisation,0.7,45.0
+2025-12-01,Malaysia,Jet Fuel,21.4,12.03,58.04,1.11,Fragile Stabilisation,0.5,47.0
+2025-12-01,Malaysia,Fuel Oil,12.0,11.86,57.95,1.17,Fragile Stabilisation,1.1,38.0
+2025-12-01,Pakistan,Crude Oil,282.0,71.15,34.24,6.88,Fragile Stabilisation,4.5,32.0
+2025-12-01,Pakistan,LNG,83.1,71.93,33.52,7.27,Fragile Stabilisation,4.0,38.0
+2025-12-01,Pakistan,LPG,28.6,71.4,34.35,6.91,Fragile Stabilisation,4.3,39.0
+2025-12-01,Pakistan,Diesel,33.0,75.38,28.98,6.79,Fragile Stabilisation,4.6,29.0
+2025-12-01,Pakistan,Jet Fuel,23.0,70.67,35.43,6.79,Fragile Stabilisation,3.9,42.0
+2025-12-01,Pakistan,Fuel Oil,13.8,72.03,30.9,6.86,Fragile Stabilisation,4.2,39.0
+2025-12-01,Bangladesh,Crude Oil,75.2,41.74,58.18,3.66,Fragile Stabilisation,2.7,37.0
+2025-12-01,Bangladesh,LNG,25.4,39.29,58.41,4.15,Fragile Stabilisation,2.2,30.0
+2025-12-01,Bangladesh,LPG,8.1,41.13,56.69,3.83,Fragile Stabilisation,2.2,45.0
+2025-12-01,Bangladesh,Diesel,10.4,39.35,62.74,3.67,Fragile Stabilisation,2.0,42.0
+2025-12-01,Bangladesh,Jet Fuel,6.7,39.49,62.38,4.21,Fragile Stabilisation,2.7,45.0
+2025-12-01,Bangladesh,Fuel Oil,3.9,40.8,57.5,4.18,Fragile Stabilisation,2.3,50.0
+2025-12-01,Taiwan,Crude Oil,490.7,74.88,29.15,6.6,Fragile Stabilisation,4.1,39.0
+2025-12-01,Taiwan,LNG,144.0,75.96,27.79,6.28,Fragile Stabilisation,4.3,38.0
+2025-12-01,Taiwan,LPG,44.9,75.33,29.38,6.3,Fragile Stabilisation,4.7,34.0
+2025-12-01,Taiwan,Diesel,63.1,78.09,25.64,7.3,Fragile Stabilisation,4.2,41.0
+2025-12-01,Taiwan,Jet Fuel,42.1,78.07,26.28,7.11,Fragile Stabilisation,4.0,48.0
+2025-12-01,Taiwan,Fuel Oil,24.6,73.07,31.91,7.43,Fragile Stabilisation,4.6,47.0
+2025-12-01,Singapore,Crude Oil,707.5,76.96,29.4,7.67,Fragile Stabilisation,4.2,31.0
+2025-12-01,Singapore,LNG,200.1,75.41,27.93,7.81,Fragile Stabilisation,4.2,36.0
+2025-12-01,Singapore,LPG,71.0,79.95,23.9,7.0,Fragile Stabilisation,4.9,39.0
+2025-12-01,Singapore,Diesel,92.3,78.84,26.46,7.58,Fragile Stabilisation,4.7,48.0
+2025-12-01,Singapore,Jet Fuel,55.9,75.67,30.06,7.01,Fragile Stabilisation,4.9,29.0
+2025-12-01,Singapore,Fuel Oil,34.3,75.48,29.75,6.85,Fragile Stabilisation,4.3,33.0
+2025-12-01,New Zealand,Crude Oil,86.3,26.9,58.91,2.68,Fragile Stabilisation,1.1,51.0
+2025-12-01,New Zealand,LNG,25.1,27.35,58.58,2.8,Fragile Stabilisation,2.0,48.0
+2025-12-01,New Zealand,LPG,8.7,27.26,58.59,2.82,Fragile Stabilisation,1.7,46.0
+2025-12-01,New Zealand,Diesel,11.5,27.37,59.14,2.39,Fragile Stabilisation,1.8,45.0
+2025-12-01,New Zealand,Jet Fuel,7.0,26.51,59.68,2.37,Fragile Stabilisation,2.0,46.0
+2025-12-01,New Zealand,Fuel Oil,3.9,27.89,58.28,2.44,Fragile Stabilisation,2.0,41.0
+2025-12-01,Sri Lanka,Crude Oil,43.3,85.97,18.81,7.68,Fragile Stabilisation,5.0,37.0
+2025-12-01,Sri Lanka,LNG,12.9,90.54,14.93,8.21,Fragile Stabilisation,5.3,37.0
+2025-12-01,Sri Lanka,LPG,4.6,87.55,16.84,7.78,Fragile Stabilisation,5.1,38.0
+2025-12-01,Sri Lanka,Diesel,6.0,89.16,14.77,8.66,Fragile Stabilisation,4.9,36.0
+2025-12-01,Sri Lanka,Jet Fuel,3.4,84.04,21.23,8.56,Fragile Stabilisation,4.8,39.0
+2025-12-01,Sri Lanka,Fuel Oil,2.0,86.53,17.24,8.64,Fragile Stabilisation,5.2,41.0
+2025-12-01,Myanmar,Crude Oil,39.3,34.71,60.2,3.17,Fragile Stabilisation,2.2,40.0
+2025-12-01,Myanmar,LNG,12.5,33.15,56.48,2.84,Fragile Stabilisation,1.6,48.0
+2025-12-01,Myanmar,LPG,3.8,33.19,63.03,3.07,Fragile Stabilisation,1.7,34.0
+2025-12-01,Myanmar,Diesel,5.3,34.97,61.76,2.98,Fragile Stabilisation,1.7,49.0
+2025-12-01,Myanmar,Jet Fuel,3.2,34.35,63.43,3.46,Fragile Stabilisation,1.6,43.0
+2025-12-01,Myanmar,Fuel Oil,2.0,34.32,62.43,2.81,Fragile Stabilisation,2.3,38.0
+2025-12-01,Cambodia,Crude Oil,26.3,40.01,58.3,3.69,Fragile Stabilisation,1.8,38.0
+2025-12-01,Cambodia,LNG,7.4,38.67,62.19,3.89,Fragile Stabilisation,1.9,37.0
+2025-12-01,Cambodia,LPG,2.7,37.81,57.01,3.42,Fragile Stabilisation,2.4,42.0
+2025-12-01,Cambodia,Diesel,3.6,40.07,62.23,3.4,Fragile Stabilisation,1.8,42.0
+2025-12-01,Cambodia,Jet Fuel,2.2,37.65,61.08,3.77,Fragile Stabilisation,2.6,48.0
+2025-12-01,Cambodia,Fuel Oil,1.4,37.84,62.69,3.25,Fragile Stabilisation,1.9,45.0
+2025-12-01,Laos,Crude Oil,9.5,9.95,59.01,0.94,Fragile Stabilisation,0.8,31.0
+2025-12-01,Laos,LNG,2.7,10.0,63.15,0.94,Fragile Stabilisation,0.4,46.0
+2025-12-01,Laos,LPG,0.9,9.37,59.3,0.91,Fragile Stabilisation,0.3,42.0
+2025-12-01,Laos,Diesel,1.3,9.99,62.57,0.99,Fragile Stabilisation,0.8,37.0
+2025-12-01,Laos,Jet Fuel,0.7,9.98,59.7,0.94,Fragile Stabilisation,0.6,39.0
+2025-12-01,Laos,Fuel Oil,0.5,9.34,57.26,0.94,Fragile Stabilisation,0.3,59.0
+2025-12-01,Mongolia,Crude Oil,16.1,4.94,59.8,0.41,Fragile Stabilisation,0.5,46.0
+2025-12-01,Mongolia,LNG,4.7,5.02,62.84,0.45,Fragile Stabilisation,0.7,43.0
+2025-12-01,Mongolia,LPG,1.6,4.84,58.94,0.48,Fragile Stabilisation,0.3,57.0
+2025-12-01,Mongolia,Diesel,2.1,4.94,57.62,0.43,Fragile Stabilisation,0.2,37.0
+2025-12-01,Mongolia,Jet Fuel,1.2,4.88,57.36,0.47,Fragile Stabilisation,-0.2,51.0
+2025-12-01,Mongolia,Fuel Oil,0.8,4.88,63.56,0.41,Fragile Stabilisation,0.2,42.0
+2026-01-01,China,Crude Oil,6685.6,42.17,59.76,1.88,Ongoing Uncertainty,2.0,85.0
+2026-01-01,China,LNG,1895.4,43.38,60.27,2.18,Ongoing Uncertainty,2.4,88.0
+2026-01-01,China,LPG,668.9,43.64,57.33,2.08,Ongoing Uncertainty,1.6,100.0
+2026-01-01,China,Diesel,808.3,44.16,57.18,2.07,Ongoing Uncertainty,1.8,88.0
+2026-01-01,China,Jet Fuel,541.7,41.94,63.5,1.93,Ongoing Uncertainty,2.0,88.0
+2026-01-01,China,Fuel Oil,312.4,42.58,62.56,2.09,Ongoing Uncertainty,2.2,93.0
+2026-01-01,India,Crude Oil,2630.5,60.57,43.62,2.55,Ongoing Uncertainty,3.2,70.0
+2026-01-01,India,LNG,877.4,61.69,41.39,2.99,Ongoing Uncertainty,2.5,59.0
+2026-01-01,India,LPG,267.6,62.71,38.24,2.92,Ongoing Uncertainty,2.6,60.0
+2026-01-01,India,Diesel,361.9,60.5,42.43,2.92,Ongoing Uncertainty,2.5,70.0
+2026-01-01,India,Jet Fuel,229.8,60.54,41.61,2.83,Ongoing Uncertainty,2.6,67.0
+2026-01-01,India,Fuel Oil,145.7,59.16,45.53,2.52,Ongoing Uncertainty,2.5,64.0
+2026-01-01,Japan,Crude Oil,1694.8,84.9,16.83,4.18,Ongoing Uncertainty,3.6,242.0
+2026-01-01,Japan,LNG,537.7,83.22,19.77,4.4,Ongoing Uncertainty,3.7,234.0
+2026-01-01,Japan,LPG,180.6,87.75,15.25,3.52,Ongoing Uncertainty,4.1,239.0
+2026-01-01,Japan,Diesel,243.1,89.97,13.06,3.51,Ongoing Uncertainty,4.0,234.0
+2026-01-01,Japan,Jet Fuel,152.3,89.28,12.95,3.75,Ongoing Uncertainty,4.2,231.0
+2026-01-01,Japan,Fuel Oil,82.2,86.04,15.77,4.27,Ongoing Uncertainty,4.1,226.0
+2026-01-01,South Korea,Crude Oil,1527.3,72.43,28.38,3.3,Ongoing Uncertainty,3.6,181.0
+2026-01-01,South Korea,LNG,475.0,72.26,29.31,3.61,Ongoing Uncertainty,3.6,195.0
+2026-01-01,South Korea,LPG,145.0,73.2,29.35,3.24,Ongoing Uncertainty,3.0,180.0
+2026-01-01,South Korea,Diesel,220.0,70.01,31.32,3.06,Ongoing Uncertainty,2.8,183.0
+2026-01-01,South Korea,Jet Fuel,121.1,71.7,32.28,3.02,Ongoing Uncertainty,3.4,184.0
+2026-01-01,South Korea,Fuel Oil,80.8,71.1,30.58,3.33,Ongoing Uncertainty,3.0,190.0
+2026-01-01,Australia,Crude Oil,354.4,14.32,62.79,0.62,Ongoing Uncertainty,0.5,60.0
+2026-01-01,Australia,LNG,116.2,14.93,62.95,0.67,Ongoing Uncertainty,1.1,56.0
+2026-01-01,Australia,LPG,40.3,15.3,59.36,0.7,Ongoing Uncertainty,0.9,68.0
+2026-01-01,Australia,Diesel,50.5,14.81,58.28,0.64,Ongoing Uncertainty,0.6,49.0
+2026-01-01,Australia,Jet Fuel,30.9,14.22,61.44,0.66,Ongoing Uncertainty,0.5,58.0
+2026-01-01,Australia,Fuel Oil,20.5,15.15,58.14,0.63,Ongoing Uncertainty,0.6,51.0
+2026-01-01,Indonesia,Crude Oil,526.0,18.38,59.68,0.89,Ongoing Uncertainty,0.7,34.0
+2026-01-01,Indonesia,LNG,143.2,17.27,57.5,0.83,Ongoing Uncertainty,0.7,41.0
+2026-01-01,Indonesia,LPG,46.6,18.19,57.34,0.88,Ongoing Uncertainty,1.3,45.0
+2026-01-01,Indonesia,Diesel,72.4,17.97,60.79,0.88,Ongoing Uncertainty,1.1,43.0
+2026-01-01,Indonesia,Jet Fuel,41.6,17.28,58.9,0.8,Ongoing Uncertainty,0.4,30.0
+2026-01-01,Indonesia,Fuel Oil,24.6,17.02,62.79,0.76,Ongoing Uncertainty,0.5,45.0
+2026-01-01,Thailand,Crude Oil,556.8,52.48,49.4,2.46,Ongoing Uncertainty,2.7,27.0
+2026-01-01,Thailand,LNG,164.0,56.1,44.34,2.52,Ongoing Uncertainty,2.6,47.0
+2026-01-01,Thailand,LPG,56.8,53.85,47.47,2.36,Ongoing Uncertainty,2.0,46.0
+2026-01-01,Thailand,Diesel,70.1,56.33,43.72,2.68,Ongoing Uncertainty,2.6,41.0
+2026-01-01,Thailand,Jet Fuel,43.2,53.64,50.43,2.69,Ongoing Uncertainty,2.5,32.0
+2026-01-01,Thailand,Fuel Oil,28.0,56.09,46.77,2.34,Ongoing Uncertainty,2.7,33.0
+2026-01-01,Vietnam,Crude Oil,231.1,21.83,62.79,1.05,Ongoing Uncertainty,1.1,47.0
+2026-01-01,Vietnam,LNG,71.5,22.45,62.05,1.09,Ongoing Uncertainty,0.5,43.0
+2026-01-01,Vietnam,LPG,24.0,22.24,57.83,1.01,Ongoing Uncertainty,0.8,45.0
+2026-01-01,Vietnam,Diesel,29.6,22.01,62.02,1.07,Ongoing Uncertainty,1.1,37.0
+2026-01-01,Vietnam,Jet Fuel,18.5,21.32,61.64,0.99,Ongoing Uncertainty,1.3,40.0
+2026-01-01,Vietnam,Fuel Oil,12.1,21.27,59.41,0.94,Ongoing Uncertainty,1.4,28.0
+2026-01-01,Philippines,Crude Oil,185.6,59.64,42.99,2.58,Ongoing Uncertainty,2.9,37.0
+2026-01-01,Philippines,LNG,53.5,60.95,40.51,2.67,Ongoing Uncertainty,2.8,51.0
+2026-01-01,Philippines,LPG,19.0,58.81,43.2,2.48,Ongoing Uncertainty,2.6,48.0
+2026-01-01,Philippines,Diesel,23.7,59.85,44.09,2.66,Ongoing Uncertainty,2.8,69.0
+2026-01-01,Philippines,Jet Fuel,16.2,60.0,44.49,2.8,Ongoing Uncertainty,2.9,44.0
+2026-01-01,Philippines,Fuel Oil,8.8,61.44,42.64,2.8,Ongoing Uncertainty,2.5,48.0
+2026-01-01,Malaysia,Crude Oil,255.8,11.47,60.47,0.49,Ongoing Uncertainty,0.3,49.0
+2026-01-01,Malaysia,LNG,73.9,12.24,57.57,0.57,Ongoing Uncertainty,0.2,35.0
+2026-01-01,Malaysia,LPG,23.5,12.12,59.07,0.49,Ongoing Uncertainty,1.0,38.0
+2026-01-01,Malaysia,Diesel,34.8,12.22,62.16,0.59,Ongoing Uncertainty,0.7,30.0
+2026-01-01,Malaysia,Jet Fuel,21.3,12.25,63.08,0.58,Ongoing Uncertainty,0.3,20.0
+2026-01-01,Malaysia,Fuel Oil,12.3,11.95,56.49,0.54,Ongoing Uncertainty,0.6,43.0
+2026-01-01,Pakistan,Crude Oil,278.9,71.1,30.76,3.7,Ongoing Uncertainty,3.2,51.0
+2026-01-01,Pakistan,LNG,83.3,71.69,29.16,3.28,Ongoing Uncertainty,3.8,31.0
+2026-01-01,Pakistan,LPG,27.4,76.7,24.62,3.31,Ongoing Uncertainty,3.1,39.0
+2026-01-01,Pakistan,Diesel,38.3,70.99,33.18,3.34,Ongoing Uncertainty,3.4,33.0
+2026-01-01,Pakistan,Jet Fuel,23.1,74.15,29.26,3.44,Ongoing Uncertainty,3.2,38.0
+2026-01-01,Pakistan,Fuel Oil,14.4,76.08,26.89,3.7,Ongoing Uncertainty,3.2,46.0
+2026-01-01,Bangladesh,Crude Oil,76.2,42.55,62.2,1.79,Ongoing Uncertainty,1.6,41.0
+2026-01-01,Bangladesh,LNG,22.7,42.55,58.89,1.69,Ongoing Uncertainty,2.3,37.0
+2026-01-01,Bangladesh,LPG,8.2,39.77,58.95,1.68,Ongoing Uncertainty,2.3,40.0
+2026-01-01,Bangladesh,Diesel,11.7,42.84,60.72,2.09,Ongoing Uncertainty,1.6,32.0
+2026-01-01,Bangladesh,Jet Fuel,6.6,41.18,57.39,1.93,Ongoing Uncertainty,1.6,38.0
+2026-01-01,Bangladesh,Fuel Oil,4.2,40.12,59.53,1.69,Ongoing Uncertainty,2.1,45.0
+2026-01-01,Taiwan,Crude Oil,513.1,76.78,24.58,3.17,Ongoing Uncertainty,3.9,40.0
+2026-01-01,Taiwan,LNG,155.8,75.19,27.59,3.54,Ongoing Uncertainty,3.3,55.0
+2026-01-01,Taiwan,LPG,51.8,74.77,28.95,3.82,Ongoing Uncertainty,3.1,36.0
+2026-01-01,Taiwan,Diesel,63.1,78.21,24.62,3.34,Ongoing Uncertainty,3.8,47.0
+2026-01-01,Taiwan,Jet Fuel,41.8,77.37,25.93,3.57,Ongoing Uncertainty,3.4,46.0
+2026-01-01,Taiwan,Fuel Oil,25.8,74.01,28.15,3.19,Ongoing Uncertainty,3.1,34.0
+2026-01-01,Singapore,Crude Oil,751.9,80.72,21.12,3.7,Ongoing Uncertainty,4.0,34.0
+2026-01-01,Singapore,LNG,225.8,81.45,19.85,3.37,Ongoing Uncertainty,3.8,40.0
+2026-01-01,Singapore,LPG,77.3,79.24,22.7,3.52,Ongoing Uncertainty,3.9,31.0
+2026-01-01,Singapore,Diesel,106.8,76.45,25.61,3.19,Ongoing Uncertainty,3.8,65.0
+2026-01-01,Singapore,Jet Fuel,62.3,75.87,26.08,3.18,Ongoing Uncertainty,3.5,33.0
+2026-01-01,Singapore,Fuel Oil,35.9,81.67,19.84,3.22,Ongoing Uncertainty,4.1,42.0
+2026-01-01,New Zealand,Crude Oil,79.3,26.73,57.5,1.16,Ongoing Uncertainty,1.2,52.0
+2026-01-01,New Zealand,LNG,23.0,28.65,61.02,1.24,Ongoing Uncertainty,1.6,27.0
+2026-01-01,New Zealand,LPG,8.7,27.76,58.33,1.22,Ongoing Uncertainty,1.6,33.0
+2026-01-01,New Zealand,Diesel,11.6,27.92,60.53,1.34,Ongoing Uncertainty,1.0,33.0
+2026-01-01,New Zealand,Jet Fuel,6.4,27.37,61.16,1.25,Ongoing Uncertainty,0.8,29.0
+2026-01-01,New Zealand,Fuel Oil,3.8,28.51,62.82,1.19,Ongoing Uncertainty,1.4,34.0
+2026-01-01,Sri Lanka,Crude Oil,44.0,87.76,14.9,3.95,Ongoing Uncertainty,4.1,44.0
+2026-01-01,Sri Lanka,LNG,13.6,90.96,10.92,3.77,Ongoing Uncertainty,4.0,35.0
+2026-01-01,Sri Lanka,LPG,4.6,87.95,13.65,4.09,Ongoing Uncertainty,4.2,41.0
+2026-01-01,Sri Lanka,Diesel,6.5,85.67,16.21,4.15,Ongoing Uncertainty,3.7,30.0
+2026-01-01,Sri Lanka,Jet Fuel,3.6,90.97,11.27,4.31,Ongoing Uncertainty,3.9,31.0
+2026-01-01,Sri Lanka,Fuel Oil,2.3,85.83,15.92,4.07,Ongoing Uncertainty,4.4,36.0
+2026-01-01,Myanmar,Crude Oil,40.0,34.23,56.45,1.49,Ongoing Uncertainty,2.1,42.0
+2026-01-01,Myanmar,LNG,12.0,33.2,62.29,1.75,Ongoing Uncertainty,1.3,33.0
+2026-01-01,Myanmar,LPG,4.0,35.14,63.48,1.71,Ongoing Uncertainty,1.6,33.0
+2026-01-01,Myanmar,Diesel,5.2,33.7,62.14,1.55,Ongoing Uncertainty,1.1,41.0
+2026-01-01,Myanmar,Jet Fuel,3.2,35.43,57.16,1.53,Ongoing Uncertainty,2.1,40.0
+2026-01-01,Myanmar,Fuel Oil,1.9,33.24,63.36,1.65,Ongoing Uncertainty,1.1,44.0
+2026-01-01,Cambodia,Crude Oil,25.9,40.82,58.71,1.85,Ongoing Uncertainty,1.5,60.0
+2026-01-01,Cambodia,LNG,8.5,38.9,57.7,1.95,Ongoing Uncertainty,1.7,36.0
+2026-01-01,Cambodia,LPG,2.7,40.09,63.01,1.95,Ongoing Uncertainty,1.8,26.0
+2026-01-01,Cambodia,Diesel,3.4,39.11,62.81,1.86,Ongoing Uncertainty,2.2,30.0
+2026-01-01,Cambodia,Jet Fuel,2.2,39.55,59.57,1.68,Ongoing Uncertainty,1.6,33.0
+2026-01-01,Cambodia,Fuel Oil,1.3,39.58,62.98,1.72,Ongoing Uncertainty,2.2,41.0
+2026-01-01,Laos,Crude Oil,9.0,10.21,62.26,0.49,Ongoing Uncertainty,0.3,53.0
+2026-01-01,Laos,LNG,2.8,9.89,62.24,0.46,Ongoing Uncertainty,0.1,31.0
+2026-01-01,Laos,LPG,0.9,9.48,59.57,0.46,Ongoing Uncertainty,0.5,18.0
+2026-01-01,Laos,Diesel,1.2,10.11,62.83,0.43,Ongoing Uncertainty,0.6,39.0
+2026-01-01,Laos,Jet Fuel,0.8,9.9,58.81,0.46,Ongoing Uncertainty,0.5,22.0
+2026-01-01,Laos,Fuel Oil,0.5,9.96,59.85,0.47,Ongoing Uncertainty,0.1,38.0
+2026-01-01,Mongolia,Crude Oil,15.9,4.92,58.71,0.2,Ongoing Uncertainty,0.4,54.0
+2026-01-01,Mongolia,LNG,4.7,5.11,59.7,0.24,Ongoing Uncertainty,-0.3,35.0
+2026-01-01,Mongolia,LPG,1.5,5.06,57.8,0.23,Ongoing Uncertainty,0.0,42.0
+2026-01-01,Mongolia,Diesel,2.0,4.81,61.98,0.24,Ongoing Uncertainty,0.4,34.0
+2026-01-01,Mongolia,Jet Fuel,1.3,4.95,58.17,0.21,Ongoing Uncertainty,0.6,39.0
+2026-01-01,Mongolia,Fuel Oil,0.7,4.87,60.2,0.2,Ongoing Uncertainty,0.3,37.0
+2026-02-01,China,Crude Oil,6879.4,44.53,56.42,2.0,Ongoing Uncertainty,1.8,98.0
+2026-02-01,China,LNG,1826.1,43.51,60.93,1.76,Ongoing Uncertainty,1.6,95.0
+2026-02-01,China,LPG,681.8,42.02,60.53,1.97,Ongoing Uncertainty,2.3,93.0
+2026-02-01,China,Diesel,839.9,42.24,61.19,2.12,Ongoing Uncertainty,2.3,78.0
+2026-02-01,China,Jet Fuel,528.1,42.26,58.98,1.75,Ongoing Uncertainty,2.1,96.0
+2026-02-01,China,Fuel Oil,325.2,43.79,60.45,2.05,Ongoing Uncertainty,1.6,76.0
+2026-02-01,India,Crude Oil,2878.8,58.86,41.95,2.7,Ongoing Uncertainty,2.8,61.0
+2026-02-01,India,LNG,879.3,59.3,40.52,3.08,Ongoing Uncertainty,2.4,54.0
+2026-02-01,India,LPG,284.6,59.65,44.63,2.79,Ongoing Uncertainty,2.4,77.0
+2026-02-01,India,Diesel,382.2,61.95,41.48,2.88,Ongoing Uncertainty,2.8,49.0
+2026-02-01,India,Jet Fuel,232.3,60.37,44.52,2.53,Ongoing Uncertainty,2.9,55.0
+2026-02-01,India,Fuel Oil,132.9,61.98,42.6,2.95,Ongoing Uncertainty,3.1,68.0
+2026-02-01,Japan,Crude Oil,1853.6,84.41,18.37,3.55,Ongoing Uncertainty,4.2,228.0
+2026-02-01,Japan,LNG,560.8,88.55,13.48,3.95,Ongoing Uncertainty,3.9,233.0
+2026-02-01,Japan,LPG,191.0,84.32,18.75,3.81,Ongoing Uncertainty,3.9,231.0
+2026-02-01,Japan,Diesel,250.4,88.04,14.17,3.99,Ongoing Uncertainty,4.0,217.0
+2026-02-01,Japan,Jet Fuel,139.6,87.68,14.27,3.79,Ongoing Uncertainty,4.0,228.0
+2026-02-01,Japan,Fuel Oil,94.7,86.79,15.96,3.86,Ongoing Uncertainty,4.2,239.0
+2026-02-01,South Korea,Crude Oil,1552.0,71.04,30.77,3.2,Ongoing Uncertainty,3.0,180.0
+2026-02-01,South Korea,LNG,458.8,69.76,33.16,3.01,Ongoing Uncertainty,3.4,181.0
+2026-02-01,South Korea,LPG,161.3,70.74,29.97,3.15,Ongoing Uncertainty,3.3,183.0
+2026-02-01,South Korea,Diesel,209.0,70.78,31.53,3.26,Ongoing Uncertainty,3.5,184.0
+2026-02-01,South Korea,Jet Fuel,126.6,69.46,34.4,2.99,Ongoing Uncertainty,3.1,178.0
+2026-02-01,South Korea,Fuel Oil,82.6,69.56,32.53,3.27,Ongoing Uncertainty,3.4,170.0
+2026-02-01,Australia,Crude Oil,378.9,14.91,58.82,0.6,Ongoing Uncertainty,0.9,57.0
+2026-02-01,Australia,LNG,110.1,15.02,61.47,0.66,Ongoing Uncertainty,0.7,54.0
+2026-02-01,Australia,LPG,35.3,14.27,60.16,0.75,Ongoing Uncertainty,0.9,52.0
+2026-02-01,Australia,Diesel,46.8,15.2,58.59,0.72,Ongoing Uncertainty,1.2,73.0
+2026-02-01,Australia,Jet Fuel,33.5,14.71,62.37,0.65,Ongoing Uncertainty,0.9,47.0
+2026-02-01,Australia,Fuel Oil,17.5,15.26,60.34,0.71,Ongoing Uncertainty,0.4,68.0
+2026-02-01,Indonesia,Crude Oil,479.9,18.41,59.82,0.86,Ongoing Uncertainty,0.9,28.0
+2026-02-01,Indonesia,LNG,141.9,17.05,62.44,0.86,Ongoing Uncertainty,0.8,47.0
+2026-02-01,Indonesia,LPG,47.1,17.52,62.72,0.84,Ongoing Uncertainty,0.9,47.0
+2026-02-01,Indonesia,Diesel,64.2,17.24,60.28,0.84,Ongoing Uncertainty,1.1,23.0
+2026-02-01,Indonesia,Jet Fuel,45.2,18.33,62.9,0.84,Ongoing Uncertainty,0.3,23.0
+2026-02-01,Indonesia,Fuel Oil,23.3,17.56,60.05,0.81,Ongoing Uncertainty,1.2,36.0
+2026-02-01,Thailand,Crude Oil,570.3,52.18,51.06,2.57,Ongoing Uncertainty,2.5,41.0
+2026-02-01,Thailand,LNG,158.6,52.24,52.15,2.34,Ongoing Uncertainty,2.4,52.0
+2026-02-01,Thailand,LPG,51.5,55.28,49.32,2.21,Ongoing Uncertainty,2.3,31.0
+2026-02-01,Thailand,Diesel,72.2,53.82,50.28,2.72,Ongoing Uncertainty,2.7,44.0
+2026-02-01,Thailand,Jet Fuel,44.0,52.12,49.09,2.25,Ongoing Uncertainty,2.4,44.0
+2026-02-01,Thailand,Fuel Oil,27.4,53.04,46.57,2.22,Ongoing Uncertainty,2.4,32.0
+2026-02-01,Vietnam,Crude Oil,229.1,21.62,63.57,0.89,Ongoing Uncertainty,0.6,49.0
+2026-02-01,Vietnam,LNG,72.4,21.69,60.23,0.95,Ongoing Uncertainty,0.8,36.0
+2026-02-01,Vietnam,LPG,22.4,21.01,61.94,0.9,Ongoing Uncertainty,1.0,38.0
+2026-02-01,Vietnam,Diesel,31.5,22.47,57.26,0.96,Ongoing Uncertainty,1.4,51.0
+2026-02-01,Vietnam,Jet Fuel,20.6,21.62,60.88,1.07,Ongoing Uncertainty,0.6,59.0
+2026-02-01,Vietnam,Fuel Oil,12.0,21.15,59.77,0.98,Ongoing Uncertainty,1.2,46.0
+2026-02-01,Philippines,Crude Oil,173.9,58.06,46.45,2.63,Ongoing Uncertainty,3.1,47.0
+2026-02-01,Philippines,LNG,55.2,58.45,45.34,2.45,Ongoing Uncertainty,3.2,42.0
+2026-02-01,Philippines,LPG,16.7,57.1,46.16,2.82,Ongoing Uncertainty,3.2,28.0
+2026-02-01,Philippines,Diesel,24.9,61.43,39.11,2.79,Ongoing Uncertainty,2.9,52.0
+2026-02-01,Philippines,Jet Fuel,14.6,57.77,43.43,2.74,Ongoing Uncertainty,2.7,47.0
+2026-02-01,Philippines,Fuel Oil,9.4,57.26,45.92,2.74,Ongoing Uncertainty,2.9,39.0
+2026-02-01,Malaysia,Crude Oil,239.0,11.53,57.39,0.5,Ongoing Uncertainty,0.3,54.0
+2026-02-01,Malaysia,LNG,72.5,11.96,62.83,0.59,Ongoing Uncertainty,0.4,33.0
+2026-02-01,Malaysia,LPG,26.3,11.8,57.61,0.57,Ongoing Uncertainty,0.5,31.0
+2026-02-01,Malaysia,Diesel,35.5,12.22,62.83,0.58,Ongoing Uncertainty,1.0,37.0
+2026-02-01,Malaysia,Jet Fuel,20.1,12.15,60.16,0.57,Ongoing Uncertainty,0.7,43.0
+2026-02-01,Malaysia,Fuel Oil,11.8,11.84,62.44,0.51,Ongoing Uncertainty,1.0,43.0
+2026-02-01,Pakistan,Crude Oil,278.6,76.41,25.05,3.59,Ongoing Uncertainty,3.6,55.0
+2026-02-01,Pakistan,LNG,79.3,76.49,26.11,3.26,Ongoing Uncertainty,2.9,43.0
+2026-02-01,Pakistan,LPG,29.5,75.8,27.06,3.03,Ongoing Uncertainty,3.8,39.0
+2026-02-01,Pakistan,Diesel,34.8,75.64,25.3,3.04,Ongoing Uncertainty,3.4,35.0
+2026-02-01,Pakistan,Jet Fuel,23.4,73.53,30.23,3.1,Ongoing Uncertainty,3.0,47.0
+2026-02-01,Pakistan,Fuel Oil,14.4,71.19,30.07,3.35,Ongoing Uncertainty,3.1,26.0
+2026-02-01,Bangladesh,Crude Oil,85.1,41.29,61.32,1.78,Ongoing Uncertainty,2.1,27.0
+2026-02-01,Bangladesh,LNG,25.3,40.08,61.77,1.89,Ongoing Uncertainty,2.3,44.0
+2026-02-01,Bangladesh,LPG,7.7,40.37,59.94,1.89,Ongoing Uncertainty,1.7,52.0
+2026-02-01,Bangladesh,Diesel,11.7,42.5,61.26,1.78,Ongoing Uncertainty,1.6,34.0
+2026-02-01,Bangladesh,Jet Fuel,6.9,41.29,58.94,1.69,Ongoing Uncertainty,2.3,26.0
+2026-02-01,Bangladesh,Fuel Oil,4.1,42.38,61.36,1.79,Ongoing Uncertainty,2.3,33.0
+2026-02-01,Taiwan,Crude Oil,478.8,78.47,22.58,3.58,Ongoing Uncertainty,3.1,24.0
+2026-02-01,Taiwan,LNG,163.6,75.88,27.88,3.69,Ongoing Uncertainty,3.9,46.0
+2026-02-01,Taiwan,LPG,51.8,75.78,25.67,3.72,Ongoing Uncertainty,3.5,37.0
+2026-02-01,Taiwan,Diesel,69.4,74.9,28.1,3.87,Ongoing Uncertainty,3.1,47.0
+2026-02-01,Taiwan,Jet Fuel,44.4,74.42,27.55,3.56,Ongoing Uncertainty,3.7,47.0
+2026-02-01,Taiwan,Fuel Oil,25.1,76.43,24.83,3.26,Ongoing Uncertainty,3.8,30.0
+2026-02-01,Singapore,Crude Oil,767.5,79.14,23.82,3.84,Ongoing Uncertainty,3.9,44.0
+2026-02-01,Singapore,LNG,234.5,78.12,23.97,3.7,Ongoing Uncertainty,3.6,42.0
+2026-02-01,Singapore,LPG,71.7,81.68,20.2,3.56,Ongoing Uncertainty,3.4,48.0
+2026-02-01,Singapore,Diesel,98.7,78.95,22.32,3.9,Ongoing Uncertainty,3.2,40.0
+2026-02-01,Singapore,Jet Fuel,65.1,77.91,23.08,3.43,Ongoing Uncertainty,3.5,34.0
+2026-02-01,Singapore,Fuel Oil,37.7,77.59,23.45,3.78,Ongoing Uncertainty,3.8,40.0
+2026-02-01,New Zealand,Crude Oil,85.2,27.29,62.47,1.12,Ongoing Uncertainty,1.1,48.0
+2026-02-01,New Zealand,LNG,25.5,28.65,56.74,1.39,Ongoing Uncertainty,1.7,39.0
+2026-02-01,New Zealand,LPG,8.6,27.73,59.06,1.12,Ongoing Uncertainty,1.7,48.0
+2026-02-01,New Zealand,Diesel,10.5,27.97,61.8,1.29,Ongoing Uncertainty,1.5,35.0
+2026-02-01,New Zealand,Jet Fuel,7.2,27.0,62.45,1.15,Ongoing Uncertainty,1.8,40.0
+2026-02-01,New Zealand,Fuel Oil,4.1,26.63,60.78,1.19,Ongoing Uncertainty,0.9,50.0
+2026-02-01,Sri Lanka,Crude Oil,44.9,89.69,12.49,4.05,Ongoing Uncertainty,4.5,33.0
+2026-02-01,Sri Lanka,LNG,14.2,91.4,10.56,4.53,Ongoing Uncertainty,4.0,37.0
+2026-02-01,Sri Lanka,LPG,4.7,90.94,11.65,4.32,Ongoing Uncertainty,4.1,34.0
+2026-02-01,Sri Lanka,Diesel,5.7,85.76,16.91,4.01,Ongoing Uncertainty,4.6,52.0
+2026-02-01,Sri Lanka,Jet Fuel,3.8,91.29,11.71,3.66,Ongoing Uncertainty,4.6,39.0
+2026-02-01,Sri Lanka,Fuel Oil,2.3,88.52,13.44,4.4,Ongoing Uncertainty,4.2,33.0
+2026-02-01,Myanmar,Crude Oil,41.7,34.75,62.6,1.69,Ongoing Uncertainty,1.9,39.0
+2026-02-01,Myanmar,LNG,12.1,34.68,58.57,1.75,Ongoing Uncertainty,2.0,47.0
+2026-02-01,Myanmar,LPG,4.4,35.49,57.32,1.65,Ongoing Uncertainty,1.7,42.0
+2026-02-01,Myanmar,Diesel,5.6,35.69,56.98,1.6,Ongoing Uncertainty,1.2,44.0
+2026-02-01,Myanmar,Jet Fuel,3.2,35.43,58.96,1.41,Ongoing Uncertainty,1.7,40.0
+2026-02-01,Myanmar,Fuel Oil,2.0,33.49,60.22,1.48,Ongoing Uncertainty,1.1,27.0
+2026-02-01,Cambodia,Crude Oil,28.2,39.24,62.25,1.61,Ongoing Uncertainty,1.5,54.0
+2026-02-01,Cambodia,LNG,7.3,40.54,59.81,1.68,Ongoing Uncertainty,1.7,44.0
+2026-02-01,Cambodia,LPG,2.7,40.46,62.05,1.59,Ongoing Uncertainty,1.7,38.0
+2026-02-01,Cambodia,Diesel,3.3,40.86,58.97,1.9,Ongoing Uncertainty,2.0,32.0
+2026-02-01,Cambodia,Jet Fuel,2.1,38.55,62.11,1.98,Ongoing Uncertainty,1.9,40.0
+2026-02-01,Cambodia,Fuel Oil,1.3,39.3,58.11,1.62,Ongoing Uncertainty,1.8,47.0
+2026-02-01,Laos,Crude Oil,9.1,9.49,57.05,0.42,Ongoing Uncertainty,0.3,56.0
+2026-02-01,Laos,LNG,2.5,9.89,58.56,0.46,Ongoing Uncertainty,0.9,42.0
+2026-02-01,Laos,LPG,0.9,9.58,63.25,0.5,Ongoing Uncertainty,0.7,54.0
+2026-02-01,Laos,Diesel,1.1,10.13,63.46,0.48,Ongoing Uncertainty,0.2,49.0
+2026-02-01,Laos,Jet Fuel,0.7,9.82,56.52,0.47,Ongoing Uncertainty,0.7,40.0
+2026-02-01,Laos,Fuel Oil,0.5,9.99,61.82,0.43,Ongoing Uncertainty,0.1,51.0
+2026-02-01,Mongolia,Crude Oil,14.1,4.9,62.29,0.24,Ongoing Uncertainty,-0.2,29.0
+2026-02-01,Mongolia,LNG,4.3,4.77,57.11,0.24,Ongoing Uncertainty,0.4,35.0
+2026-02-01,Mongolia,LPG,1.5,4.73,56.98,0.24,Ongoing Uncertainty,-0.2,42.0
+2026-02-01,Mongolia,Diesel,2.1,4.9,56.43,0.25,Ongoing Uncertainty,0.7,40.0
+2026-02-01,Mongolia,Jet Fuel,1.2,4.77,57.74,0.24,Ongoing Uncertainty,0.6,36.0
+2026-02-01,Mongolia,Fuel Oil,0.8,5.05,60.54,0.23,Ongoing Uncertainty,-0.1,46.0
+2026-03-01,China,Crude Oil,6964.2,43.03,62.65,2.14,Ongoing Uncertainty,2.4,93.0
+2026-03-01,China,LNG,2109.1,44.71,58.84,1.84,Ongoing Uncertainty,1.5,92.0
+2026-03-01,China,LPG,630.8,44.35,57.66,1.83,Ongoing Uncertainty,1.7,89.0
+2026-03-01,China,Diesel,832.1,44.63,56.49,1.96,Ongoing Uncertainty,1.9,89.0
+2026-03-01,China,Jet Fuel,519.0,42.73,59.27,1.83,Ongoing Uncertainty,2.1,88.0
+2026-03-01,China,Fuel Oil,302.1,41.99,60.93,2.05,Ongoing Uncertainty,2.1,79.0
+2026-03-01,India,Crude Oil,2706.4,62.21,40.0,2.85,Ongoing Uncertainty,2.9,59.0
+2026-03-01,India,LNG,839.3,62.77,39.34,2.69,Ongoing Uncertainty,2.8,56.0
+2026-03-01,India,LPG,271.6,62.63,41.25,2.98,Ongoing Uncertainty,2.4,54.0
+2026-03-01,India,Diesel,342.9,61.86,39.73,3.11,Ongoing Uncertainty,2.8,69.0
+2026-03-01,India,Jet Fuel,240.7,61.21,39.63,2.93,Ongoing Uncertainty,3.2,68.0
+2026-03-01,India,Fuel Oil,129.2,60.26,43.44,2.8,Ongoing Uncertainty,3.0,67.0
+2026-03-01,Japan,Crude Oil,1699.0,89.21,12.87,3.52,Ongoing Uncertainty,4.4,227.0
+2026-03-01,Japan,LNG,564.8,85.91,16.35,3.51,Ongoing Uncertainty,4.5,233.0
+2026-03-01,Japan,LPG,189.5,88.52,13.37,3.7,Ongoing Uncertainty,3.7,231.0
+2026-03-01,Japan,Diesel,252.4,85.96,17.39,4.33,Ongoing Uncertainty,4.2,231.0
+2026-03-01,Japan,Jet Fuel,153.0,85.96,16.43,4.32,Ongoing Uncertainty,3.7,229.0
+2026-03-01,Japan,Fuel Oil,83.7,85.56,17.4,4.12,Ongoing Uncertainty,4.0,226.0
+2026-03-01,South Korea,Crude Oil,1564.7,70.37,30.45,3.1,Ongoing Uncertainty,3.3,187.0
+2026-03-01,South Korea,LNG,493.0,71.63,29.53,3.2,Ongoing Uncertainty,3.2,182.0
+2026-03-01,South Korea,LPG,158.8,69.01,34.21,3.05,Ongoing Uncertainty,3.7,166.0
+2026-03-01,South Korea,Diesel,201.0,71.81,30.73,2.92,Ongoing Uncertainty,3.5,193.0
+2026-03-01,South Korea,Jet Fuel,123.9,69.63,32.98,2.89,Ongoing Uncertainty,3.6,175.0
+2026-03-01,South Korea,Fuel Oil,80.2,72.88,28.31,2.88,Ongoing Uncertainty,3.2,191.0
+2026-03-01,Australia,Crude Oil,383.6,14.92,59.73,0.75,Ongoing Uncertainty,0.2,55.0
+2026-03-01,Australia,LNG,121.6,14.63,60.74,0.71,Ongoing Uncertainty,0.5,43.0
+2026-03-01,Australia,LPG,36.6,15.24,58.45,0.71,Ongoing Uncertainty,0.7,63.0
+2026-03-01,Australia,Diesel,52.4,15.24,62.98,0.62,Ongoing Uncertainty,0.9,38.0
+2026-03-01,Australia,Jet Fuel,30.0,15.02,57.98,0.72,Ongoing Uncertainty,0.7,58.0
+2026-03-01,Australia,Fuel Oil,17.7,14.56,57.94,0.67,Ongoing Uncertainty,0.4,50.0
+2026-03-01,Indonesia,Crude Oil,496.9,18.1,62.77,0.76,Ongoing Uncertainty,1.0,38.0
+2026-03-01,Indonesia,LNG,159.2,17.28,59.45,0.73,Ongoing Uncertainty,1.0,23.0
+2026-03-01,Indonesia,LPG,50.9,18.25,61.19,0.89,Ongoing Uncertainty,1.3,32.0
+2026-03-01,Indonesia,Diesel,67.4,17.49,61.56,0.84,Ongoing Uncertainty,0.6,57.0
+2026-03-01,Indonesia,Jet Fuel,43.7,17.11,60.07,0.8,Ongoing Uncertainty,1.0,30.0
+2026-03-01,Indonesia,Fuel Oil,25.1,17.86,61.31,0.87,Ongoing Uncertainty,1.0,32.0
+2026-03-01,Thailand,Crude Oil,572.9,53.52,50.55,2.39,Ongoing Uncertainty,2.7,48.0
+2026-03-01,Thailand,LNG,162.1,54.58,46.92,2.3,Ongoing Uncertainty,2.9,38.0
+2026-03-01,Thailand,LPG,52.1,52.58,48.29,2.5,Ongoing Uncertainty,2.1,35.0
+2026-03-01,Thailand,Diesel,76.7,52.97,50.99,2.7,Ongoing Uncertainty,2.8,43.0
+2026-03-01,Thailand,Jet Fuel,48.0,53.68,49.54,2.47,Ongoing Uncertainty,2.5,50.0
+2026-03-01,Thailand,Fuel Oil,28.6,52.75,47.62,2.56,Ongoing Uncertainty,2.7,40.0
+2026-03-01,Vietnam,Crude Oil,214.3,20.92,58.91,0.94,Ongoing Uncertainty,1.2,32.0
+2026-03-01,Vietnam,LNG,68.9,22.32,61.37,0.94,Ongoing Uncertainty,1.3,34.0
+2026-03-01,Vietnam,LPG,22.7,22.25,61.97,1.08,Ongoing Uncertainty,1.3,39.0
+2026-03-01,Vietnam,Diesel,32.3,22.44,59.52,1.06,Ongoing Uncertainty,0.6,37.0
+2026-03-01,Vietnam,Jet Fuel,18.7,22.44,57.66,0.88,Ongoing Uncertainty,0.6,36.0
+2026-03-01,Vietnam,Fuel Oil,11.1,21.42,58.83,1.03,Ongoing Uncertainty,1.4,38.0
+2026-03-01,Philippines,Crude Oil,179.1,59.9,40.31,2.47,Ongoing Uncertainty,2.9,40.0
+2026-03-01,Philippines,LNG,54.9,57.3,46.23,2.9,Ongoing Uncertainty,2.4,36.0
+2026-03-01,Philippines,LPG,18.2,59.24,45.16,2.82,Ongoing Uncertainty,2.3,50.0
+2026-03-01,Philippines,Diesel,23.9,57.57,42.58,2.94,Ongoing Uncertainty,3.0,33.0
+2026-03-01,Philippines,Jet Fuel,14.7,56.8,42.88,2.63,Ongoing Uncertainty,3.0,23.0
+2026-03-01,Philippines,Fuel Oil,9.6,58.54,42.25,2.77,Ongoing Uncertainty,3.0,41.0
+2026-03-01,Malaysia,Crude Oil,262.0,12.26,60.77,0.6,Ongoing Uncertainty,0.8,51.0
+2026-03-01,Malaysia,LNG,80.4,11.72,59.16,0.55,Ongoing Uncertainty,0.6,42.0
+2026-03-01,Malaysia,LPG,24.8,12.01,58.4,0.51,Ongoing Uncertainty,0.3,38.0
+2026-03-01,Malaysia,Diesel,33.4,11.98,57.01,0.53,Ongoing Uncertainty,0.1,32.0
+2026-03-01,Malaysia,Jet Fuel,21.4,12.02,57.05,0.57,Ongoing Uncertainty,0.1,56.0
+2026-03-01,Malaysia,Fuel Oil,11.7,11.6,57.11,0.55,Ongoing Uncertainty,0.6,36.0
+2026-03-01,Pakistan,Crude Oil,266.3,75.67,25.73,3.08,Ongoing Uncertainty,3.4,40.0
+2026-03-01,Pakistan,LNG,89.2,71.58,31.6,3.52,Ongoing Uncertainty,3.4,37.0
+2026-03-01,Pakistan,LPG,25.9,75.81,27.74,3.11,Ongoing Uncertainty,3.8,33.0
+2026-03-01,Pakistan,Diesel,35.7,74.48,26.32,3.43,Ongoing Uncertainty,3.8,43.0
+2026-03-01,Pakistan,Jet Fuel,22.0,71.92,31.47,3.37,Ongoing Uncertainty,3.6,51.0
+2026-03-01,Pakistan,Fuel Oil,13.9,75.63,26.19,3.06,Ongoing Uncertainty,3.4,43.0
+2026-03-01,Bangladesh,Crude Oil,82.0,41.16,57.84,1.99,Ongoing Uncertainty,2.1,35.0
+2026-03-01,Bangladesh,LNG,25.1,40.08,62.4,2.08,Ongoing Uncertainty,1.8,43.0
+2026-03-01,Bangladesh,LPG,8.6,41.62,58.19,1.79,Ongoing Uncertainty,2.4,29.0
+2026-03-01,Bangladesh,Diesel,10.8,40.51,59.9,1.96,Ongoing Uncertainty,2.3,24.0
+2026-03-01,Bangladesh,Jet Fuel,6.4,41.8,61.82,1.98,Ongoing Uncertainty,2.2,39.0
+2026-03-01,Bangladesh,Fuel Oil,4.3,39.77,58.14,1.92,Ongoing Uncertainty,1.7,38.0
+2026-03-01,Taiwan,Crude Oil,507.8,79.33,24.08,3.45,Ongoing Uncertainty,3.1,41.0
+2026-03-01,Taiwan,LNG,144.4,76.16,25.31,3.44,Ongoing Uncertainty,3.2,42.0
+2026-03-01,Taiwan,LPG,49.3,79.44,21.8,3.72,Ongoing Uncertainty,3.5,43.0
+2026-03-01,Taiwan,Diesel,68.8,74.26,27.05,3.56,Ongoing Uncertainty,3.7,38.0
+2026-03-01,Taiwan,Jet Fuel,39.0,74.46,29.36,3.79,Ongoing Uncertainty,3.9,41.0
+2026-03-01,Taiwan,Fuel Oil,23.9,75.73,27.59,3.63,Ongoing Uncertainty,3.9,45.0
+2026-03-01,Singapore,Crude Oil,788.2,76.36,26.7,3.76,Ongoing Uncertainty,3.6,32.0
+2026-03-01,Singapore,LNG,210.1,80.06,22.73,3.53,Ongoing Uncertainty,3.6,32.0
+2026-03-01,Singapore,LPG,72.3,81.38,22.22,3.34,Ongoing Uncertainty,3.4,42.0
+2026-03-01,Singapore,Diesel,100.2,79.52,23.48,3.86,Ongoing Uncertainty,3.2,47.0
+2026-03-01,Singapore,Jet Fuel,66.4,77.04,24.34,3.21,Ongoing Uncertainty,4.1,37.0
+2026-03-01,Singapore,Fuel Oil,39.2,77.85,24.24,3.39,Ongoing Uncertainty,3.7,44.0
+2026-03-01,New Zealand,Crude Oil,89.0,28.6,58.82,1.4,Ongoing Uncertainty,1.7,44.0
+2026-03-01,New Zealand,LNG,23.7,27.95,62.48,1.33,Ongoing Uncertainty,1.7,50.0
+2026-03-01,New Zealand,LPG,8.4,28.55,57.0,1.15,Ongoing Uncertainty,1.0,23.0
+2026-03-01,New Zealand,Diesel,11.2,28.29,60.23,1.31,Ongoing Uncertainty,1.6,50.0
+2026-03-01,New Zealand,Jet Fuel,6.5,27.3,62.44,1.29,Ongoing Uncertainty,1.5,42.0
+2026-03-01,New Zealand,Fuel Oil,4.4,26.58,60.25,1.27,Ongoing Uncertainty,0.9,50.0
+2026-03-01,Sri Lanka,Crude Oil,44.1,91.69,10.76,4.5,Ongoing Uncertainty,4.2,36.0
+2026-03-01,Sri Lanka,LNG,13.4,88.09,14.05,3.63,Ongoing Uncertainty,3.8,44.0
+2026-03-01,Sri Lanka,LPG,4.8,85.75,16.87,3.79,Ongoing Uncertainty,3.8,47.0
+2026-03-01,Sri Lanka,Diesel,6.6,88.17,13.45,3.84,Ongoing Uncertainty,3.8,43.0
+2026-03-01,Sri Lanka,Jet Fuel,3.8,88.09,14.88,4.06,Ongoing Uncertainty,3.8,33.0
+2026-03-01,Sri Lanka,Fuel Oil,2.3,89.07,13.6,3.64,Ongoing Uncertainty,3.7,51.0
+2026-03-01,Myanmar,Crude Oil,43.2,34.53,62.84,1.76,Ongoing Uncertainty,1.9,43.0
+2026-03-01,Myanmar,LNG,12.1,33.72,57.49,1.39,Ongoing Uncertainty,2.0,33.0
+2026-03-01,Myanmar,LPG,3.9,35.78,60.63,1.71,Ongoing Uncertainty,1.4,44.0
+2026-03-01,Myanmar,Diesel,5.4,34.53,60.28,1.55,Ongoing Uncertainty,1.4,41.0
+2026-03-01,Myanmar,Jet Fuel,3.4,33.8,56.75,1.5,Ongoing Uncertainty,1.7,52.0
+2026-03-01,Myanmar,Fuel Oil,2.2,35.07,58.47,1.76,Ongoing Uncertainty,1.2,30.0
+2026-03-01,Cambodia,Crude Oil,28.3,38.36,56.68,1.61,Ongoing Uncertainty,1.7,48.0
+2026-03-01,Cambodia,LNG,7.9,40.79,60.93,1.78,Ongoing Uncertainty,2.1,31.0
+2026-03-01,Cambodia,LPG,2.7,38.24,56.63,1.71,Ongoing Uncertainty,2.0,45.0
+2026-03-01,Cambodia,Diesel,3.8,38.48,58.65,1.93,Ongoing Uncertainty,2.3,33.0
+2026-03-01,Cambodia,Jet Fuel,2.4,38.6,63.24,1.98,Ongoing Uncertainty,1.4,31.0
+2026-03-01,Cambodia,Fuel Oil,1.4,40.1,58.28,1.88,Ongoing Uncertainty,2.3,40.0
+2026-03-01,Laos,Crude Oil,8.6,10.23,58.05,0.45,Ongoing Uncertainty,0.7,39.0
+2026-03-01,Laos,LNG,2.7,9.79,56.87,0.42,Ongoing Uncertainty,0.6,22.0
+2026-03-01,Laos,LPG,0.8,9.84,58.81,0.43,Ongoing Uncertainty,0.7,30.0
+2026-03-01,Laos,Diesel,1.2,9.94,57.61,0.45,Ongoing Uncertainty,0.2,40.0
+2026-03-01,Laos,Jet Fuel,0.7,9.85,57.84,0.49,Ongoing Uncertainty,0.8,26.0
+2026-03-01,Laos,Fuel Oil,0.4,9.82,61.46,0.49,Ongoing Uncertainty,0.9,52.0
+2026-03-01,Mongolia,Crude Oil,14.0,5.07,61.2,0.25,Ongoing Uncertainty,0.2,55.0
+2026-03-01,Mongolia,LNG,4.6,4.94,57.27,0.23,Ongoing Uncertainty,0.2,44.0
+2026-03-01,Mongolia,LPG,1.5,4.87,57.71,0.22,Ongoing Uncertainty,-0.1,47.0
+2026-03-01,Mongolia,Diesel,2.0,5.06,56.67,0.21,Ongoing Uncertainty,-0.2,41.0
+2026-03-01,Mongolia,Jet Fuel,1.1,4.91,62.94,0.25,Ongoing Uncertainty,0.0,52.0
+2026-03-01,Mongolia,Fuel Oil,0.8,4.83,62.61,0.21,Ongoing Uncertainty,0.4,38.0

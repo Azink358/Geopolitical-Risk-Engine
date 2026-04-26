@@ -1,0 +1,88 @@
+facts:
+  - name: fact_energy_volatility
+    grain: [date_key, conflict_phase_key, commodity_key]
+    measures:
+      - price_value
+
+  - name: fact_maritime_costs
+    grain: [ date_key, route_key, vessel_type_key, conflict_phase_key ]
+    measures:
+      - freight_rate_usd
+      - war_risk_premium_pct
+      - hull_insurance_pct
+      - bunker_cost_usd
+      - transit_days
+      - reroute_days
+
+
+  - name: fact_shipping_disruptions
+    grain: [event_key, date_key, route_key, conflict_phase_key]
+    measures:
+      - incident_type
+      - severity_level
+      - vessel_type_key
+      - flag_state
+      - reroute_required
+      - delay_hours
+      - cargo_volume
+      - latitude
+      - longitude
+
+  - name: fact_strategic_responses
+    grain: [response_key, date_key, country_key, conflict_phase_key]
+    measures:
+      - response_category
+      - institution
+      - urgency_level
+      - implementation_status
+      - estimated_cost_usd
+      - effectiveness_score
+      - dependency_reduction_pct
+
+  - name: fact_supply_chain_impact
+    grain: [date_key, country_key, sector_key, conflict_phase_key]
+    measures:
+      - disruption_index
+      - gdp_impact_usd
+      - delivery_delay_days
+      - input_cost_increase_pct
+      - inventory_stress_score
+      - supplier_diversification_score
+
+  - name: fact_apac_dependency
+    grain: [date_key, country_key, fuel_type_key, conflict_phase_key]
+    measures:
+      - import_volume
+      - me_share_pct
+      - alt_source_pct
+      - price_premium_pct
+      - disruption_risk_score
+      - spr_days_cover
+
+dimensions:
+  - name: dim_country
+    attributes: [country_key, country_name, region]
+
+  - name: dim_sector
+    attributes: [sector_key, sector_name]
+
+  - name: dim_fuel_type
+    attributes: [fuel_type_key, fuel_type_name]
+
+  - name: dim_route
+    attributes: [route_key, route_name, region]
+
+  - name: dim_vessel_type
+    attributes: [vessel_type_key, vessel_type_name, capacity_class]
+
+  - name: dim_conflict_phase
+    attributes: [conflict_phase_key, phase_name, description]
+
+  - name: dim_commodity
+    attributes: [commodity_key, commodity_name, category]
+
+  - name: dim_response
+    attributes: [response_key, response_category, institution]
+
+  - name: dim_event
+    attributes: [event_key, incident_type, severity_level, route_key]
