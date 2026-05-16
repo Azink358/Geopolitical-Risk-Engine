@@ -1,88 +1,154 @@
+# Macro-Sentry Geopolitical Risk Engine
+# Schema-driven configuration and data model
+
+paths:
+  raw_data: data/raw/
+  processed_data: data/processed/
+  modeled_data: data/modeled/
+
+files:
+  price: energy_price_volatility.csv
+  shipping: maritime_insurance_freight.csv
+  disruptions: shipping_route_disruptions.csv
+  response: strategic_response_measures.csv
+  supply_chain: supply_chain_impact_by_country.csv
+  imports: apac_fuel_import_dependency.csv
+
+output:
+  dimensions: data/modeled/dimensions/
+  facts: data/modeled/facts/
+  features: data/modeled/features/
+
+logging:
+  level: INFO
+
+model:
+  dimensions:
+    - name: dim_country
+      attributes: [country_key, country, region]
+
+    - name: dim_date
+      attributes: [date_key, date, year, month, week]
+
+    - name: dim_sector
+      attributes: [sector_key, sector]
+
+    - name: dim_route
+      attributes: [route_key, route]
+
+    - name: dim_vessel_type
+      attributes: [vessel_type_key, vessel_type]
+
+    - name: dim_fuel_type
+      attributes: [fuel_type_key, fuel_type]
+
+    - name: dim_incident_type
+      attributes: [incident_type_key, incident_type]
+
+    - name: dim_severity
+      attributes: [severity_key, severity]
+
+    - name: dim_response_category
+      attributes: [response_category_key, response_category]
+
+    - name: dim_conflict_phase
+      attributes: [conflict_phase_key, conflict_phase]
+
+    - name: dim_flag_state
+      attributes: [flag_state_key, flag_state]
+
 facts:
-  - name: fact_energy_volatility
-    grain: [date_key, conflict_phase_key, commodity_key]
-    measures:
-      - price_value
-
-  - name: fact_maritime_costs
-    grain: [ date_key, route_key, vessel_type_key, conflict_phase_key ]
-    measures:
-      - freight_rate_usd
-      - war_risk_premium_pct
-      - hull_insurance_pct
-      - bunker_cost_usd
-      - transit_days
-      - reroute_days
-
-
-  - name: fact_shipping_disruptions
-    grain: [event_key, date_key, route_key, conflict_phase_key]
-    measures:
-      - incident_type
-      - severity_level
-      - vessel_type_key
-      - flag_state
-      - reroute_required
-      - delay_hours
-      - cargo_volume
-      - latitude
-      - longitude
-
-  - name: fact_strategic_responses
-    grain: [response_key, date_key, country_key, conflict_phase_key]
-    measures:
-      - response_category
-      - institution
-      - urgency_level
-      - implementation_status
-      - estimated_cost_usd
-      - effectiveness_score
-      - dependency_reduction_pct
-
-  - name: fact_supply_chain_impact
-    grain: [date_key, country_key, sector_key, conflict_phase_key]
-    measures:
-      - disruption_index
-      - gdp_impact_usd
-      - delivery_delay_days
+  - name: fact_supply_chain
+    grain: [country_key, date_key, sector_key, conflict_phase_key]
+    metrics:
+      - supply_chain_disruption_index
+      - estimated_gdp_impact_musd
+      - avg_delivery_delay_days
       - input_cost_increase_pct
       - inventory_stress_score
       - supplier_diversification_score
 
-  - name: fact_apac_dependency
-    grain: [date_key, country_key, fuel_type_key, conflict_phase_key]
-    measures:
-      - import_volume
+  - name: fact_imports
+    grain: [country_key, date_key, fuel_type_key,conflict_phase_key]
+    metrics:
+      - import_volume_kbpd
       - me_share_pct
-      - alt_source_pct
+      - alternative_source_pct
       - price_premium_pct
       - disruption_risk_score
       - spr_days_cover
 
-dimensions:
-  - name: dim_country
-    attributes: [country_key, country_name, region]
+  - name: fact_shipping
+    grain: [route_key, week, vessel_type_key,conflict_phase_key]
+    metrics:
+      - freight_rate_usd_day
+      - war_risk_premium_pct
+      - hull_insurance_pct_value
+      - bunker_cost_usd_mt
+      - transit_time_days
+      - rerouting_extra_days
 
-  - name: dim_sector
-    attributes: [sector_key, sector_name]
+  - name: fact_disruption
+    grain: [ event_id, conflict_phase_key, incident_type_key, date_key, flag_state_key, vessel_type_key ]
+    metrics:
+        - estimated_delay_hours
+        - cargo_volume_impacted_kt
+        - reroute_required
+        - lat
+        - lon
 
-  - name: dim_fuel_type
-    attributes: [fuel_type_key, fuel_type_name]
+  - name: fact_response
+    grain: [response_id,conflict_phase_key,country_key,response_category_key,date_key]
+    metrics:
+      - estimated_cost_musd
+      - effectiveness_score
+      - me_dependency_reduction_pct
 
-  - name: dim_route
-    attributes: [route_key, route_name, region]
+  - name: fact_price
+    grain: [date_key,conflict_phase_key]
+    metrics:
+      - brent_crude_usd_bbl
+      - wti_crude_usd_bbl
+      - dubai_crude_usd_bbl
+      - henry_hub_ng_usd_mmbtu
+      - jkm_lng_usd_mmbtu
+      - jet_fuel_usd_bbl
+      - coal_newcastle_usd_ton
+      - brent_wti_spread
+      - asian_premium_pct
+      - volatility_index
 
-  - name: dim_vessel_type
-    attributes: [vessel_type_key, vessel_type_name, capacity_class]
+features:
+  - name: final_feature_table
+    grain: [country_key, date_key, conflict_phase_key]
+    metrics:
+      # Supply chain metrics
+      - estimated_gdp_impact_musd
+      - avg_delivery_delay_days
+      - input_cost_increase_pct
+      - inventory_stress_score
+      - supplier_diversification_score
 
-  - name: dim_conflict_phase
-    attributes: [conflict_phase_key, phase_name, description]
+      # Imports metrics
+      - import_volume_kbpd
+      - me_share_pct
+      - alternative_source_pct
+      - price_premium_pct
+      - spr_days_cover
 
-  - name: dim_commodity
-    attributes: [commodity_key, commodity_name, category]
+      # Response metrics
+      - estimated_cost_musd
+      - effectiveness_score
+      - me_dependency_reduction_pct
 
-  - name: dim_response
-    attributes: [response_key, response_category, institution]
-
-  - name: dim_event
-    attributes: [event_key, incident_type, severity_level, route_key]
+      # Price metrics (aggregated indices)
+      - brent_crude_usd_bbl
+      - wti_crude_usd_bbl
+      - dubai_crude_usd_bbl
+      - henry_hub_ng_usd_mmbtu
+      - jkm_lng_usd_mmbtu
+      - jet_fuel_usd_bbl
+      - coal_newcastle_usd_ton
+      - brent_wti_spread
+      - asian_premium_pct
+      - volatility_index

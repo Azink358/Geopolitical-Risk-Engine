@@ -1,0 +1,9 @@
+vessel_type,vessel_type_key
+VLCC,1
+Suezmax,2
+Aframax,3
+LNG Carrier,4
+Bulk Carrier,5
+Product Tanker,6
+LPG Carrier,7
+Container Ship,8

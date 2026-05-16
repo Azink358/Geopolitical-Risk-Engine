@@ -1,0 +1,11 @@
+route,route_key,origin_lat,origin_lon,dest_lat,dest_lon
+Strait of Hormuz,1,25.2697,55.3075,25.2697,56.8333
+Bab el-Mandeb / Red Sea,2,11.6,43.1,12.7,45.0
+Suez Canal,3,31.265,32.301,29.966,32.55
+Strait of Malacca,4,1.264,103.822,2.99,101.36
+Cape of Good Hope (reroute),5,-33.9,18.4,-29.9,31.0
+Persian Gulf – East China Sea,6,25.2697,55.3075,31.23,121.47
+Persian Gulf – Bay of Bengal,7,25.2697,55.3075,13.0827,80.2707
+Persian Gulf – Sea of Japan,8,25.2697,55.3075,35.45,139.64
+Aden Gulf – Indian Ocean,9,12.8,45.0,6.93,79.85
+Arabian Sea – South China Sea,10,19.076,72.877,22.3,114.2

@@ -1,121 +1,152 @@
-import joblib
-import matplotlib.pyplot as plt
-import numpy as np
+# src/models/risk_predictor.py
+
+import os
+import logging
 import pandas as pd
 from xgboost import XGBRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import KFold, cross_val_score
 from sklearn.metrics import mean_squared_error, r2_score
+from src.database.db_manager import DBManager
+import numpy as np
 
-class GeopoliticalModel:
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+class RiskPredictor:
     """
-    GeopoliticalModel trains and evaluates an XGBoost Regressor
-    to predict geopolitical risk outcomes.
-
-    Methods:
-    --------
-    train(feature_matrix, target_values):
-        Train an XGBoost Regressor on the feature matrix.
-
-    evaluate(feature_matrix, true_values):
-        Return RMSE and R-Squared scores for model performance.
-
-    plot_feature_importance(feature_names):
-        Generate a bar plot of feature importances.
-
-    save_model(file_path):
-        Save the trained model to disk using Joblib.
-
-    load_model(file_path):
-        Load a trained model from disk using Joblib.
+    RiskPredictor trains and evaluates an XGBoost regression model
+    to estimate GDP impact from the final_feature_table.
     """
 
-    def __init__(self):
-        """Initialize the GeopoliticalModel with an XGBRegressor."""
+    def __init__(self, schema_path="schema.yaml", env_path=".env", use_db=True):
+        self.schema_path = schema_path
+        self.env_path = env_path
+        self.use_db = use_db
+        self.model = None
+
+    def load_features(self, csv_path="data/modeled/features/final_feature_table.csv"):
+        """Load features either from DB or CSV snapshot."""
+        if self.use_db:
+            db = DBManager(self.env_path)
+            df = db.load_table("final_feature_table")
+            logger.info("Loaded features from database.")
+        else:
+            df = pd.read_csv(csv_path)
+            logger.info(f"Loaded features from CSV: {csv_path}")
+
+        # enforce integer keys
+        for key in ["country_key", "date_key", "conflict_phase_key"]:
+            if key in df.columns:
+                df[key] = df[key].astype("Int64")
+
+        return df
+
+    @staticmethod
+    def preprocess(df):
+        """Prepare feature matrix and target."""
+        if "estimated_gdp_impact_musd" not in df.columns:
+            raise ValueError("Target column 'estimated_gdp_impact_musd' not found in features.")
+
+        y = df["estimated_gdp_impact_musd"]
+        x = df.drop(columns=["estimated_gdp_impact_musd"])
+
+        # one-hot encode categorical keys
+        x = pd.get_dummies(x, columns=["country_key", "conflict_phase_key"], drop_first=True)
+
+        logger.info("Preprocessing complete: features and target prepared.")
+        return x, y
+
+    def train(self, df, test_size=0.2, random_state=42):
+        """Train XGBoost regression model."""
+        x, y = self.preprocess(df)
+        x_train, x_test, y_train, y_test = train_test_split(
+            x, y, test_size=test_size, random_state=random_state
+        )
+
         self.model = XGBRegressor(
-            n_estimators=200,
+            n_estimators=500,
             learning_rate=0.05,
-            max_depth=5,
+            max_depth=6,
             subsample=0.8,
             colsample_bytree=0.8,
-            random_state=42
+            random_state=random_state
         )
-        self.is_trained = False
+        self.model.fit(x_train, y_train)
+        self.feature_names = x_train.columns
 
-    def train(self, feature_matrix: pd.DataFrame, target_values: pd.Series):
-        """
-        Train the XGBoost Regressor.
+        y_pred = self.model.predict(x_test)
 
-        Args:
-            feature_matrix (pd.DataFrame): Input features for training.
-            target_values (pd.Series): Target variable ('Supply_Chain_Disruption_Index').
-        """
-        self.model.fit(feature_matrix, target_values)
-        self.is_trained = True
-        return self.model
+        # ✅ Manual RMSE calculation (safe across all sklearn versions)
+        mse = mean_squared_error(y_test, y_pred)
+        rmse = mse ** 0.5
+        r2 = r2_score(y_test, y_pred)
 
-    def evaluate(self, feature_matrix: pd.DataFrame, true_values: pd.Series) -> dict:
-        """
-        Evaluate the model using RMSE and R-Squared metrics.
+        logger.info(f"Model trained. RMSE: {rmse:.2f}, R²: {r2:.2f}")
 
-        Args:
-            feature_matrix (pd.DataFrame): Input features for evaluation.
-            true_values (pd.Series): Ground truth target values.
+        # === Log top 10 most important features ===
+        importance = pd.Series(self.model.feature_importances_, index=x.columns)
+        top10 = importance.sort_values(ascending=False).head(10)
+        logger.info("Top 10 feature importances:")
+        for feature, score in top10.items():
+            logger.info(f"  {feature}: {score:.4f}")
 
-        Returns:
-            dict: Dictionary containing RMSE and R2 scores.
-        """
-        if not self.is_trained:
-            raise ValueError("Model must be trained before evaluation.")
+        return rmse, r2
 
-        # Predict target values using the trained model
-        predicted_values = self.model.predict(feature_matrix)
+    def cross_validate(self, df, n_splits=5, random_state=42):
+        """Run k-fold cross-validation to validate model stability."""
+        x, y = self.preprocess(df)
 
-        # Calculate evaluation metrics
-        root_mean_squared_error = np.sqrt(mean_squared_error(true_values, predicted_values))
-        r_squared_score = r2_score(true_values, predicted_values)
+        # Define k-fold splitter
+        kf = KFold(n_splits=n_splits, shuffle=True, random_state=random_state)
 
-        return {
-            "RMSE": root_mean_squared_error,
-            "R2": r_squared_score
-        }
+        # XGBoost regressor with same params
+        model = XGBRegressor(
+            n_estimators=500,
+            learning_rate=0.05,
+            max_depth=6,
+            subsample=0.8,
+            colsample_bytree=0.8,
+            random_state=random_state
+        )
 
-    def plot_feature_importance(self, feature_names: list):
-        """
-        Plot feature importance scores.
+        # Cross-validation scores
+        mse_scores = cross_val_score(model, x, y, cv=kf, scoring="neg_mean_squared_error")
+        r2_scores = cross_val_score(model, x, y, cv=kf, scoring="r2")
 
-        Args:
-            feature_names (list): Names of features in the matrix.
-        """
-        if not self.is_trained:
-            raise ValueError("Model must be trained before plotting feature importance.")
+        # Convert MSE to RMSE
+        rmse_scores = np.sqrt(-mse_scores)
 
-        importance_scores = self.model.feature_importances_
+        logger.info(f"Cross-validation ({n_splits}-fold):")
+        logger.info(f"  RMSE scores: {rmse_scores}")
+        logger.info(f"  Mean RMSE: {rmse_scores.mean():.2f}")
+        logger.info(f"  R² scores: {r2_scores}")
+        logger.info(f"  Mean R²: {r2_scores.mean():.2f}")
 
-        plt.figure(figsize=(10, 6))
-        plt.barh(feature_names, importance_scores)
-        plt.xlabel("Importance Score")
-        plt.ylabel("Features")
-        plt.title("Geopolitical Factors Impacting Supply Chain Disruption")
-        plt.tight_layout()
-        plt.show()
+        return rmse_scores, r2_scores
 
-    def save_model(self, file_path: str):
-        """
-        Save the trained model to disk.
+    def feature_importance(self):
+        """Return feature importance scores."""
+        if self.model is None:
+            raise ValueError("Model not trained yet.")
+        importance = pd.Series(self.model.feature_importances_)
+        logger.info("Feature importance extracted.")
+        return importance
 
-        Args:
-            file_path (str): File path to save the model.
-        """
-        if not self.is_trained:
-            raise ValueError("Model must be trained before saving.")
-        joblib.dump(self.model, file_path)
+    def save_model(self, path="data/modeled/risk_model.json"):
+        """Save trained model to disk."""
+        if self.model is None:
+            raise ValueError("Model not trained yet.")
+        self.model.save_model(path)
+        logger.info(f"Model saved to {path}")
 
-    def load_model(self, file_path: str):
-        """
-        Load a trained model from disk.
+    def save_feature_importance(self, df, top_n=10):
+        """Save top N feature importances to CSV for dashboard use."""
+        importance = pd.Series(self.model.feature_importances_, index=self.feature_names)
+        importance = importance.sort_values(ascending=False).head(top_n).reset_index()
+        importance.columns = ["feature", "importance"]
 
-        Args:
-            file_path (str): File path to load the model from.
-        """
-        self.model = joblib.load(file_path)
-        self.is_trained = True
-        return self.model
+        path = "data/modeled/feature_importance.csv"
+        importance.to_csv(path, index=False)
+        logger.info(f"💾 Feature importance saved to {path}")
+

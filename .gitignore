@@ -7,6 +7,7 @@ __pycache__/
 *.egg-info/
 *.egg
 *.log
+setup_project.py
 
 # --- Virtual environments ---
 .venv/

@@ -1,0 +1,13 @@
+metric,value
+Mean RMSE,0.4246665849629457
+Mean R²,0.9564567763104425
+estimated_cost_musd,0.47266048
+supplier_diversification_score,0.15179911
+import_volume_kbpd,0.14042825
+supply_chain_disruption_index,0.058903094
+avg_delivery_delay_days,0.042952918
+me_dependency_reduction_pct,0.030587425
+date_key,0.026898205
+spr_days_cover,0.015505655
+input_cost_increase_pct,0.009597405
+me_share_pct,0.009035493

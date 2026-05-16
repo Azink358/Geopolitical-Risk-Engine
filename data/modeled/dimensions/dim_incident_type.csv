@@ -1,0 +1,16 @@
+incident_type_key,incident_type
+1,Port Closure (Military)
+2,Maritime Corridor Suspension
+3,Houthi Anti-Ship Missile
+4,IRGC Fast-Boat Harassment
+5,Coalition Naval Escort Delay
+6,Drone Strike Near Vessel
+7,Oil Spill from Damaged Tanker
+8,Insurance No-Go Zone Declaration
+9,Piracy / Armed Boarding
+10,Missile Attack on Tanker
+11,Unexploded Ordnance Discovery
+12,Cyber-Attack on Port Systems
+13,Military Blockade Enforcement
+14,Naval Mine Detonation
+15,GPS Spoofing / Jamming Incident

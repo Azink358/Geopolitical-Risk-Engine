@@ -1,62 +1,57 @@
 import logging
-import yaml
-from pathlib import Path
-import pandas as pd
-
 
 class Validator:
-    def __init__(self, schema_path="schema.yaml"):
-        # Configure logging once
-        logging.basicConfig(
-            level=logging.INFO,
-            format="%(asctime)s [%(levelname)s] %(message)s",
-            handlers=[logging.StreamHandler()]
-        )
-        self.logger = logging.getLogger(__name__)
+    """
+    Validator enforces schema compliance for fact tables.
 
-        # Accept either a path or a dict
-        if isinstance(schema_path, (str, Path)):
-            with open(schema_path, "r", encoding="utf-8") as f:
-                self.schema = yaml.safe_load(f)
-        elif isinstance(schema_path, dict):
-            self.schema = schema_path
+    Responsibilities:
+      - Ensure grain columns have no nulls
+      - Ensure grain columns are unique (no duplicates)
+      - Verify required metrics exist in the DataFrame
+      - Provide logging feedback for validation steps
+    """
+
+    def __init__(self):
+        # Configure logger for Validator
+        logging.basicConfig(level=logging.INFO, format="INFO:%(name)s:%(message)s")
+        self.logger = logging.getLogger(self.__class__.__name__)
+
+    def validate_fact(self, df, grain_cols, metrics=None):
+        """
+        Validate a fact table against schema rules.
+
+        Parameters
+        ----------
+        df : pd.DataFrame
+            Fact table DataFrame to validate
+        grain_cols : list
+            List of grain columns that define uniqueness
+        metrics : list, optional
+            List of required metric columns (from schema.yaml)
+
+        Raises
+        ------
+        ValueError
+            If nulls or duplicates are found in grain columns,
+            or if required metrics are missing
+        """
+
+        # 1. Null check
+        if df[grain_cols].isnull().any().any():
+            raise ValueError(f"❌ Nulls found in grain columns {grain_cols}")
         else:
-            raise TypeError("schema_path must be a str, Path, or dict")
+            self.logger.info(f"✅ No nulls in grain columns {grain_cols}")
 
-    def _get_fact_def(self, fact_name: str):
-        return next((f for f in self.schema.get("facts", []) if f.get("name") == fact_name), None)
+        # 2. Duplicate check
+        if df.duplicated(subset=grain_cols).any():
+            raise ValueError(f"❌ Duplicates found on grain {grain_cols}")
+        else:
+            self.logger.info(f"✅ No duplicates on grain {grain_cols}")
 
-    def _get_dim_def(self, dim_name: str):
-        return next((d for d in self.schema.get("dimensions", []) if d.get("name") == dim_name), None)
-
-    def validate_fact(self, fact_name: str, df: pd.DataFrame):
-        fact_def = self._get_fact_def(fact_name)
-        if not fact_def:
-            raise ValueError(f"Fact {fact_name} not found in schema.yaml")
-
-        expected_cols = fact_def.get("grain", []) + fact_def.get("measures", [])
-        missing = [c for c in expected_cols if c not in df.columns]
-        extra = [c for c in df.columns if c not in expected_cols]
-
-        if missing:
-            raise ValueError(f"{fact_name} missing columns: {missing}")
-        if extra:
-            self.logger.warning("%s has extra columns not in schema: %s", fact_name, extra)
-
-        self.logger.info("✅ %s validated successfully (%d rows)", fact_name, len(df))
-
-    def validate_dimension(self, dim_name: str, df: pd.DataFrame):
-        dim_def = self._get_dim_def(dim_name)
-        if not dim_def:
-            raise ValueError(f"Dimension {dim_name} not found in schema.yaml")
-
-        expected_cols = dim_def.get("attributes", [])
-        missing = [c for c in expected_cols if c not in df.columns]
-        extra = [c for c in df.columns if c not in expected_cols]
-
-        if missing:
-            raise ValueError(f"{dim_name} missing columns: {missing}")
-        if extra:
-            self.logger.warning("%s has extra columns not in schema: %s", dim_name, extra)
-
-        self.logger.info("✅ %s validated successfully (%d rows)", dim_name, len(df))
+        # 3. Metrics existence check
+        if metrics:
+            missing = [m for m in metrics if m not in df.columns]
+            if missing:
+                raise ValueError(f"❌ Missing required metrics: {missing}")
+            else:
+                self.logger.info(f"✅ All required metrics present: {metrics}")

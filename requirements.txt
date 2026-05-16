@@ -10,3 +10,5 @@ pyyaml
 python-dotenv
 joblib
 plotly
+altair
+vega-datasets
