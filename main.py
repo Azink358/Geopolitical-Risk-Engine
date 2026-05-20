@@ -1,4 +1,3 @@
-# main.py
 import argparse
 import logging
 import pandas as pd
@@ -143,5 +142,5 @@ if __name__ == "__main__":
         build_features=not args.no_features,
         persist=not args.no_persist,
         train_model=args.train_model,
-        run_cv=args.cv,  # <-- NEW parameter
+        run_cv=args.cv
     )

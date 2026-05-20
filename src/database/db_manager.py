@@ -1,4 +1,3 @@
-# src/database/db_manager.py
 import os
 import pandas as pd
 import sqlalchemy
@@ -19,7 +18,7 @@ class DBManager:
             raise ValueError("DATABASE_URL not found in .env")
         self.engine = sqlalchemy.create_engine(db_url)
 
-    def save_table(self, df: pd.DataFrame, table_name: str, if_exists="replace"):
+    def save_table(self, df: pd.DataFrame, table_name: str):
         """Save DataFrame to database table."""
         df.to_sql(table_name, self.engine, index=False, if_exists="replace")
         print(f"✅ Saved {table_name} to database.")

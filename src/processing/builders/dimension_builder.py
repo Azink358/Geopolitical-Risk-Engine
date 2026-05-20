@@ -31,7 +31,7 @@ class DimensionBuilder(BasePipeline):
         super().__init__(schema_path)
         self.output_dir = self.schema["output"]["dimensions"]
 
-    def _build_dimension(self, df: pd.DataFrame, col: str, key_col: str, name: str) -> pd.DataFrame:
+    def build_dimension(self, df: pd.DataFrame, col: str, key_col: str, name: str) -> pd.DataFrame:
         """
         Generic dimension builder.
         - Deduplicates values
@@ -77,8 +77,8 @@ class DimensionBuilder(BasePipeline):
         return dim
 
     # ---------------- DIMENSION BUILDERS ----------------
-    def build_dim_country(self, df): return self._build_dimension(df, "country", "country_key", "dim_country")
-    def build_dim_sector(self, df): return self._build_dimension(df, "sector", "sector_key", "dim_sector")
+    def build_dim_country(self, df): return self.build_dimension(df, "country", "country_key", "dim_country")
+    def build_dim_sector(self, df): return self.build_dimension(df, "sector", "sector_key", "dim_sector")
 
     def build_dim_route(self, df):
         dim = df[["route"]].drop_duplicates(keep="first").reset_index(drop=True)
@@ -127,13 +127,13 @@ class DimensionBuilder(BasePipeline):
         return dim
 
     def build_dim_flag_state(self, df):
-        return self._build_dimension(df, "flag_state", "flag_state_key", "dim_flag_state")
+        return self.build_dimension(df, "flag_state", "flag_state_key", "dim_flag_state")
 
-    def build_dim_fuel_type(self, df): return self._build_dimension(df, "fuel_type", "fuel_type_key", "dim_fuel_type")
-    def build_dim_incident_type(self, df): return self._build_dimension(df, "incident_type", "incident_type_key", "dim_incident_type")
-    def build_dim_severity(self, df): return self._build_dimension(df, "severity", "severity_key", "dim_severity")
-    def build_dim_response_category(self, df): return self._build_dimension(df, "response_category", "response_category_key", "dim_response_category")
-    def build_dim_conflict_phase(self, df): return self._build_dimension(df, "conflict_phase", "conflict_phase_key", "dim_conflict_phase")
+    def build_dim_fuel_type(self, df): return self.build_dimension(df, "fuel_type", "fuel_type_key", "dim_fuel_type")
+    def build_dim_incident_type(self, df): return self.build_dimension(df, "incident_type", "incident_type_key", "dim_incident_type")
+    def build_dim_severity(self, df): return self.build_dimension(df, "severity", "severity_key", "dim_severity")
+    def build_dim_response_category(self, df): return self.build_dimension(df, "response_category", "response_category_key", "dim_response_category")
+    def build_dim_conflict_phase(self, df): return self.build_dimension(df, "conflict_phase", "conflict_phase_key", "dim_conflict_phase")
 
     def run_all(self, dfs: dict) -> dict:
         """

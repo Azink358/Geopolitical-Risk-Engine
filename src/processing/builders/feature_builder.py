@@ -16,7 +16,8 @@ class FeatureBuilder(BasePipeline):
         super().__init__(schema_path)
         self.output_dir = self.schema["output"]["features"]
 
-    def enforce_keys(self, df, keys):
+    @staticmethod
+    def enforce_keys(df, keys):
         """Force keys to nullable integer type."""
         for k in keys:
             if k in df.columns:
