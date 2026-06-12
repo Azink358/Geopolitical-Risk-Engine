@@ -6,7 +6,7 @@ from src.processing.builders.fact_builder import FactBuilder
 from src.processing.builders.feature_builder import FeatureBuilder
 from src.processing.builders.base_pipeline import BasePipeline
 from src.database.db_manager import DBManager
-from src.models.risk_predictor import RiskPredictor  # <-- NEW import
+from src.models.risk_predictor import RiskPredictor
 
 # === Configure logging globally ===
 logging.basicConfig(
@@ -19,7 +19,7 @@ def run_pipeline(schema_path="schema.yaml", env_path=".env",
                  build_dims=True, build_facts=True, build_features=True,
                  persist=True, train_model=False, run_cv=False):
     base = BasePipeline(schema_path)
-    db = DBManager(env_path)
+    db = DBManager(env_path)  # DBManager now supports dual persistence
 
     # === Step 1: Load raw data ===
     dfs = {
@@ -40,7 +40,7 @@ def run_pipeline(schema_path="schema.yaml", env_path=".env",
         dims = dim_builder.run_all(dfs)
         if persist:
             for name, df in dims.items():
-                db.save_table(df, f"dim_{name}")
+                db.save_table_dual(df, f"dim_{name}")  # dual save
 
     # === Step 3: Build facts ===
     if build_facts:
@@ -48,7 +48,7 @@ def run_pipeline(schema_path="schema.yaml", env_path=".env",
         facts = fact_builder.run_all(dfs, dims)
         if persist:
             for name, df in facts.items():
-                db.save_table(df, f"fact_{name}")
+                db.save_table_dual(df, f"fact_{name}")  # dual save
 
     # === Step 4: Build features ===
     if build_features:
@@ -62,7 +62,7 @@ def run_pipeline(schema_path="schema.yaml", env_path=".env",
             facts.get("price", pd.DataFrame()),
         )
         if persist:
-            db.save_table(final_features, "final_feature_table")
+            db.save_table_dual(final_features, "final_feature_table")  # dual save
 
     # === Step 5: Train model (optional) ===
     if train_model and final_features is not None:
@@ -70,7 +70,7 @@ def run_pipeline(schema_path="schema.yaml", env_path=".env",
         df = predictor.load_features()
         rmse, r2 = predictor.train(df)
         predictor.save_model()
-        predictor.save_feature_importance(df)  # <-- NEW line
+        predictor.save_feature_importance(df)
         logging.info(f"✅ Risk model trained. RMSE={rmse:.2f}, R²={r2:.2f}")
 
     # === Step 6: Cross-validation (optional) ===
@@ -79,7 +79,6 @@ def run_pipeline(schema_path="schema.yaml", env_path=".env",
         df = predictor.load_features()
         rmse_scores, r2_scores = predictor.cross_validate(df, n_splits=5)
 
-        # Export CV results to CSV
         cv_df = pd.DataFrame({
             "fold": list(range(1, len(rmse_scores) + 1)),
             "rmse": rmse_scores,
@@ -89,7 +88,7 @@ def run_pipeline(schema_path="schema.yaml", env_path=".env",
         cv_df.to_csv(cv_path, index=False)
         logging.info(f"💾 Cross-validation results saved to {cv_path}")
 
-        # === Step 7: Consolidated summary export ===
+    # === Step 7: Consolidated summary export ===
     if train_model and final_features is not None:
         try:
             importance_df = pd.read_csv("data/modeled/feature_importance.csv")
@@ -130,7 +129,7 @@ if __name__ == "__main__":
     parser.add_argument("--no-features", action="store_true", help="Skip building features")
     parser.add_argument("--no-persist", action="store_true", help="Skip persisting to database")
     parser.add_argument("--train-model", action="store_true", help="Train risk predictor model after pipeline")
-    parser.add_argument("--cv", action="store_true", help="Run k-fold cross-validation after pipeline")  # <-- NEW flag
+    parser.add_argument("--cv", action="store_true", help="Run k-fold cross-validation after pipeline")
 
     args = parser.parse_args()
 

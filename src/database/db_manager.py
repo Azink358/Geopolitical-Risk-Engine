@@ -3,31 +3,48 @@ import pandas as pd
 import sqlalchemy
 from dotenv import load_dotenv
 
+try:
+    import streamlit as st
+except ImportError:
+    st = None  # Streamlit not available locally
+
 class DBManager:
     """
-    DBManager: Handles database persistence for modeled data.
-    - Reads DATABASE_URL from .env
-    - Connects to Postgres
-    - Saves/loads dimension, fact, and feature tables
+    DBManager: Handles persistence to both local Postgres and Supabase.
+    - Local: reads DATABASE_URL from .env
+    - Cloud: reads DATABASE_URL from st.secrets (if available)
     """
 
     def __init__(self, env_path=".env"):
         load_dotenv(env_path)
-        db_url = os.getenv("DATABASE_URL")
-        if not db_url:
-            raise ValueError("DATABASE_URL not found in .env")
-        self.engine = sqlalchemy.create_engine(db_url)
 
-    def save_table(self, df: pd.DataFrame, table_name: str):
-        """Save DataFrame to database table."""
-        df.to_sql(table_name, self.engine, index=False, if_exists="replace")
-        print(f"✅ Saved {table_name} to database.")
+        # Local connection
+        local_url = os.getenv("DATABASE_URL")
+        self.local_engine = sqlalchemy.create_engine(local_url) if local_url else None
 
-    def load_table(self, table_name: str) -> pd.DataFrame:
-        """Load table from database into DataFrame."""
-        return pd.read_sql_table(table_name, self.engine)
+        # Supabase connection (only if running in Streamlit with secrets)
+        cloud_url = None
+        if st is not None:
+            try:
+                cloud_url = st.secrets["DATABASE_URL"]
+            except Exception:
+                cloud_url = None
+        self.cloud_engine = sqlalchemy.create_engine(cloud_url) if cloud_url else None
 
-    def list_tables(self):
-        """List all tables in the database."""
-        inspector = sqlalchemy.inspect(self.engine)
+    def save_table_dual(self, df: pd.DataFrame, table_name: str):
+        """Save DataFrame to both local and Supabase (if available)."""
+        if self.local_engine:
+            df.to_sql(table_name, self.local_engine, index=False, if_exists="replace")
+            print(f"✅ Saved {table_name} to Local Postgres.")
+        if self.cloud_engine:
+            df.to_sql(table_name, self.cloud_engine, index=False, if_exists="replace")
+            print(f"🌐 Saved {table_name} to Supabase.")
+
+    def load_table(self, table_name: str, use_cloud=False) -> pd.DataFrame:
+        engine = self.cloud_engine if use_cloud else self.local_engine
+        return pd.read_sql_table(table_name, engine)
+
+    def list_tables(self, use_cloud=False):
+        engine = self.cloud_engine if use_cloud else self.local_engine
+        inspector = sqlalchemy.inspect(engine)
         return inspector.get_table_names()

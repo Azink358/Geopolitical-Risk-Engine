@@ -9,16 +9,24 @@ from sqlalchemy import create_engine
 
 # --- Load environment variables ---
 load_dotenv()
-DB_HOST = os.getenv("DB_HOST")
-DB_PORT = os.getenv("DB_PORT", "5432")
-DB_NAME = os.getenv("DB_NAME")
-DB_USER = os.getenv("DB_USER")
-DB_PASSWORD = os.getenv("DB_PASSWORD")
+
+# Try Supabase first (Streamlit Cloud secrets)
+db_url = None
+if st.secrets:  # only available in Streamlit Cloud
+    try:
+        db_url = st.secrets["DATABASE_URL"]
+        st.sidebar.success("🌐 Connected to Supabase")
+    except Exception:
+        db_url = None
+
+# Fallback to local .env
+if not db_url:
+    db_url = os.getenv("DATABASE_URL")
+    st.sidebar.warning("🖥️ Connected to Local Postgres")
 
 # --- Create SQLAlchemy engine once ---
-engine = create_engine(
-    f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
-)
+engine = create_engine(db_url)
+
 
 # --- Database helper ---
 def get_data(query: str) -> pd.DataFrame:
