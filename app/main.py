@@ -12,21 +12,17 @@ load_dotenv()
 
 # Try Supabase first (Streamlit Cloud secrets)
 db_url = None
-if st.secrets:  # only available in Streamlit Cloud
-    try:
-        db_url = st.secrets["DATABASE_URL"]
-        st.sidebar.success("🌐 Connected to Supabase")
-    except Exception:
-        db_url = None
-
-# Fallback to local .env
-if not db_url:
+if hasattr(st, "secrets") and "DATABASE_URL" in st.secrets:
+    db_url = st.secrets["DATABASE_URL"]
+    st.sidebar.success("🌐 Connected to Supabase")
+else:
+    # Fallback to local .env
     db_url = os.getenv("DATABASE_URL")
     st.sidebar.warning("🖥️ Connected to Local Postgres")
 
 # --- Create SQLAlchemy engine once ---
-engine = create_engine(db_url)
-
+# Ensure psycopg2 driver + SSL
+engine = create_engine(db_url, connect_args={"sslmode": "require"})
 
 # --- Database helper ---
 def get_data(query: str) -> pd.DataFrame:
