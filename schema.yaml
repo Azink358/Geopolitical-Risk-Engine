@@ -25,7 +25,7 @@ logging:
 model:
   dimensions:
     - name: dim_country
-      attributes: [country_key, country, region]
+      attributes: [country_key, country]
 
     - name: dim_date
       attributes: [date_key, date, year, month, week]

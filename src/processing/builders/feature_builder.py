@@ -96,7 +96,7 @@ class FeatureBuilder(BasePipeline):
             # Merge price only on date_key + conflict_phase_key (no country_key)
             final_features = final_features.merge(price_agg, on=["date_key","conflict_phase_key"], how="left")
 
-        # === Save final recruiter‑ready feature table ===
+        # === Save final feature table ===
         os.makedirs(self.output_dir, exist_ok=True)
         file_path = os.path.join(self.output_dir, "final_feature_table.csv")
         final_features.to_csv(file_path, index=False)

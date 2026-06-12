@@ -103,13 +103,13 @@ with tab1:
 
     # Recruiter-facing narrative
     st.markdown(f"""
-    ### Recruiter-Facing Narrative
+    ### Insights
     The filtered selection shows **{len(df_disruption)} disruption events**.  
     Average delays of **{round(df_disruption['estimated_delay_hours'].mean(),1)} hours** translate into
     significant cargo bottlenecks (**{int(df_disruption['cargo_volume_impacted_kt'].sum())} kilotons impacted**).  
 
     The world map visualization highlights how disruptions are geographically distributed,
-    turning raw lat/lon data into a clear global risk picture — a skill recruiters value in analytics portfolios.
+    turning raw lat/lon data into a clear global risk picture.
     """)
 
 
@@ -270,7 +270,7 @@ with tab2:
 
     # Recruiter-facing narrative
     st.markdown(f"""
-    ### Recruiter-Facing Narrative
+    ### Insights
     Tab 2 focuses on the four vessel types with complete freight and insurance economics:  
     **VLCC, Suezmax, Aframax, LNG Carrier**.  
 
@@ -278,7 +278,7 @@ with tab2:
     war risk premiums of **{round(df_shipping['war_risk_premium_pct'].mean(),1)}%**, and bunker costs of 
     **{round(df_shipping['bunker_cost_usd_mt'].mean(),1)} USD/mt** are tied directly to geographic lanes.  
 
-    This ensures the dashboard remains clean, accurate, and recruiter‑ready by focusing only on vessels with valid shipping economics data.
+    This ensures the dashboard remains clean, accurate and  by focusing only on vessels with valid shipping economics data.
     """)
 
 
@@ -377,7 +377,7 @@ with tab3:
 
     # Recruiter-facing narrative
     st.markdown(f"""
-    ### Recruiter-Facing Narrative
+    ### Insights
     Tab 3 elevates the analysis to the **national level**.  
     Countries face varying degrees of risk depending on their import dependency and supply chain resilience.  
 
@@ -385,7 +385,7 @@ with tab3:
     delivery delays of **{round(df_country['avg_delivery_delay_days'].mean(),1)} days**, and import risk scores of 
     **{round(df_country['disruption_risk_score'].mean(),1)}** highlight how disruptions translate into economic vulnerability.  
 
-    This tab demonstrates schema discipline by joining supply chain and import facts, showing recruiters how operational disruptions scale into strategic geopolitical risk.
+    This tab demonstrates schema discipline by joining supply chain and import facts, showing how operational disruptions scale into strategic geopolitical risk.
     """)
 
 
@@ -473,7 +473,7 @@ with tab4:
 
     # Recruiter-facing narrative
     st.markdown(f"""
-    ### Recruiter-Facing Narrative
+    ### Insights
     Tab 4 highlights **industry vulnerabilities** using supply chain data joined with sector dimensions.  
     Sectors such as shipping, aviation, manufacturing, and energy show different levels of disruption.  
 
@@ -481,7 +481,7 @@ with tab4:
     input cost increases of **{round(df_sector['input_cost_increase_pct'].mean(),1)}%**, and inventory stress scores of 
     **{round(df_sector['inventory_stress_score'].mean(),1)}** demonstrate how operational shocks ripple through industries.  
 
-    This tab bridges national exposure (Tab 3) with industry‑level consequences, showing recruiters how schema‑driven analytics scale from macro disruptions to sector‑specific impacts.
+    This tab bridges national exposure (Tab 3) with industry‑level consequences, showing how schema‑driven analytics scale from macro disruptions to sector‑specific impacts.
     """)
 
 
@@ -570,7 +570,7 @@ with tab5:
 
     # Recruiter-facing narrative
     st.markdown(f"""
-    ### Recruiter-Facing Narrative
+    ### Insights
     Tab 5 showcases **strategic measures** taken by governments and firms.  
     Responses are categorized (via `dim_response_category`) into buckets such as SPR cover, diversification, and cost absorption.  
 
@@ -578,7 +578,7 @@ with tab5:
     effectiveness scores of **{round(df_policy['effectiveness_score'].mean(),1)}**, and dependency reductions of 
     **{round(df_policy['me_dependency_reduction_pct'].mean(),1)}%** highlight the trade‑offs in resilience strategies.  
 
-    This tab completes the narrative arc: from disruptions and shipping economics, through country and sector vulnerabilities, to the **policy responses** that shape resilience. Recruiters see how schema‑driven analytics connect tactical shocks to strategic decisions.
+    This tab completes the insights arc: from disruptions and shipping economics, through country and sector vulnerabilities, to the **policy responses** that shape resilience. How schema‑driven analytics connect tactical shocks to strategic decisions.
     """)
 
 
@@ -616,7 +616,7 @@ with tab6:
     ### Recruiter-Facing Narrative
     Cross-validation confirms stability: mean RMSE **{cv_df['rmse'].mean():.2f}**, mean R² **{cv_df['r2'].mean():.2f}**.  
     Feature importance highlights the strongest drivers of GDP impact, such as **{importance_df.iloc[0,0]}** and **{importance_df.iloc[1,0]}**.  
-    The consolidated summary file provides a one-click recruiter pack combining validation and interpretability.
+    The consolidated summary file provides a one-click pack combining validation and interpretability.
     """)
 
 
