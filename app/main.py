@@ -14,14 +14,14 @@ load_dotenv()
 db_url = None
 if hasattr(st, "secrets") and "DATABASE_URL" in st.secrets:
     db_url = st.secrets["DATABASE_URL"]
-    st.sidebar.success("🌐 Connected to Supabase")
+    st.sidebar.success("🌐 Connected to Supabase Pooler")
 else:
     # Fallback to local .env
     db_url = os.getenv("DATABASE_URL")
     st.sidebar.warning("🖥️ Connected to Local Postgres")
 
 # --- Create SQLAlchemy engine once ---
-# Ensure psycopg2 driver + SSL
+# Pooler is IPv4-compatible, enforce SSL
 engine = create_engine(db_url, connect_args={"sslmode": "require"})
 
 # --- Database helper ---
