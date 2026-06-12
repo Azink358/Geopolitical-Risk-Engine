@@ -34,11 +34,34 @@ class DBManager:
     def save_table_dual(self, df: pd.DataFrame, table_name: str):
         """Save DataFrame to both local and Supabase (if available)."""
         if self.local_engine:
-            df.to_sql(table_name, self.local_engine, index=False, if_exists="replace")
-            print(f"✅ Saved {table_name} to Local Postgres.")
+            try:
+                with self.local_engine.begin() as conn:
+                    df.to_sql(
+                        table_name,
+                        conn,
+                        index=False,
+                        if_exists="replace",
+                        method="multi",
+                        chunksize=1000
+                    )
+                print(f"✅ Saved {table_name} to Local Postgres.")
+            except Exception as e:
+                print(f"❌ Local save failed for {table_name}: {e}")
+
         if self.cloud_engine:
-            df.to_sql(table_name, self.cloud_engine, index=False, if_exists="replace")
-            print(f"🌐 Saved {table_name} to Supabase.")
+            try:
+                with self.cloud_engine.begin() as conn:
+                    df.to_sql(
+                        table_name,
+                        conn,
+                        index=False,
+                        if_exists="replace",
+                        method="multi",
+                        chunksize=1000
+                    )
+                print(f"🌐 Saved {table_name} to Supabase.")
+            except Exception as e:
+                print(f"❌ Supabase save failed for {table_name}: {e}")
 
     def load_table(self, table_name: str, use_cloud=False) -> pd.DataFrame:
         engine = self.cloud_engine if use_cloud else self.local_engine
